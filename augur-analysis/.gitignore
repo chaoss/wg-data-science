@@ -90,3 +90,6 @@ target/
 
 # Config files and other data
 .json
+
+#config file
+config_temp.json
