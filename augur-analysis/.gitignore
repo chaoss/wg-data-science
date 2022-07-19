@@ -93,3 +93,6 @@ target/
 
 #config file
 config_temp.json
+
+# virtual env
+test-env/
