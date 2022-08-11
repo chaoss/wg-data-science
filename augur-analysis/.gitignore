@@ -93,3 +93,7 @@ target/
 
 #config file
 config_temp.json
+
+# avoid virtual env folder by adding / at the end of the file name
+test-env/
+
