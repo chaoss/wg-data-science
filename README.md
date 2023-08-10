@@ -33,7 +33,7 @@ This is a new working group within the CHAOSS project to support our Data Scienc
 
 A section guiding the user on how to join the working group.
 
-- Link to the Agenda/Meeting-Minutes document
+- [Agenda/Meeting-Minutes](https://docs.google.com/document/d/1jkAfGt97OGRwcdEn8hh5YyHQwoXRnOW96ikc_Aluo6M/edit)
 - Join us in the #data-science channel within the CHAOSS Slack Workspace.
 - Learn on the [Participate](https://chaoss.community/participate/) page on the website
 
