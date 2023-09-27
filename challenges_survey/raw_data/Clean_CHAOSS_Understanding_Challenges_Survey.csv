@@ -1,0 +1,46 @@
+What type of organization do you work for?,Do you work in an Open Source Program Office (OSPO) or similar open source team?,Which of these best describes your role or position?,"Have you contributed to the CHAOSS project (including non-code contributions, e.g., metrics definitions, documentation, presentations, blog posts, meeting attendance)? ",Which of these have you used or tried to use?,How long have you been using CHAOSS tools or custom code that implements CHAOSS metrics?,"Rank order the challenges you have faced using CHAOSS tools. If any don’t apply 
+to you, select the option labeled ‘NA’ (Not Applicable).
+1 is most challenging and 7 is least challenging.  [Installing / configuring software]","Rank order the challenges you have faced using CHAOSS tools. If any don’t apply 
+to you, select the option labeled ‘NA’ (Not Applicable).
+1 is most challenging and 7 is least challenging.  [Maintaining software over time]","Rank order the challenges you have faced using CHAOSS tools. If any don’t apply 
+to you, select the option labeled ‘NA’ (Not Applicable).
+1 is most challenging and 7 is least challenging.  [Cleaning up the data (e.g., merge duplicate contributors, company affiliation)]","Rank order the challenges you have faced using CHAOSS tools. If any don’t apply 
+to you, select the option labeled ‘NA’ (Not Applicable).
+1 is most challenging and 7 is least challenging.  [Finding the data / metrics you want to use]","Rank order the challenges you have faced using CHAOSS tools. If any don’t apply 
+to you, select the option labeled ‘NA’ (Not Applicable).
+1 is most challenging and 7 is least challenging.  [Drawing meaningful insights out of the data]","Rank order the challenges you have faced using CHAOSS tools. If any don’t apply 
+to you, select the option labeled ‘NA’ (Not Applicable).
+1 is most challenging and 7 is least challenging.  [Communicating meaningful insights to others, including executives]","Rank order the challenges you have faced using CHAOSS tools. If any don’t apply 
+to you, select the option labeled ‘NA’ (Not Applicable).
+1 is most challenging and 7 is least challenging.  [Getting others within your company / community to use the software]"
+University or other academic institution,Yes,"Development or operations focused (e.g., developer, sys admin)",Currently contributing to the CHAOSS project,Augur,Less than 1 year,3,2,4,1,NA,NA,NA
+For-profit company,Yes,"Leadership (e.g., primarily manage other people)","Past contributor, but no longer contributing",GrimoireLab (including users of Bitergia’s platform and Cauldron),More than 3 years,1,2,3,7,4,6,2
+None of the above,No,consultancy,"Past contributor, but no longer contributing",GrimoireLab (including users of Bitergia’s platform and Cauldron),More than 3 years,5,NA,7,3,2,1,4
+University or other academic institution,Yes,"Leadership (e.g., primarily manage other people)",Currently contributing to the CHAOSS project,"Augur, GrimoireLab (including users of Bitergia’s platform and Cauldron)",2 - 3 years,1,2,3,5,4,NA,NA
+For-profit company,Yes,"Development or operations focused (e.g., developer, sys admin)",Currently contributing to the CHAOSS project,"Augur, GrimoireLab (including users of Bitergia’s platform and Cauldron)",1 - 2 years,6,5,1,4,3,7,NA
+For-profit company,Yes,"Leadership (e.g., primarily manage other people)",Currently contributing to the CHAOSS project,Augur,1 - 2 years,2,1,1,1,1,3,4
+University or other academic institution,No,"Community focused (e.g., community manager)",Currently contributing to the CHAOSS project,"Augur, GrimoireLab (including users of Bitergia’s platform and Cauldron)",Less than 1 year,1,NA,4,2,7,7,NA
+None of the above,No,"Development or operations focused (e.g., developer, sys admin)",Never contributed to CHAOSS,GrimoireLab (including users of Bitergia’s platform and Cauldron),I haven’t used CHAOSS tools,NA,NA,4,4,5,NA,NA
+For-profit company,Yes,"Leadership (e.g., primarily manage other people)",Currently contributing to the CHAOSS project,"Augur, GrimoireLab (including users of Bitergia’s platform and Cauldron)",More than 3 years,2,6,5,7,7,7,5
+For-profit company,Yes,"Community focused (e.g., community manager)","Past contributor, but no longer contributing",GrimoireLab (including users of Bitergia’s platform and Cauldron),2 - 3 years,1,NA,2,1,2,2,2
+None of the above,No,Consultant,"Past contributor, but no longer contributing","Augur, GrimoireLab (including users of Bitergia’s platform and Cauldron)",More than 3 years,1,7,6,5,3,2,4
+For-profit company,Yes,"OSPO Lead, direct activities and liaison with CISO/Eng/Legal",Never contributed to CHAOSS,Commercial tools with project Health metrics like Snyk,I haven’t used CHAOSS tools,3,2,NA,NA,NA,NA,2
+For-profit company,No,"Community focused (e.g., community manager)",Currently contributing to the CHAOSS project,GrimoireLab (including users of Bitergia’s platform and Cauldron),2 - 3 years,NA,NA,1,3,1,3,4
+For-profit company,Yes,"Development or operations focused (e.g., developer, sys admin)","Past contributor, but no longer contributing","Augur, GrimoireLab (including users of Bitergia’s platform and Cauldron)",1 - 2 years,5,NA,NA,2,1,1,1
+For-profit company,Yes,Program Manager,Currently contributing to the CHAOSS project,"Augur, GrimoireLab (including users of Bitergia’s platform and Cauldron), DEI.md",1 - 2 years,3,NA,NA,3,3,3,NA
+Nonprofit,Yes,"Community focused (e.g., community manager)",Currently contributing to the CHAOSS project,"Augur, GrimoireLab (including users of Bitergia’s platform and Cauldron)",Less than 1 year,NA,NA,NA,6,6,6,2
+None of the above,Yes,"Development or operations focused (e.g., developer, sys admin)",Never contributed to CHAOSS,GrimoireLab (including users of Bitergia’s platform and Cauldron),More than 3 years,6,3,1,4,2,1,7
+For-profit company,Yes,"Community focused (e.g., community manager)",Currently contributing to the CHAOSS project,"MergeStat, CNCF DevStats",I haven’t used CHAOSS tools,4,6,5,1,2,3,7
+For-profit company,Yes,"Data focused (e.g., data analysis, data science)",Currently contributing to the CHAOSS project,GrimoireLab (including users of Bitergia’s platform and Cauldron),2 - 3 years,7,7,7,7,7,7,3
+Government,Yes,"Community focused (e.g., community manager)",Never contributed to CHAOSS,"Don’t know, not sure, or haven’t used any tools",I haven’t used CHAOSS tools,NA,NA,NA,NA,NA,NA,NA
+Nonprofit,Yes,"Community focused (e.g., community manager)",Never contributed to CHAOSS,Augur,Less than 1 year,NA,NA,NA,3,3,NA,NA
+For-profit company,Yes,the first three,Currently contributing to the CHAOSS project,"Augur, GrimoireLab (including users of Bitergia’s platform and Cauldron)",More than 3 years,7,7,7,7,3,3,7
+For-profit company,Yes,"Data focused (e.g., data analysis, data science)",Currently contributing to the CHAOSS project,GrimoireLab (including users of Bitergia’s platform and Cauldron),2 - 3 years,NA,NA,NA,2,2,2,1
+For-profit company,No,"Data focused (e.g., data analysis, data science)",Currently contributing to the CHAOSS project,GrimoireLab (including users of Bitergia’s platform and Cauldron),2 - 3 years,3,6,2,5,6,2,1
+For-profit company,Yes,"Community focused (e.g., community manager)",Never contributed to CHAOSS,"Don’t know, not sure, or haven’t used any tools",I haven’t used CHAOSS tools,2,3,1,1,1,1,2
+For-profit company,No,"Community focused (e.g., community manager)",Never contributed to CHAOSS,GrimoireLab (including users of Bitergia’s platform and Cauldron),More than 3 years,1,4,3,3,6,6,2
+For-profit company,Yes,"Community focused (e.g., community manager)",Currently contributing to the CHAOSS project,"Don’t know, not sure, or haven’t used any tools",I haven’t used CHAOSS tools,7,NA,NA,NA,NA,NA,7
+For-profit company,Yes,"Leadership (e.g., primarily manage other people)",Currently contributing to the CHAOSS project,Augur,1 - 2 years,7,7,5,7,6,7,6
+For-profit company,Yes,"Leadership (e.g., primarily manage other people)",Never contributed to CHAOSS,"Augur, GrimoireLab (including users of Bitergia’s platform and Cauldron)",Less than 1 year,2,3,6,4,4,6,4
+For-profit company,Yes,"Leadership (e.g., primarily manage other people)",Never contributed to CHAOSS,"Augur, GrimoireLab (including users of Bitergia’s platform and Cauldron)",1 - 2 years,5,5,5,5,5,5,5
+None of the above,No,"Data focused (e.g., data analysis, data science)",Currently contributing to the CHAOSS project,"Augur, GrimoireLab (including users of Bitergia’s platform and Cauldron)",More than 3 years,1,2,3,6,5,7,4
