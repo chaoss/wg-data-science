@@ -1,0 +1,62 @@
+What do you see as CHAOSS project strengths (what do you love about CHAOSS)?
+
+The depth of expertise in the community
+
+CHAOSS is exceptional at community health. The community generating community health metrics is unusually healthy. 
+It is a model for good practices.
+
+Being committed to open-source is becoming frustratingly less common, so I'm glad to see an organization insisting that their work will belong to the people, and not to any hypothetical corporate backers.
+
+The passion and commitment of the CHAOSS community to provide a set of valuable metrics to describe an open source projects.
+
+Agreements over definitions
+
+CHAOSS has an active and welcoming community. The projects are interesting and useful.
+
+ease of community involvement and insight into metrics
+
+Standard metrics, and good tools
+
+The project is open and welcoming and is doing really important work! I really appreciate the extent to which newbies are able to participate.
+
+Seems interesting. Havent interacted with them much though, but it seems like they have a good mission/goal. If CHAOSS is at all related to OSI, maybe this thing a coworker sent me recently could be applicable? https://yakshav.es/non-thoughts-on-the-osi/
+
+- Creating a welcoming space for open source project leaders to connect and discuss community health indicators.  - Educating community members on the existing CHAOSS metrics and metrics models and empowering them to develop new ones to address their needs.
+
+The existence of a unified, standardized set of metrics is invaluable for determining community health and value.
+
+Great mission, great educational outreach, great conference presentations, genuinely nice people.
+
+open source, community based, non-commercial 
+
+Well respected/regarded in open source communities. Good community culture. 
+
+The promise of getting metadata about the health of my open source.
+
+Great community, solid ideas and great tooling available
+
+The community!
+
+News Ideas, and family like. 
+
+Only place I know of where these OS community metrics exist.
+
+great community, lots of smart people, diverse, energetic, welcoming
+
+Community, peer discussions, implementation stories
+
+Such a welcoming and loving community 
+
+Project health reporting. 
+
+Community-driven with real-world examples
+
+It is always improving and focusing on finding meaningful metrics to drive communities' health forward for a more equitable open source ecosystem (this is how I see CHAOSS <3)
+
+Augur really makes metrics highly visible on a large scale like I need
+
+Once set up, grimoirelab is a veeery impressive tool. I'm glad it's hosted under CHAOSS. 
+
+Standards
+
+Such an amazing community of lovely people
