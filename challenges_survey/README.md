@@ -11,8 +11,8 @@ The key takeaways include:
 * OSPOs continue to be important users of CHAOSS tools with many using both tools
 
 In the spirit of open source, the raw data is also available to the CHAOSS data science community to encourage people to explore the data in more detail. The raw data with personally identifiable data redacted can be found in the raw_data directory in this repo. The CSV file contains everything except the free form responses. Because there were very few reponses from certain groups (e.g., universities, government, nonprofit), attaching the free form responses to rest of the data made it possible to identify the person / group responsible for certain comments, so the order of the free form comments in the text documents has had the order randomized and some text redacted to prevent identification. Here are the filenames with the raw data:
-* Clean_CHAOSS_Understanding_Challenges_Survey.csv - responses to the quantitative parts of the survey
-* other_challenges_freeform_redacted.txt - free form text responses to the question, "What other challenges have you faced that weren’t in the above list or what else would you like to see us improve?"
-* strengths_freeform_redacted.txt - free form text responses to the question, "What do you see as CHAOSS project strengths (what do you love about CHAOSS)?"
-* understanding_challenges_graphs.pdf - simple graphs produced by Google forms displaying the responses for each question
+* [Clean_CHAOSS_Understanding_Challenges_Survey.csv](raw_data/Clean_CHAOSS_Understanding_Challenges_Survey.csv) - responses to the quantitative parts of the survey
+* [other_challenges_freeform_redacted.txt](raw_data/other_challenges_freeform_redacted.txt) - free form text responses to the question, "What other challenges have you faced that weren’t in the above list or what else would you like to see us improve?"
+* [strengths_freeform_redacted.txt](raw_data/strengths_freeform_redacted.txt) - free form text responses to the question, "What do you see as CHAOSS project strengths (what do you love about CHAOSS)?"
+* [understanding_challenges_graphs.pdf](raw_data/understanding_challenges_graphs.pdf) - simple graphs produced by Google forms displaying the responses for each question
 
