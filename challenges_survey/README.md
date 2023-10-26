@@ -2,7 +2,7 @@
 
 In August and September, the CHAOSS project ran a survey of existing and past users of CHAOSS tools and metrics designed to help us better understand the barriers and challenges that make it difficult for people to gain meaningful, empirically-driven community health insights using CHAOSS tools and metrics. The [blog post](https://chaoss.community/survey-help-the-chaoss-project-improve-our-tools-and-metrics) has more details about the survey.
 
-The results of this survey can be found in the [Challenges_Survey_Results_2023.pdf](Challenges_Survey_Results_2023.pdf) file, and there is also a file called [challenge_comment_categories.md] with the comments about the challenges coded into several different categories. The key takeaways include:
+The results of this survey can be found in the [Challenges_Survey_Results_2023.pdf](Challenges_Survey_Results_2023.pdf) file, and there is also a file called [challenge_comment_categories.md](challenge_comment_categories.md) with the comments about the challenges coded into several different categories. The key takeaways include:
 
 * Installing our software continues to be the biggest challenge
 * Finding data and drawing insights from the data are also top challenges
