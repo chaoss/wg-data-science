@@ -25,7 +25,7 @@ Anyone interested in data science and data analysis can join. You don't need to 
 
 ### Background
 
-This is a new working group within the CHAOSS project to support our Data Science Initiative.
+This is a working group within the CHAOSS project to support our Data Science Initiative.
  
 ## Participate
 
@@ -34,7 +34,7 @@ This is a new working group within the CHAOSS project to support our Data Scienc
 A section guiding the user on how to join the working group.
 
 - [Agenda/Meeting-Minutes](https://docs.google.com/document/d/1jkAfGt97OGRwcdEn8hh5YyHQwoXRnOW96ikc_Aluo6M/edit)
-- Join us in the #data-science channel within the CHAOSS Slack Workspace.
+- Join us in the #wg-data-science channel within the CHAOSS Slack Workspace.
 - Learn on the [Participate](https://chaoss.community/participate/) page on the website
 
 We follow the [CHAOSS Code of Conduct](https://github.com/chaoss/governance/blob/master/code-of-conduct.md)
@@ -48,6 +48,7 @@ See the [CONTRIBUTING.md](CONTRIBUTING.md) for more info.
 ### Chairs
 
 - [Dawn Foster](https://github.com/geekygirldawn)
+- [Chan Voong](https://github.com/voongc)
 
 ### Amazing CHAOSS Project Contributors
 
@@ -57,4 +58,4 @@ Link to [contributors](https://chaoss.community/metrics/#user-content-chaoss-con
 
 See [LICENSE](LICENSE) file.
 
-Copyright © 2023 - CHAOSS, a Linux Foundation Project
+Copyright © CHAOSS, a Linux Foundation Project
