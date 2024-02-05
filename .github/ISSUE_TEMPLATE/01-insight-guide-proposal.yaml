@@ -38,9 +38,9 @@ body:
     attributes:
       label: How would you like to see this guide developed?
       options:
+        - I am interested in using this guide, but I do not want to write it myself
         - I have the experience and time available to write the first draft
         - I would like to help write the guide, but I need someone with more experience in the topic to help me
-        - I am interested in using this guide, but I do not want to write it myself
         - Other (please specify in the “Additional Notes” at the end of this form)
     validations:
       required: true
