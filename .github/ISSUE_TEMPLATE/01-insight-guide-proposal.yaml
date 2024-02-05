@@ -22,7 +22,7 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: textarea
     attributes:
       label: Primary Metrics (2 - 4 metrics)
     validations:
