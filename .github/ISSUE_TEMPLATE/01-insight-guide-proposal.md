@@ -1,3 +1,4 @@
+---
 name: Insight Guide Proposal
 about: Use this template to propose new CHAOSS Insight Guides
 labels: ['insight guide', 'proposal']
@@ -50,3 +51,4 @@ body:
     validations:
       required: true
 
+---
