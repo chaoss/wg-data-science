@@ -8,7 +8,7 @@ assignees:
 body:
   - type: markdown
     attributes:
-      value: | To avoid duplication and re-work, we ask you to use this template to propose new CHAOSS Insight Guides. While metrics models are designed with collections of metrics that can be implemented together, these Insight Guides are different from metrics models. Insight guides are designed to help us humans understand how to interpret metrics within a narrow topic and make improvements based on what is learned from that interpretation. Each Insight Guide should focus on 2-4 metrics, but can include a list of additional metrics in "Step 3: Gather Additional Data if needed".
+      value: | To avoid duplication and re-work, we ask you to use this template to propose new CHAOSS Insight Guides. While metrics models are designed with collections of metrics that can be implemented together, these Insight Guides are different from metrics models. Insight guides are designed to help us humans understand how to interpret metrics within a narrow topic and make improvements based on what is learned from that interpretation. Each Insight Guide should focus on 2-4 metrics, but can include a list of additional metrics in Step 3: Gather Additional Data if needed.
 
   - type: markdown
     attributes:
