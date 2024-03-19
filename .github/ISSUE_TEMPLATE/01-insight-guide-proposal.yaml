@@ -1,7 +1,7 @@
-name: Insight Guide Proposal
-title: "[Insight Guide]: TOPIC"
-description: Use this template to propose new CHAOSS Insight Guides
-labels: ['insight guide', 'proposal']
+name: Practitioner Guide Proposal
+title: "[Practitioner Guide]: TOPIC"
+description: Use this template to propose new CHAOSS Practitioner Guides
+labels: ['practitioner guide', 'proposal']
 assignees:
   - geekygirldawn
 
@@ -9,16 +9,16 @@ body:
   - type: markdown
     attributes:
       value: | 
-        To avoid duplication and re-work, we ask you to use this template to propose new CHAOSS Insight Guides. While metrics models are designed with collections of metrics that can be implemented together, these Insight Guides are different from metrics models. Insight guides are designed to help us humans understand how to interpret metrics within a narrow topic and make improvements based on what is learned from that interpretation. Each Insight Guide should focus on 2-4 metrics, but can include a list of additional metrics in Step 3 - Gather Additional Data if needed.
+        To avoid duplication and re-work, we ask you to use this template to propose new CHAOSS Practitioner Guides. While metrics models are designed with collections of metrics that can be implemented together, these Practitioner Guides are different from metrics models. Practitioner guides are designed to help us humans understand how to interpret metrics within a narrow topic and make improvements based on what is learned from that interpretation. Each Practitioner Guide should focus on 2-4 metrics, but can include a list of additional metrics in Step 3 - Gather Additional Data if needed.
 
   - type: markdown
     attributes:
       value: |
-        ## Insight Guide Information
+        ## Practitioner Guide Information
 
   - type: input
     attributes:
-      label: Insight Guide Topic (1 - 3 words)
+      label: Practitioner Guide Topic (1 - 3 words)
     validations:
       required: true
 
