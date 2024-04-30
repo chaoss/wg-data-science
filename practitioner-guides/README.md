@@ -1,5 +1,7 @@
 # Practitioner Guides
 
+**Read the [Practitioner Guides](https://chaoss.community/about-chaoss-practitioner-guides/)**
+
 Practitioner Guides are designed to be used by practitioners who may not be experts in data analysis or open source. The goal is to help people understand how to interpret the data about an open source project to develop insights that can help improve the project health of an open source project. 
 
 ## Audience for the Guides
