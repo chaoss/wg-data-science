@@ -4,6 +4,7 @@
 
 - [Introduction](#introduction)
 - [Participate](#participate)
+- [Practitioner Guides](#practitioner-guides)
 - [Contributing](#contributing)
 - [Metrics](#metrics)
 - [Contributors](#contributors)
