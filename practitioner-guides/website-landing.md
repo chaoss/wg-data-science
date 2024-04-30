@@ -2,6 +2,11 @@ Practitioner Guides are designed to be used by practitioners who may not be expe
 
 These guides will be especially useful for Open Source Program Offices (OSPOs), project leads, community managers, maintainers, and anyone who wants to better understand project health and take action on what they learn from their metrics.
 
-**IMPORTANT! Before you begin interpreting your data using our Practitioner Guides, we highly encourage you to read the [Practitioner Guide Introduction](https://chaoss.community/practitioner-guide-introduction/).** This provides crucial context and information for all the Guides in our collection.
+**Guides**
 
-We currently have guides to help you improve [responsiveness](https://chaoss.community/practitioner-guide-responsiveness/), [contributor sustainability](https://chaoss.community/practitioner-guide-contributor-sustainability/), and [organizational participation](https://chaoss.community/practitioner-guide-organizational-participation/). We also have more guides coming soon. You can see the work in progress guides, contribute to them, and propose new guides in the [Practitioner Guides](https://github.com/chaoss/wg-data-science/tree/main/practitioner-guides) section of the CHAOSS Data Science Working Group repository.
+* [Practitioner Guide: Introduction - Things to Think about When Interpreting Metrics](https://chaoss.community/practitioner-guide-introduction/) <- Please start here
+* [Practitioner Guide: Responsiveness](https://chaoss.community/practitioner-guide-responsiveness/)
+* [Practitioner Guide: Contributor Sustainability](https://chaoss.community/practitioner-guide-contributor-sustainability/)
+* [Practitioner Guide: Organizational Participation](https://chaoss.community/practitioner-guide-organizational-participation/)
+
+We also have more guides coming soon. You can see the work in progress guides, contribute to them, and propose new guides in the [Practitioner Guides](https://github.com/chaoss/wg-data-science/tree/main/practitioner-guides) section of the CHAOSS Data Science Working Group repository.
