@@ -5,7 +5,7 @@ Primary metrics:
 * [Contributors](https://chaoss.community/?p=3467)
 * [Types of Contributions](https://chaoss.community/?p=3432)
 
-If you haven’t already read the Practitioner Guide: Introduction - Things to Think about When Interpreting Metrics, please pause now and read that guide.
+If you haven’t already read the [Practitioner Guide: Introduction - Things to Think about When Interpreting Metrics](https://chaoss.community/practitioner-guide-introduction/), please pause now and read that guide.
 
 Contributor sustainability is an important part of assessing whether an open source project and community have enough contributors for the project to be sustained over the long-term, so contributor sustainability has a large impact on overall project sustainability. There are a lot of projects with a single maintainer (see [xkcd Dependency](https://xkcd.com/2347/)), and many projects struggle to find enough people to actively participate in their projects and continue to maintain them over the long term. The reality is that there are a lot of open source projects and not enough contributors, so maintainers are in desperate need for help across the various types of contributions needed to have a successful and sustainable open source project. If there are not enough contributors to sustain a project, this increases the risks that the project will fail, which creates a variety of often significant challenges for the users and other projects that depend on it.
 
@@ -73,7 +73,7 @@ If you are recruiting new contributors, approvers, and maintainers, it might tak
 # Additional Reading
 
 * The CNCF has several [templates](https://contribute.cncf.io/maintainers/templates/) for writing a good [CONTRIBUTING.md](https://contribute.cncf.io/maintainers/templates/contributing/) guide and [Contributor Ladder](https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md).
-* The [Responsiveness Practitioner Guide](https://docs.google.com/document/d/1bRe7m-kIr208H_MaubbU87QIJZJ18wc_g0mN_cEXO_c/edit) also has some similar suggestions that can apply to contributor sustainability. 
+* The [Responsiveness Practitioner Guide](https://chaoss.community/practitioner-guide-responsiveness/) also has some similar suggestions that can apply to contributor sustainability. 
 
 # Contributors
 The following people contributed to this guide:
