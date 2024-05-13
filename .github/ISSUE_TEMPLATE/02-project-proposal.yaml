@@ -30,9 +30,14 @@ body:
   - type: textarea
     attributes:
       label: Related Links
-      description: If you have already created additional documents or have other information about this project, please include those links here. We also have a [Project Scope Template doc](https://docs.google.com/document/d/13iLNDfqJ8nuwBGEyJuFutcT7KRNT6JwFrSlJN_5f4o4/edit) that you can use to think about the project details if you find it useful (not required).
+      description: If you have already created additional documents or have other information about this project, please include those links here. 
     validations:
       required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        Note that we also have a [Project Scope Template doc](https://docs.google.com/document/d/13iLNDfqJ8nuwBGEyJuFutcT7KRNT6JwFrSlJN_5f4o4/edit) that you can use to think about the project details if you find it useful (not required).
 
   - type: dropdown
     attributes:
