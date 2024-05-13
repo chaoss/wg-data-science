@@ -45,7 +45,7 @@ body:
       options:
         - I am interested in this project, but do not plan to work on it myself
         - I have the experience and time available to lead this project
-        - I would like to help with this project, but I need someone with more experience to lead it
+        - I would like to help with this project, but would prefer for someone else to lead it
         - Other (please specify in the “Additional Notes” at the end of this form)
     validations:
       required: true
