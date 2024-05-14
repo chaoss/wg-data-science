@@ -95,6 +95,10 @@ It can take time for projects to recruit users and contributors, so it is partic
 * The [Contributor Sustainability Practitioner Guide](https://chaoss.community/practitioner-guide-contributor-sustainability/) has suggestions that can also be applied to encouraging contributions from employees at other organizations. 
 * Gary White wrote a several part [blog post series](https://chaoss.community/author/garywhite/) on how to think about assessing project viability, and in particular, the [Metrics for OSS Viability](https://chaoss.community/viability-metrics-what-its-made-of/) post is relevant for this topic.
 
+# Feedback
+
+We would love to have feedback to learn more about how people are using the CHAOSS Practitioner Guides and how we can improve them over time. Please complete this [short survey](https://forms.gle/w3B1gBH8kp3rPbhr8) to provide your feedback.
+
 # Contributors
 The following people contributed to this guide:
 
