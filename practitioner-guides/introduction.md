@@ -63,6 +63,9 @@ You should also continue to monitor it over the long-term to see if your improve
 * Video of a panel related to developing a [metrics strategy for your OSPO](https://community.linuxfoundation.org/events/details/lfhq-todo-group-ospology-presents-ways-to-define-a-metrics-strategy-in-your-ospo/) and a blog post about [building an open source strategy](https://blogs.vmware.com/opensource/2020/03/03/open-source-strategy/) and using metrics to determine success. 
 * [CHAOSS Software](https://chaoss.community/software/)
 
+# Feedback
+
+We would love to have feedback to learn more about how people are using the CHAOSS Practitioner Guides and how we can improve them over time. Please complete this [short survey](https://forms.gle/w3B1gBH8kp3rPbhr8) to provide your feedback.
 
 # Contributors
 

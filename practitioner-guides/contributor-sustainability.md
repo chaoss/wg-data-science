@@ -75,6 +75,10 @@ If you are recruiting new contributors, approvers, and maintainers, it might tak
 * The CNCF has several [templates](https://contribute.cncf.io/maintainers/templates/) for writing a good [CONTRIBUTING.md](https://contribute.cncf.io/maintainers/templates/contributing/) guide and [Contributor Ladder](https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md).
 * The [Responsiveness Practitioner Guide](https://chaoss.community/practitioner-guide-responsiveness/) also has some similar suggestions that can apply to contributor sustainability. 
 
+# Feedback
+
+We would love to have feedback to learn more about how people are using the CHAOSS Practitioner Guides and how we can improve them over time. Please complete this [short survey](https://forms.gle/w3B1gBH8kp3rPbhr8) to provide your feedback.
+
 # Contributors
 The following people contributed to this guide:
 
