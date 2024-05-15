@@ -1,3 +1,6 @@
+# Data from Wikipedia page
+Source: https://en.wikipedia.org/wiki/List_of_formerly_open-source_or_free_software
+
 Excluded:
 * Couchbase Server,2010,2021,Apache-2.0,Business Source License - only found Apache license in https://github.com/couchbase/manifest
 * Couchbase Mobile,,2022,Apache-2.0,Business Source License - not sure where this project is - maybe https://github.com/couchbase/couchbase-lite-ios but that's Apache
