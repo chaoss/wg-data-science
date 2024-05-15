@@ -1,2 +1,14 @@
-elastic,elasticsearch,LICENSE.txt
-elastic,kibana,LICENSE.txt
+Akka,2009,2022,Apache-2.0,Business Source License,akka,akka,LICENSE
+ArangoDB,2011,2023,Apache-2.0,Business Source License,arangodb,arangodb,LICENSE
+Aseprite,2001,2016,GPL-2.0,EULA that permits personal use but forbids redistribution,aseprite,aseprite,EULA.txt
+CockroachDB,2015,2019,Apache-2.0,Business Source License,cockroachdb,cockroach,LICENSE
+Consul,2014,2023,MPL-2.0,Business Source License,hashicorp,consul,LICENSE
+Elasticsearch,2010,2021,Apache-2.0,"Elastic License and Server Side Public License",elastic,elasticsearch,LICENSE.txt
+Elasticsearch,2010,2021,Apache-2.0,"Elastic License and Server Side Public License",elastic,kibana,LICENSE.txt
+LiveCode,2013,2021,GPL-3.0-only,proprietary,livecode,livecode,LICENSE
+MongoDB,2009,2018,AGPL-3.0-only,Server Side Public License,mongodb,mongo,LICENSE-Community.txt
+OTRS,2001,2020,GPL-3.0-or-later,"Support for the Community Edition dropped on December 23, 2020",OTRS,otrs,COPYING
+PyMOL,2000,2010,MIT-CMU,schrodinger,pymol-open-source,LICENSE
+Redis,2009,2024,BSD-3-Clause,dual: custom license and Server Side Public License,redis,redis,LICENSE.txt
+Terraform,2014,2023,MPL-2.0,Business Source License,hashicorp,terraform,LICENSE
+Vagrant,2010,2023,MIT,Business Source License,hashicorp,vagrant,LICENSE
