@@ -1,0 +1,95 @@
+[
+    {
+        "repository": {
+            "nameWithOwner": "elastic/elasticsearch",
+            "defaultBranchRef": {
+                "target": {
+                    "history": {
+                        "nodes": [
+                            {
+                                "additions": 64439,
+                                "message": "Update sources with new SSPL+Elastic-2.0 license headers\n\nAs per the new licensing change for Elasticsearch and Kibana this commit\nmoves existing Apache 2.0 licensed source code to the new dual license\nSSPL+Elastic license 2.0. In addition, existing x-pack code now uses\nthe new version 2.0 of the Elastic license. Full changes include:\n\n - Updating LICENSE and NOTICE files throughout the code base, as well\n   as those packaged in our published artifacts\n - Update IDE integration to now use the new license header on newly\n   created source files\n - Remove references to the \"OSS\" distribution from our documentation\n - Update build time verification checks to no longer allow Apache 2.0\n   license header in Elasticsearch source code\n - Replace all existing Apache 2.0 license headers for non-xpack code\n   with updated header (vendored code with Apache 2.0 headers obviously\n   remains the same).\n - Replace all Elastic license 1.0 headers with new 2.0 header in xpack.",
+                                "committedDate": "2021-02-03T00:10:53Z",
+                                "url": "https://github.com/elastic/elasticsearch/commit/a92a647b9f17d1bddf5c707490a19482c273eda3",
+                                "deletions": 152492
+                            },
+                            {
+                                "additions": 8,
+                                "message": "Clarify mixed license text (#45637)\n\nThis commit clarifies the mixed licensing in the elasticsearch\r\nrepository. A few points of note:\r\n - we clarify that all code is under the Apache License 2.0 unless noted\r\n   otherwise\r\n - we clarify that code under the Elastic License is only in the x-pack\r\n   directory\r\n - we clarify that when code is not under the Apache License 2.0 nor the\r\n   Elastic License that it is Apache License 2.0 compatible\r\n - we clarify that OSS-builds do not package any code from the x-pack\r\n   directory",
+                                "committedDate": "2019-08-16T17:38:26Z",
+                                "url": "https://github.com/elastic/elasticsearch/commit/dd66fc847b311f031571ddeb4bf3884074fac7a4",
+                                "deletions": 11
+                            },
+                            {
+                                "additions": 259,
+                                "message": "Reorganize license files\n\nThis commit moves the apache and elastic license files into a new\nroot level `licenses` directory and rewrites the top level LICENSE.txt\nto clarify the repository has a mix of apache and elastic licensed code.",
+                                "committedDate": "2018-04-20T22:33:59Z",
+                                "url": "https://github.com/elastic/elasticsearch/commit/0d8aa7527e242fbda9d84867ab8bc955758eebce",
+                                "deletions": 367
+                            },
+                            {
+                                "additions": 233,
+                                "message": "assemblies",
+                                "committedDate": "2011-12-06T11:41:49Z",
+                                "url": "https://github.com/elastic/elasticsearch/commit/19d80a7f1b7d41415d208976d464fc3b2a45f84e",
+                                "deletions": 362
+                            },
+                            {
+                                "additions": 0,
+                                "message": "remove slf4j license, not used in dist",
+                                "committedDate": "2010-04-20T21:56:12Z",
+                                "url": "https://github.com/elastic/elasticsearch/commit/30ae2bb87dd40db931eca460e5f4df50b618f0be",
+                                "deletions": 26
+                            },
+                            {
+                                "additions": 182199,
+                                "message": "initial commit",
+                                "committedDate": "2010-02-08T13:30:06Z",
+                                "url": "https://github.com/elastic/elasticsearch/commit/b3337c312765e51cec7bde5883bbc0a08f56fb65",
+                                "deletions": 0
+                            }
+                        ]
+                    }
+                },
+                "name": "main"
+            },
+            "url": "https://github.com/elastic/elasticsearch"
+        }
+    },
+    {
+        "repository": {
+            "nameWithOwner": "elastic/kibana",
+            "defaultBranchRef": {
+                "target": {
+                    "history": {
+                        "nodes": [
+                            {
+                                "additions": 86164,
+                                "message": "Elastic License 2.0 (#90099)\n\n* Updating everything except the license headers themselves\r\n\r\n* Applying ESLint rules\r\n\r\n* Manually replacing the stragglers",
+                                "committedDate": "2021-02-04T02:12:39Z",
+                                "url": "https://github.com/elastic/kibana/commit/4584a8b570402aa07832cf3e5b520e5d2cfa7166",
+                                "deletions": 64410
+                            },
+                            {
+                                "additions": 40505,
+                                "message": "Updating the License (#88343)\n\n* Updating the Licenses, except for applying eslint, building\r\n\r\n* Applying ESLint rules,building @kbn/pm, regenerating api docs",
+                                "committedDate": "2021-01-20T01:52:56Z",
+                                "url": "https://github.com/elastic/kibana/commit/170a2956c84d46262a3ae310f89aee6f2580860a",
+                                "deletions": 125247
+                            },
+                            {
+                                "additions": 276937,
+                                "message": "Migrate x-pack-kibana source to kibana",
+                                "committedDate": "2018-04-24T20:48:10Z",
+                                "url": "https://github.com/elastic/kibana/commit/fe4609647dd2a7a7fedfb23d63f5886a24eacbe1",
+                                "deletions": 2352
+                            }
+                        ]
+                    }
+                },
+                "name": "main"
+            },
+            "url": "https://github.com/elastic/kibana"
+        }
+    }
+]
