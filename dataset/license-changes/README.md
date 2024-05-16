@@ -23,7 +23,7 @@ The starting point for this dataset came from this [Wikipedia List of formerly o
 
 ## Contributions
 
-This dataset is still a bit rough and incomplete, so contributions are welcome to help us improve it. See details above for ideas about where to contribute, and please following our [Contribution guidelines](https://github.com/chaoss/wg-data-science/blob/main/CONTRIBUTING.md) including DCO sign-off for all commits.
+This dataset is still a bit rough and incomplete, so contributions are welcome to help us improve it. See details above for ideas about where to contribute, and please follow our [Contribution guidelines](https://github.com/chaoss/wg-data-science/blob/main/CONTRIBUTING.md) including DCO sign-off for all commits.
 
 If you learn of new projects that have been relicensed or older ones that we've missed, please feel free to submit a PR against inputdata.csv with the data. If you don't have time to create the PR, please file an issue to let us know, and we can add it to the dataset.
 
