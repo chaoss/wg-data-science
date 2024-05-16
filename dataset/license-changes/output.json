@@ -1,95 +1,1225 @@
 [
     {
         "repository": {
-            "nameWithOwner": "elastic/elasticsearch",
+            "project": "Akka",
+            "orig_lic": "Apache-2.0",
+            "url": "https://github.com/akka/akka",
+            "defaultBranchRef": {
+                "target": {
+                    "history": {
+                        "nodes": [
+                            {
+                                "additions": 19,
+                                "url": "https://github.com/akka/akka/commit/d2080a8d708a6d86ae6e9474dcc11c29e6ea15fb",
+                                "deletions": 19,
+                                "message": "build: License change date and sample bump for 2.9.3 (#32410)",
+                                "committedDate": "2024-05-07T08:48:56Z"
+                            },
+                            {
+                                "additions": 3707,
+                                "url": "https://github.com/akka/akka/commit/c9a0b18abbe98df654f452c6ccf69c3b7c9aad29",
+                                "deletions": 1,
+                                "message": "chore: New license for tests and docs (#32404)",
+                                "committedDate": "2024-04-25T14:43:49Z"
+                            },
+                            {
+                                "additions": 2,
+                                "url": "https://github.com/akka/akka/commit/3d73f762baafbe659287f8239db48ed4ae0f2d87",
+                                "deletions": 2,
+                                "message": "chore: Version and change date in license (#32333)",
+                                "committedDate": "2024-02-27T13:03:38Z"
+                            },
+                            {
+                                "additions": 2,
+                                "url": "https://github.com/akka/akka/commit/68ffe1f61ad4dfb88183bc4062413f955f012e0c",
+                                "deletions": 2,
+                                "message": "chore: Update license change date for 2.9.1 (#32265)",
+                                "committedDate": "2023-12-18T14:27:43Z"
+                            },
+                            {
+                                "additions": 2,
+                                "url": "https://github.com/akka/akka/commit/bf20e967571574994ccb3cae411401f5a9021ab9",
+                                "deletions": 2,
+                                "message": "chore: Update license change date for 2.9.0 (#32204)",
+                                "committedDate": "2023-10-23T11:46:45Z"
+                            },
+                            {
+                                "additions": 2,
+                                "url": "https://github.com/akka/akka/commit/861a188939aa0c6c02a18a89f1f8119789ab2ae1",
+                                "deletions": 2,
+                                "message": "chore: License change date for 2.8.4 (#32041)",
+                                "committedDate": "2023-08-15T09:02:48Z"
+                            },
+                            {
+                                "additions": 3,
+                                "url": "https://github.com/akka/akka/commit/ba2262f84433922214eeb5d0ad11bd50ca725580",
+                                "deletions": 3,
+                                "message": "chore: update license change date for 2.8.3 (#32002)",
+                                "committedDate": "2023-06-30T11:26:57Z"
+                            },
+                            {
+                                "additions": 2,
+                                "url": "https://github.com/akka/akka/commit/3caa3de83b22a9e511858af7e8ad06f667c0758d",
+                                "deletions": 2,
+                                "message": "bump: License change date for 2.8.2 (#31939)",
+                                "committedDate": "2023-05-09T07:26:48Z"
+                            },
+                            {
+                                "additions": 2,
+                                "url": "https://github.com/akka/akka/commit/1b36a3ee7d37a0a8dc257bc5195dc843e73b7cb9",
+                                "deletions": 2,
+                                "message": "chore: License change date (#31929)",
+                                "committedDate": "2023-04-27T13:23:40Z"
+                            },
+                            {
+                                "additions": 3,
+                                "url": "https://github.com/akka/akka/commit/abaa5f5a540d2d59d05a8c883a8711da2d23838f",
+                                "deletions": 3,
+                                "message": "chore: Release version and license change date (#31886)",
+                                "committedDate": "2023-03-16T12:46:18Z"
+                            },
+                            {
+                                "additions": 9,
+                                "url": "https://github.com/akka/akka/commit/dd9002d12eac674701a4652ab1f67c2d230b0196",
+                                "deletions": 9,
+                                "message": "Prepare for Akka 2.8 (#31723)\n\n* Prepare for Akka 2.8\r\n\r\n* License change date TBD for 2.8",
+                                "committedDate": "2022-11-09T15:03:41Z"
+                            },
+                            {
+                                "additions": 2,
+                                "url": "https://github.com/akka/akka/commit/ca7052179650aec65ef9f5e73276f79be6542263",
+                                "deletions": 2,
+                                "message": "Update license change date for Akka 2.7.0 (#31700)",
+                                "committedDate": "2022-10-25T11:39:53Z"
+                            },
+                            {
+                                "additions": 192,
+                                "url": "https://github.com/akka/akka/commit/adf1cd044b78ceba8030c94b9576ae5aff4bd1c6",
+                                "deletions": 225,
+                                "message": "Change license (#31561)\n\n* Change license\r\n\r\nhttps://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka",
+                                "committedDate": "2022-09-07T11:04:43Z"
+                            },
+                            {
+                                "additions": 3,
+                                "url": "https://github.com/akka/akka/commit/14746d3dc4ae2b106464dfb873cad7186b7c8df7",
+                                "deletions": 3,
+                                "message": "Fix external links - sixth iteration (LICENSE) (#31020)",
+                                "committedDate": "2021-12-28T12:43:54Z"
+                            },
+                            {
+                                "additions": 197,
+                                "url": "https://github.com/akka/akka/commit/09d79d5981bd9cd2ee70ddcf75f9e1b6bf2eef7a",
+                                "deletions": 11,
+                                "message": "Include the full apache license text (#23992)\n\nHopefully GitHub will recognize it then. Kept the link to http://akka.io/docs/akka/snapshot/project/licenses.html and the note about protobuf at the bottom, hopefully that doesn't throw them off.",
+                                "committedDate": "2017-11-14T15:47:33Z"
+                            },
+                            {
+                                "additions": 0,
+                                "url": "https://github.com/akka/akka/commit/6693fd6f7da2033616b966ad47a4e6560bcaee1d",
+                                "deletions": 0,
+                                "message": "Drop the exec bit on non-executable files",
+                                "committedDate": "2017-05-23T14:06:27Z"
+                            },
+                            {
+                                "additions": 1622,
+                                "url": "https://github.com/akka/akka/commit/6c7085252a4bb8e5761af3a2c08e7f006e657c8a",
+                                "deletions": 1622,
+                                "message": "extended copyright into 2017",
+                                "committedDate": "2017-01-04T16:37:15Z"
+                            },
+                            {
+                                "additions": 2139,
+                                "url": "https://github.com/akka/akka/commit/62e30b3c08f9bc782ea374d5b9e5cc6fc214d824",
+                                "deletions": 2103,
+                                "message": "Update copyrights and links to the new company name #19851",
+                                "committedDate": "2016-02-23T11:58:39Z"
+                            },
+                            {
+                                "additions": 6,
+                                "url": "https://github.com/akka/akka/commit/e79cc3ba14a50ba53416d32bee7cd101909dbb7d",
+                                "deletions": 6,
+                                "message": "Update copyright year",
+                                "committedDate": "2016-01-28T14:47:29Z"
+                            },
+                            {
+                                "additions": 56148,
+                                "url": "https://github.com/akka/akka/commit/c3ecb87a65b807ce304b40b946baae525ce5158b",
+                                "deletions": 7695,
+                                "message": "=all #13783 replace protobuf dependency by embedded version\n\n- created new subproject akka-protobuf (and added COPYING and LICENSE)\n- renamed com.google.protobuf -> akka.protobuf everywhere\n- also added such renaming step to the results of protoc compilation in\n  project/Protobuf.scala\n- had to include transcriptions of Netty\u2019s ProtobufEncoder/Decoder to\n  make multi-node-testkit compile again",
+                                "committedDate": "2015-09-04T07:06:50Z"
+                            },
+                            {
+                                "additions": 779,
+                                "url": "https://github.com/akka/akka/commit/00f6a58e7c1e4795ad8920745c01916cc26947ca",
+                                "deletions": 779,
+                                "message": "Changes all occurances of Typesafe copyright to extend to 2015",
+                                "committedDate": "2015-03-10T21:12:19Z"
+                            },
+                            {
+                                "additions": 708,
+                                "url": "https://github.com/akka/akka/commit/cce29dfa51d74eaea30a32cccdda248579af0b1c",
+                                "deletions": 708,
+                                "message": "Changes all occurances of Typesafe copyright to extend to 2014.",
+                                "committedDate": "2014-02-05T03:20:09Z"
+                            },
+                            {
+                                "additions": 51,
+                                "url": "https://github.com/akka/akka/commit/2a45d99ab32786c3bbe0fd35985d28ea0830e0a1",
+                                "deletions": 15,
+                                "message": "Change more copyright to 2009-2013, see #2879\n\n* Also added some missing headers",
+                                "committedDate": "2013-02-20T20:26:52Z"
+                            },
+                            {
+                                "additions": 3,
+                                "url": "https://github.com/akka/akka/commit/e4d7ab39b216fd0ca9d25828c88bedf78ff980e6",
+                                "deletions": 2,
+                                "message": "Updated license to 2012.\n\nSigned-off-by: Jonas Bone\u0301r <jonas@jonasboner.com>",
+                                "committedDate": "2012-02-15T19:27:27Z"
+                            },
+                            {
+                                "additions": 231,
+                                "url": "https://github.com/akka/akka/commit/9d71be777825b0d07f58459e29b9ac90810fa1f8",
+                                "deletions": 231,
+                                "message": "Updating copyright section to Typesafe Inc. etc",
+                                "committedDate": "2011-07-14T14:03:08Z"
+                            },
+                            {
+                                "additions": 129,
+                                "url": "https://github.com/akka/akka/commit/549f33a3ffd75aa2f94e665d9bc874ed78ab0234",
+                                "deletions": 101,
+                                "message": "Improved error handling in Cluster.scala",
+                                "committedDate": "2011-06-17T08:25:02Z"
+                            },
+                            {
+                                "additions": 154,
+                                "url": "https://github.com/akka/akka/commit/9354f0790c2908ae5f200296c612afc2040cb9c9",
+                                "deletions": 556,
+                                "message": "Removed logging",
+                                "committedDate": "2011-02-28T21:54:32Z"
+                            },
+                            {
+                                "additions": 149,
+                                "url": "https://github.com/akka/akka/commit/e8fcdd697b6604c698158c3109d6032a349cdbe2",
+                                "deletions": 142,
+                                "message": "Updated the copyright header to 2009-2011",
+                                "committedDate": "2010-12-22T14:35:50Z"
+                            },
+                            {
+                                "additions": 96,
+                                "url": "https://github.com/akka/akka/commit/05058af3705aabfb6e12e50252c70f27ab7a8b73",
+                                "deletions": 13,
+                                "message": "Added explicit nullification of all ActorRef references in Actor to make the Actor instance eligable for GC",
+                                "committedDate": "2010-05-18T18:25:13Z"
+                            },
+                            {
+                                "additions": 193,
+                                "url": "https://github.com/akka/akka/commit/8800f70ff29a65aa2bbfd67e7421dc487a42597f",
+                                "deletions": 158,
+                                "message": "Rewrote distribution generation, now it also packages sources and docs",
+                                "committedDate": "2010-03-30T16:56:34Z"
+                            },
+                            {
+                                "additions": 176,
+                                "url": "https://github.com/akka/akka/commit/baa685a74c2358c38773eab19ea424cace868366",
+                                "deletions": 299,
+                                "message": "moved all samples into its own subproject",
+                                "committedDate": "2010-01-02T20:16:05Z"
+                            },
+                            {
+                                "additions": 1223,
+                                "url": "https://github.com/akka/akka/commit/dfc08f559d062d6e84c201f9796e873e83a4a9bb",
+                                "deletions": 3783,
+                                "message": "rewrote the persistent storage with support for unit-of-work and new multiverse stm",
+                                "committedDate": "2009-09-09T23:33:01Z"
+                            },
+                            {
+                                "additions": 5228,
+                                "url": "https://github.com/akka/akka/commit/8e55322d537c4da07746277501ee0bf06d5760cb",
+                                "deletions": 4552,
+                                "message": "multiverse stm for in-memory datastructures done (with one bug left to do)",
+                                "committedDate": "2009-08-15T20:44:29Z"
+                            },
+                            {
+                                "additions": 15,
+                                "url": "https://github.com/akka/akka/commit/0265fcbbe3bdfce80567e2d8b29e6ea636d8f695",
+                                "deletions": 0,
+                                "message": "added apache 2 license",
+                                "committedDate": "2009-07-12T22:53:47Z"
+                            },
+                            {
+                                "additions": 1,
+                                "url": "https://github.com/akka/akka/commit/ff047e14f5e26a960481329b6601c5e316eee2cf",
+                                "deletions": 12,
+                                "message": "deleted license file",
+                                "committedDate": "2009-04-05T20:20:05Z"
+                            },
+                            {
+                                "additions": 11,
+                                "url": "https://github.com/akka/akka/commit/0d949cf986910e3cdfe8b91a99d1f892d8a08a2b",
+                                "deletions": 0,
+                                "message": "added license",
+                                "committedDate": "2009-04-05T17:31:46Z"
+                            }
+                        ]
+                    }
+                }
+            },
+            "nameWithOwner": "akka/akka",
+            "relicense_date": "2022-09-07",
+            "new_lic": "Business Source License"
+        }
+    },
+    {
+        "repository": {
+            "project": "ArangoDB",
+            "orig_lic": "Apache-2.0",
+            "url": "https://github.com/arangodb/arangodb",
+            "defaultBranchRef": {
+                "target": {
+                    "history": {
+                        "nodes": [
+                            {
+                                "additions": 9517,
+                                "url": "https://github.com/arangodb/arangodb/commit/8775f261967f778098e57a53a2588f68b6aa10ee",
+                                "deletions": 9142,
+                                "message": "Change license to BSL, adjust headers (#20654)\n\n* Changed Apache 2.0 License to BSL 1.1\r\n\r\n---------\r\n\r\nCo-authored-by: CryptoNinjaGeek <carsten@ninjageeks.pl>",
+                                "committedDate": "2024-02-23T17:32:32Z"
+                            },
+                            {
+                                "additions": 1,
+                                "url": "https://github.com/arangodb/arangodb/commit/348b60230c7fa32c3ca9bd1747e55b4fcfce939d",
+                                "deletions": 1,
+                                "message": "Updated License",
+                                "committedDate": "2015-02-16T15:20:45Z"
+                            },
+                            {
+                                "additions": 0,
+                                "url": "https://github.com/arangodb/arangodb/commit/4a5506219b176b6f17c3d5250e2225a4d3d156b5",
+                                "deletions": 0,
+                                "message": "fixed license file",
+                                "committedDate": "2012-03-20T08:19:36Z"
+                            },
+                            {
+                                "additions": 0,
+                                "url": "https://github.com/arangodb/arangodb/commit/09f2607d91298d420450535e88f9e3592e22949b",
+                                "deletions": 0,
+                                "message": "added LICENSE",
+                                "committedDate": "2012-02-09T08:49:14Z"
+                            }
+                        ]
+                    }
+                }
+            },
+            "nameWithOwner": "arangodb/arangodb",
+            "relicense_date": "2024-02-23",
+            "new_lic": "Business Source License"
+        }
+    },
+    {
+        "repository": {
+            "project": "Aseprite",
+            "orig_lic": "GPL-2.0",
+            "url": "https://github.com/aseprite/aseprite",
+            "defaultBranchRef": {
+                "target": {
+                    "history": {
+                        "nodes": [
+                            {
+                                "additions": 10,
+                                "url": "https://github.com/aseprite/aseprite/commit/7d0a4abeae64c1b700f408c83d0841f96d0175fa",
+                                "deletions": 8,
+                                "message": "Update EULA",
+                                "committedDate": "2018-12-06T15:25:23Z"
+                            },
+                            {
+                                "additions": 1459,
+                                "url": "https://github.com/aseprite/aseprite/commit/5ecc356a41c8e29977f8608d8826489d24f5fa6c",
+                                "deletions": 3851,
+                                "message": "Replace GPL license with the new EULA",
+                                "committedDate": "2016-08-29T16:08:21Z"
+                            },
+                            {
+                                "additions": 50,
+                                "url": "https://github.com/aseprite/aseprite/commit/d7d57667fc78849aa2a662742e23c06c3292570d",
+                                "deletions": 13,
+                                "message": "Add new licensing options",
+                                "committedDate": "2016-02-16T21:32:50Z"
+                            }
+                        ]
+                    }
+                }
+            },
+            "nameWithOwner": "aseprite/aseprite",
+            "relicense_date": "2016-08-29",
+            "new_lic": "EULA that permits personal use but forbids redistribution"
+        }
+    },
+    {
+        "repository": {
+            "project": "CockroachDB",
+            "orig_lic": "Apache-2.0",
+            "url": "https://github.com/cockroachdb/cockroach",
+            "defaultBranchRef": {
+                "target": {
+                    "history": {
+                        "nodes": [
+                            {
+                                "additions": 69745,
+                                "url": "https://github.com/cockroachdb/cockroach/commit/96e83264e6f498e6abd433bdcc8c833ea9677e1b",
+                                "deletions": 9,
+                                "message": "*: update licenses\n\nPart of: REL-932\nRelease note: None",
+                                "committedDate": "2024-05-07T17:03:54Z"
+                            },
+                            {
+                                "additions": 106,
+                                "url": "https://github.com/cockroachdb/cockroach/commit/2c4e2c6ac088591a25c67a5f34255805b277de78",
+                                "deletions": 3,
+                                "message": "licenses: Add BSL.txt\n\nRelease note: None",
+                                "committedDate": "2019-06-04T17:07:36Z"
+                            },
+                            {
+                                "additions": 563,
+                                "url": "https://github.com/cockroachdb/cockroach/commit/d8b551ba1ca930cb765e53c918e28d6f3a2133f8",
+                                "deletions": 471,
+                                "message": "*: clarify licensing\n\nMove all licenses in the codebase into a licenses folder, and add a note\nexplaining the situation in LICENSES. Adjust comments that refer to a\nparticular license file to point to the proper location.\n\nFix #19263.",
+                                "committedDate": "2017-11-10T01:21:32Z"
+                            },
+                            {
+                                "additions": 2,
+                                "url": "https://github.com/cockroachdb/cockroach/commit/5e98463cc419de8046a44124bf5175ff150d867b",
+                                "deletions": 2,
+                                "message": "fixes two missed instances, per Ben comment",
+                                "committedDate": "2017-08-28T18:11:05Z"
+                            },
+                            {
+                                "additions": 5,
+                                "url": "https://github.com/cockroachdb/cockroach/commit/c6a0fcc034f2d0415cc22bcebfccf01872322717",
+                                "deletions": 5,
+                                "message": "replace \"Community Edition\" with \"Core\" in CCL\n\nThe free version was not correctly titled in the agreement. \r\nThis changes \"CockroachDB Community Edition\" to \"CockroachDB Core.\"",
+                                "committedDate": "2017-08-28T18:05:39Z"
+                            },
+                            {
+                                "additions": 2,
+                                "url": "https://github.com/cockroachdb/cockroach/commit/e688b9c3e235bdf0de4ef019c42dfa1da0ecabcf",
+                                "deletions": 2,
+                                "message": "LICENSE: Cockroach{->DB} Enterprise Edition\n\nLooks like an oversight to me, though I'm not sure whether the LICENSE file can\nsimply be changed. If the wording is intentional or it's deemed irrelevant,\nhappy to close this.",
+                                "committedDate": "2017-05-02T07:38:27Z"
+                            },
+                            {
+                                "additions": 425,
+                                "url": "https://github.com/cockroachdb/cockroach/commit/84f4f8c4db93f1dc8cf98e7a40f19b37a2960743",
+                                "deletions": 434,
+                                "message": "ccl: move the CCL text to top-level LICENSE",
+                                "committedDate": "2017-01-24T18:21:15Z"
+                            },
+                            {
+                                "additions": 207,
+                                "url": "https://github.com/cockroachdb/cockroach/commit/27d4f35efdecec24eb798453c92372c83955478f",
+                                "deletions": 198,
+                                "message": "cockroach: describe the two LICENSEs\n\nMove the Apache Licence text to APL.txt and use the top level LICENSE\nfile to point at the two licenses.",
+                                "committedDate": "2017-01-19T21:16:01Z"
+                            },
+                            {
+                                "additions": 115,
+                                "url": "https://github.com/cockroachdb/cockroach/commit/48df7f625bf7657acba9a2fcfdd5bd8c3febc386",
+                                "deletions": 2,
+                                "message": "Added copyright attribution and AUTHORS file.",
+                                "committedDate": "2014-02-13T06:46:03Z"
+                            },
+                            {
+                                "additions": 203,
+                                "url": "https://github.com/cockroachdb/cockroach/commit/c127548309162c213fc5437902ed6ef741370f96",
+                                "deletions": 1,
+                                "message": "add license details",
+                                "committedDate": "2014-02-10T01:52:04Z"
+                            },
+                            {
+                                "additions": 228,
+                                "url": "https://github.com/cockroachdb/cockroach/commit/8548987813ff9e1b8a9878023d3abfc6911c16db",
+                                "deletions": 0,
+                                "message": "Initial commit",
+                                "committedDate": "2014-02-06T00:18:47Z"
+                            }
+                        ]
+                    }
+                }
+            },
+            "nameWithOwner": "cockroachdb/cockroach",
+            "relicense_date": "2019-06-04",
+            "new_lic": "Business Source License"
+        }
+    },
+    {
+        "repository": {
+            "project": "Confluent",
+            "orig_lic": "Apache-2.0",
+            "url": "https://github.com/confluentinc/ksql",
+            "defaultBranchRef": {
+                "target": {
+                    "history": {
+                        "nodes": [
+                            {
+                                "additions": 6263,
+                                "url": "https://github.com/confluentinc/ksql/commit/247735b224b2a4a080c8cf7c959b3402aa6b5ad2",
+                                "deletions": 7986,
+                                "message": "Update to use CCL (#2278)\n\n* Update readme for CCL (#2276)\r\n\r\n* Switch to use CCL (#2275)\r\n\r\n* Update source file to use CCL\r\n\r\n* Change to CCL and remove open source\r\n\r\n* Add CCL to CommandStoreUtilTest.java",
+                                "committedDate": "2018-12-14T16:58:25Z"
+                            },
+                            {
+                                "additions": 51195,
+                                "url": "https://github.com/confluentinc/ksql/commit/0eadb4d1921d50a4a0e373551ef6d6b987ad6e1b",
+                                "deletions": 0,
+                                "message": "Starting a clean ksql repo by removing all the previous commit history.\nThis will be the repo that will be made public.",
+                                "committedDate": "2017-08-16T21:14:19Z"
+                            }
+                        ]
+                    }
+                }
+            },
+            "nameWithOwner": "confluentinc/ksql",
+            "relicense_date": "2018-12-14",
+            "new_lic": "Confluent Community License Agreement"
+        }
+    },
+    {
+        "repository": {
+            "project": "Consul",
+            "orig_lic": "MPL-2.0",
+            "url": "https://github.com/hashicorp/consul",
+            "defaultBranchRef": {
+                "target": {
+                    "history": {
+                        "nodes": [
+                            {
+                                "additions": 4,
+                                "url": "https://github.com/hashicorp/consul/commit/0e73c32ac255b1fc37990327cde3f4fb53f21735",
+                                "deletions": 4,
+                                "message": "[DO NOT MERGE UNTIL EOY] update year in LICENSE and copywrite files (#19780)\n\nupdate year in LICENSE and copywrite files\r\n\r\nCo-authored-by: Dhia Ayachi <dhia@hashicorp.com>",
+                                "committedDate": "2024-01-02T16:41:12Z"
+                            },
+                            {
+                                "additions": 10,
+                                "url": "https://github.com/hashicorp/consul/commit/39136f46fea5a31f57a02824b4da70727d6bf979",
+                                "deletions": 9,
+                                "message": "license file updates (#19750)",
+                                "committedDate": "2023-11-28T19:59:45Z"
+                            },
+                            {
+                                "additions": 34,
+                                "url": "https://github.com/hashicorp/consul/commit/cb86b29e89622449857c812f036c3fc1009d9059",
+                                "deletions": 4,
+                                "message": "REPLAT-962 Update LICENSE text (#19574)",
+                                "committedDate": "2023-11-09T22:17:28Z"
+                            },
+                            {
+                                "additions": 3,
+                                "url": "https://github.com/hashicorp/consul/commit/adf8ddbab8ed6bbf97785e1738e1f1231cb2a0fa",
+                                "deletions": 1,
+                                "message": "[COMPLIANCE] License update (#18479)\n\nUpdate BUSL LICENSE to include licensed product and version.\r\n\r\nCo-authored-by: hashicorp-copywrite[bot] <110428419+hashicorp-copywrite[bot]@users.noreply.github.com>",
+                                "committedDate": "2023-08-16T14:42:07Z"
+                            },
+                            {
+                                "additions": 7957,
+                                "url": "https://github.com/hashicorp/consul/commit/5fb9df1640cfa1aaf96228da1f44b31ecd6b825a",
+                                "deletions": 7028,
+                                "message": "[COMPLIANCE] License changes (#18443)\n\n* Adding explicit MPL license for sub-package\r\n\r\nThis directory and its subdirectories (packages) contain files licensed with the MPLv2 `LICENSE` file in this directory and are intentionally licensed separately from the BSL `LICENSE` file at the root of this repository.\r\n\r\n* Adding explicit MPL license for sub-package\r\n\r\nThis directory and its subdirectories (packages) contain files licensed with the MPLv2 `LICENSE` file in this directory and are intentionally licensed separately from the BSL `LICENSE` file at the root of this repository.\r\n\r\n* Updating the license from MPL to Business Source License\r\n\r\nGoing forward, this project will be licensed under the Business Source License v1.1. Please see our blog post for more details at <Blog URL>, FAQ at www.hashicorp.com/licensing-faq, and details of the license at www.hashicorp.com/bsl.\r\n\r\n* add missing license headers\r\n\r\n* Update copyright file headers to BUSL-1.1\r\n\r\n* Update copyright file headers to BUSL-1.1\r\n\r\n* Update copyright file headers to BUSL-1.1\r\n\r\n* Update copyright file headers to BUSL-1.1\r\n\r\n* Update copyright file headers to BUSL-1.1\r\n\r\n* Update copyright file headers to BUSL-1.1\r\n\r\n* Update copyright file headers to BUSL-1.1\r\n\r\n* Update copyright file headers to BUSL-1.1\r\n\r\n* Update copyright file headers to BUSL-1.1\r\n\r\n* Update copyright file headers to BUSL-1.1\r\n\r\n* Update copyright file headers to BUSL-1.1\r\n\r\n* Update copyright file headers to BUSL-1.1\r\n\r\n* Update copyright file headers to BUSL-1.1\r\n\r\n* Update copyright file headers to BUSL-1.1\r\n\r\n* Update copyright file headers to BUSL-1.1\r\n\r\n---------\r\n\r\nCo-authored-by: hashicorp-copywrite[bot] <110428419+hashicorp-copywrite[bot]@users.noreply.github.com>",
+                                "committedDate": "2023-08-11T13:12:13Z"
+                            },
+                            {
+                                "additions": 2,
+                                "url": "https://github.com/hashicorp/consul/commit/22e903342b8c043feb3ebe3f4fd4f4dcfb399b34",
+                                "deletions": 0,
+                                "message": "[COMPLIANCE] Update MPL-2.0 LICENSE (#14964)\n\nCo-authored-by: hashicorp-copywrite[bot] <110428419+hashicorp-copywrite[bot]@users.noreply.github.com>",
+                                "committedDate": "2022-11-09T18:24:14Z"
+                            },
+                            {
+                                "additions": 380,
+                                "url": "https://github.com/hashicorp/consul/commit/0a7996bc4f504894dbd09bac349a2d9999ec9dd6",
+                                "deletions": 0,
+                                "message": "Initial commit",
+                                "committedDate": "2013-11-04T22:15:27Z"
+                            }
+                        ]
+                    }
+                }
+            },
+            "nameWithOwner": "hashicorp/consul",
+            "relicense_date": "2023-08-11",
+            "new_lic": "Business Source License"
+        }
+    },
+    {
+        "repository": {
+            "project": "Elasticsearch",
+            "orig_lic": "Apache-2.0",
+            "url": "https://github.com/elastic/elasticsearch",
             "defaultBranchRef": {
                 "target": {
                     "history": {
                         "nodes": [
                             {
                                 "additions": 64439,
-                                "message": "Update sources with new SSPL+Elastic-2.0 license headers\n\nAs per the new licensing change for Elasticsearch and Kibana this commit\nmoves existing Apache 2.0 licensed source code to the new dual license\nSSPL+Elastic license 2.0. In addition, existing x-pack code now uses\nthe new version 2.0 of the Elastic license. Full changes include:\n\n - Updating LICENSE and NOTICE files throughout the code base, as well\n   as those packaged in our published artifacts\n - Update IDE integration to now use the new license header on newly\n   created source files\n - Remove references to the \"OSS\" distribution from our documentation\n - Update build time verification checks to no longer allow Apache 2.0\n   license header in Elasticsearch source code\n - Replace all existing Apache 2.0 license headers for non-xpack code\n   with updated header (vendored code with Apache 2.0 headers obviously\n   remains the same).\n - Replace all Elastic license 1.0 headers with new 2.0 header in xpack.",
-                                "committedDate": "2021-02-03T00:10:53Z",
                                 "url": "https://github.com/elastic/elasticsearch/commit/a92a647b9f17d1bddf5c707490a19482c273eda3",
-                                "deletions": 152492
+                                "deletions": 152492,
+                                "message": "Update sources with new SSPL+Elastic-2.0 license headers\n\nAs per the new licensing change for Elasticsearch and Kibana this commit\nmoves existing Apache 2.0 licensed source code to the new dual license\nSSPL+Elastic license 2.0. In addition, existing x-pack code now uses\nthe new version 2.0 of the Elastic license. Full changes include:\n\n - Updating LICENSE and NOTICE files throughout the code base, as well\n   as those packaged in our published artifacts\n - Update IDE integration to now use the new license header on newly\n   created source files\n - Remove references to the \"OSS\" distribution from our documentation\n - Update build time verification checks to no longer allow Apache 2.0\n   license header in Elasticsearch source code\n - Replace all existing Apache 2.0 license headers for non-xpack code\n   with updated header (vendored code with Apache 2.0 headers obviously\n   remains the same).\n - Replace all Elastic license 1.0 headers with new 2.0 header in xpack.",
+                                "committedDate": "2021-02-03T00:10:53Z"
                             },
                             {
                                 "additions": 8,
-                                "message": "Clarify mixed license text (#45637)\n\nThis commit clarifies the mixed licensing in the elasticsearch\r\nrepository. A few points of note:\r\n - we clarify that all code is under the Apache License 2.0 unless noted\r\n   otherwise\r\n - we clarify that code under the Elastic License is only in the x-pack\r\n   directory\r\n - we clarify that when code is not under the Apache License 2.0 nor the\r\n   Elastic License that it is Apache License 2.0 compatible\r\n - we clarify that OSS-builds do not package any code from the x-pack\r\n   directory",
-                                "committedDate": "2019-08-16T17:38:26Z",
                                 "url": "https://github.com/elastic/elasticsearch/commit/dd66fc847b311f031571ddeb4bf3884074fac7a4",
-                                "deletions": 11
+                                "deletions": 11,
+                                "message": "Clarify mixed license text (#45637)\n\nThis commit clarifies the mixed licensing in the elasticsearch\r\nrepository. A few points of note:\r\n - we clarify that all code is under the Apache License 2.0 unless noted\r\n   otherwise\r\n - we clarify that code under the Elastic License is only in the x-pack\r\n   directory\r\n - we clarify that when code is not under the Apache License 2.0 nor the\r\n   Elastic License that it is Apache License 2.0 compatible\r\n - we clarify that OSS-builds do not package any code from the x-pack\r\n   directory",
+                                "committedDate": "2019-08-16T17:38:26Z"
                             },
                             {
                                 "additions": 259,
-                                "message": "Reorganize license files\n\nThis commit moves the apache and elastic license files into a new\nroot level `licenses` directory and rewrites the top level LICENSE.txt\nto clarify the repository has a mix of apache and elastic licensed code.",
-                                "committedDate": "2018-04-20T22:33:59Z",
                                 "url": "https://github.com/elastic/elasticsearch/commit/0d8aa7527e242fbda9d84867ab8bc955758eebce",
-                                "deletions": 367
+                                "deletions": 367,
+                                "message": "Reorganize license files\n\nThis commit moves the apache and elastic license files into a new\nroot level `licenses` directory and rewrites the top level LICENSE.txt\nto clarify the repository has a mix of apache and elastic licensed code.",
+                                "committedDate": "2018-04-20T22:33:59Z"
                             },
                             {
                                 "additions": 233,
-                                "message": "assemblies",
-                                "committedDate": "2011-12-06T11:41:49Z",
                                 "url": "https://github.com/elastic/elasticsearch/commit/19d80a7f1b7d41415d208976d464fc3b2a45f84e",
-                                "deletions": 362
+                                "deletions": 362,
+                                "message": "assemblies",
+                                "committedDate": "2011-12-06T11:41:49Z"
                             },
                             {
                                 "additions": 0,
-                                "message": "remove slf4j license, not used in dist",
-                                "committedDate": "2010-04-20T21:56:12Z",
                                 "url": "https://github.com/elastic/elasticsearch/commit/30ae2bb87dd40db931eca460e5f4df50b618f0be",
-                                "deletions": 26
+                                "deletions": 26,
+                                "message": "remove slf4j license, not used in dist",
+                                "committedDate": "2010-04-20T21:56:12Z"
                             },
                             {
                                 "additions": 182199,
-                                "message": "initial commit",
-                                "committedDate": "2010-02-08T13:30:06Z",
                                 "url": "https://github.com/elastic/elasticsearch/commit/b3337c312765e51cec7bde5883bbc0a08f56fb65",
-                                "deletions": 0
+                                "deletions": 0,
+                                "message": "initial commit",
+                                "committedDate": "2010-02-08T13:30:06Z"
                             }
                         ]
                     }
-                },
-                "name": "main"
+                }
             },
-            "url": "https://github.com/elastic/elasticsearch"
+            "nameWithOwner": "elastic/elasticsearch",
+            "relicense_date": "2021-02-03",
+            "new_lic": "Elastic License and\u00a0Server Side Public License"
         }
     },
     {
         "repository": {
-            "nameWithOwner": "elastic/kibana",
+            "project": "Elasticsearch",
+            "orig_lic": "Apache-2.0",
+            "url": "https://github.com/elastic/kibana",
             "defaultBranchRef": {
                 "target": {
                     "history": {
                         "nodes": [
                             {
                                 "additions": 86164,
-                                "message": "Elastic License 2.0 (#90099)\n\n* Updating everything except the license headers themselves\r\n\r\n* Applying ESLint rules\r\n\r\n* Manually replacing the stragglers",
-                                "committedDate": "2021-02-04T02:12:39Z",
                                 "url": "https://github.com/elastic/kibana/commit/4584a8b570402aa07832cf3e5b520e5d2cfa7166",
-                                "deletions": 64410
+                                "deletions": 64410,
+                                "message": "Elastic License 2.0 (#90099)\n\n* Updating everything except the license headers themselves\r\n\r\n* Applying ESLint rules\r\n\r\n* Manually replacing the stragglers",
+                                "committedDate": "2021-02-04T02:12:39Z"
                             },
                             {
                                 "additions": 40505,
-                                "message": "Updating the License (#88343)\n\n* Updating the Licenses, except for applying eslint, building\r\n\r\n* Applying ESLint rules,building @kbn/pm, regenerating api docs",
-                                "committedDate": "2021-01-20T01:52:56Z",
                                 "url": "https://github.com/elastic/kibana/commit/170a2956c84d46262a3ae310f89aee6f2580860a",
-                                "deletions": 125247
+                                "deletions": 125247,
+                                "message": "Updating the License (#88343)\n\n* Updating the Licenses, except for applying eslint, building\r\n\r\n* Applying ESLint rules,building @kbn/pm, regenerating api docs",
+                                "committedDate": "2021-01-20T01:52:56Z"
                             },
                             {
                                 "additions": 276937,
-                                "message": "Migrate x-pack-kibana source to kibana",
-                                "committedDate": "2018-04-24T20:48:10Z",
                                 "url": "https://github.com/elastic/kibana/commit/fe4609647dd2a7a7fedfb23d63f5886a24eacbe1",
-                                "deletions": 2352
+                                "deletions": 2352,
+                                "message": "Migrate x-pack-kibana source to kibana",
+                                "committedDate": "2018-04-24T20:48:10Z"
                             }
                         ]
                     }
-                },
-                "name": "main"
+                }
             },
-            "url": "https://github.com/elastic/kibana"
+            "nameWithOwner": "elastic/kibana",
+            "relicense_date": "2021-02-03",
+            "new_lic": "Elastic License and\u00a0Server Side Public License"
+        }
+    },
+    {
+        "repository": {
+            "project": "LiveCode",
+            "orig_lic": "GPL-3.0-only",
+            "url": "https://github.com/livecode/livecode",
+            "defaultBranchRef": {
+                "target": {
+                    "history": {
+                        "nodes": [
+                            {
+                                "additions": 19,
+                                "url": "https://github.com/livecode/livecode/commit/7ed21d11183942aee70d44dfa52c9e134624f9e3",
+                                "deletions": 19,
+                                "message": "[[ RemoveRunRev ]] Occurrences of RunRev removed from the top folder, and the builder folder",
+                                "committedDate": "2015-08-25T13:38:06Z"
+                            },
+                            {
+                                "additions": 25,
+                                "url": "https://github.com/livecode/livecode/commit/51e3958082d9edd6454c31fdb08c20bed6f65e80",
+                                "deletions": 0,
+                                "message": "Added (temporary) GPL license exception.",
+                                "committedDate": "2013-04-18T09:55:32Z"
+                            },
+                            {
+                                "additions": 491316,
+                                "url": "https://github.com/livecode/livecode/commit/6461cde1ffa8c6092bd425acfd756e1deec1c2a3",
+                                "deletions": 0,
+                                "message": "Initial import.",
+                                "committedDate": "2013-04-10T00:14:58Z"
+                            }
+                        ]
+                    }
+                }
+            },
+            "nameWithOwner": "livecode/livecode",
+            "relicense_date": "2021-08-31",
+            "new_lic": "project archived"
+        }
+    },
+    {
+        "repository": {
+            "project": "MongoDB",
+            "orig_lic": "AGPL-3.0-only",
+            "url": "https://github.com/mongodb/mongo",
+            "defaultBranchRef": {
+                "target": {
+                    "history": {
+                        "nodes": [
+                            {
+                                "additions": 3,
+                                "url": "https://github.com/mongodb/mongo/commit/39e4b706fb1723c97c5a8a551cd948037244068f",
+                                "deletions": 3,
+                                "message": "SERVER-37651 Fix typo in license files",
+                                "committedDate": "2018-10-17T17:56:42Z"
+                            },
+                            {
+                                "additions": 1721,
+                                "url": "https://github.com/mongodb/mongo/commit/5851c894963cb2d675f2c0628e2dc782e23e65a9",
+                                "deletions": 1693,
+                                "message": "SERVER-37651 Update license information",
+                                "committedDate": "2018-10-16T13:06:34Z"
+                            },
+                            {
+                                "additions": 74,
+                                "url": "https://github.com/mongodb/mongo/commit/7ace2d779a7ab654e6ce55806fd38bc0f30c7417",
+                                "deletions": 0,
+                                "message": "SERVER-35665 Add license file for community edition",
+                                "committedDate": "2018-06-19T22:21:31Z"
+                            }
+                        ]
+                    }
+                }
+            },
+            "nameWithOwner": "mongodb/mongo",
+            "relicense_date": "2018-10-16",
+            "new_lic": "Server Side Public License"
+        }
+    },
+    {
+        "repository": {
+            "project": "OTRS",
+            "orig_lic": "GPL-3.0-or-later",
+            "url": "https://github.com/OTRS/otrs",
+            "defaultBranchRef": {
+                "target": {
+                    "history": {
+                        "nodes": [
+                            {
+                                "additions": 172,
+                                "url": "https://github.com/OTRS/otrs/commit/1c658668bdbf1e1b2bba4453b9047a9a5ef11162",
+                                "deletions": 146,
+                                "message": "Updated license.",
+                                "committedDate": "2018-08-22T15:25:54Z"
+                            },
+                            {
+                                "additions": 623,
+                                "url": "https://github.com/OTRS/otrs/commit/aeb31bb62d170577cfd9c0163c44b108f9c09ffb",
+                                "deletions": 302,
+                                "message": "Change GPL2 to AGPL3.",
+                                "committedDate": "2009-02-26T11:51:25Z"
+                            },
+                            {
+                                "additions": 13,
+                                "url": "https://github.com/OTRS/otrs/commit/b6aead9728efeab0d88246d38633e464b85621be",
+                                "deletions": 15,
+                                "message": "version from gnu.org",
+                                "committedDate": "2001-12-01T16:29:37Z"
+                            },
+                            {
+                                "additions": 1,
+                                "url": "https://github.com/OTRS/otrs/commit/ec6012e48171818d9e2d5875d01a283daa3775a9",
+                                "deletions": 1,
+                                "message": "otrs/COPYING",
+                                "committedDate": "2001-12-01T15:52:18Z"
+                            },
+                            {
+                                "additions": 342,
+                                "url": "https://github.com/OTRS/otrs/commit/8d30c8929d6e9cbabf009dbdb793fe068172acb7",
+                                "deletions": 0,
+                                "message": "start! ;-)",
+                                "committedDate": "2001-12-01T15:48:51Z"
+                            }
+                        ]
+                    }
+                }
+            },
+            "nameWithOwner": "OTRS/otrs",
+            "relicense_date": "2021-01-27",
+            "new_lic": "project archived"
+        }
+    },
+    {
+        "repository": {
+            "project": "Redis",
+            "orig_lic": "BSD-3-Clause",
+            "url": "https://github.com/redis/redis",
+            "defaultBranchRef": {
+                "target": {
+                    "history": {
+                        "nodes": [
+                            {
+                                "additions": 1333,
+                                "url": "https://github.com/redis/redis/commit/0b34396924eca4edc524469886dc5be6c77ec4ed",
+                                "deletions": 3066,
+                                "message": "Change license from BSD-3 to dual RSALv2+SSPLv1 (#13157)\n\n[Read more about the license change\r\nhere](https://redis.com/blog/redis-adopts-dual-source-available-licensing/)\r\nLive long and prosper \ud83d\udd96",
+                                "committedDate": "2024-03-20T22:38:24Z"
+                            }
+                        ]
+                    }
+                }
+            },
+            "nameWithOwner": "redis/redis",
+            "relicense_date": "2024-03-20",
+            "new_lic": "dual: custom license and\u00a0Server Side Public License"
+        }
+    },
+    {
+        "repository": {
+            "project": "Sentry",
+            "orig_lic": "BSD-3-Clause",
+            "url": "https://github.com/getsentry/sentry",
+            "defaultBranchRef": {
+                "target": {
+                    "history": {
+                        "nodes": [
+                            {
+                                "additions": 17,
+                                "url": "https://github.com/getsentry/sentry/commit/1760ab3c6bffb86c199bd9eb5a349e95e08d7833",
+                                "deletions": 20,
+                                "message": "Upgrade license to FSL-1.1 (#65879)\n\nhttps://github.com/getsentry/team-ospo/issues/233",
+                                "committedDate": "2024-02-27T22:15:37Z"
+                            },
+                            {
+                                "additions": 16842,
+                                "url": "https://github.com/getsentry/sentry/commit/31aac1b9b0d24eda9c5aef67259bc24dedb94d95",
+                                "deletions": 16170,
+                                "message": "build: replace prettier with biome (#62054)",
+                                "committedDate": "2024-01-27T02:42:21Z"
+                            },
+                            {
+                                "additions": 111,
+                                "url": "https://github.com/getsentry/sentry/commit/d4d89e2fa93ad99f13d54d06d3e7df3e7753b2dc",
+                                "deletions": 108,
+                                "message": "Relicense under FSL-1.0-Apache-2.0 (#60144)\n\nhttps://github.com/getsentry/team-ospo/issues/212\r\n\r\n---------\r\n\r\nCo-authored-by: getsantry[bot] <66042841+getsantry[bot]@users.noreply.github.com>",
+                                "committedDate": "2023-11-17T17:41:05Z"
+                            }
+                        ]
+                    }
+                }
+            },
+            "nameWithOwner": "getsentry/sentry",
+            "relicense_date": "2019-11-06",
+            "new_lic": "Business Source License"
+        }
+    },
+    {
+        "repository": {
+            "project": "Sourcegraph",
+            "orig_lic": "Apache-2.0",
+            "url": "https://github.com/sourcegraph/sourcegraph",
+            "defaultBranchRef": {
+                "target": {
+                    "history": {
+                        "nodes": [
+                            {
+                                "additions": 8,
+                                "url": "https://github.com/sourcegraph/sourcegraph/commit/3cd931ef54407c966fc3a5940a06f0b95a7aadd0",
+                                "deletions": 621,
+                                "message": "relicense all paths other than MIT licensed code, client/cody*, jetbrains, VS code, and browser extension to enterprise (#53345) (#53345)\n\nPreparing for 5.1 based on latest executive decisions. Re-licensing the\r\nmajority of sourcegraph/sourcegraph to enterprise instead of Apache.\r\nOfficial external statements forthcoming with 5.1 release.\r\n\r\n[Searching this branch for LICENSE files\r\n](https://sourcegraph.sourcegraph.com/search?q=context:sourcegraph+repo:%5Egithub%5C.com/sourcegraph/sourcegraph%24+file:LICENSE%24+-file:client/cody+rev:cclark/relicense&patternType=standard&sm=1&groupBy=path)\r\n\r\nThis leaves only 2 licenses in directories other than `client/cody*`\r\n1. MIT code in syntax highlighter\r\n2. MIT code in react-accessible-treeview\r\n\r\nEdit: updates from exec team\r\nJetbrains extension / VS Code extension / browser extension will remain\r\nApache\r\n\r\nHere is a search showing all Apache licensed paths in this branch\r\nhttps://sourcegraph.sourcegraph.com/search?q=context:sourcegraph+repo:%5Egithub%5C.com/sourcegraph/sourcegraph%24+file:LICENSE%24++rev:cclark/relicense&patternType=standard&sm=1&groupBy=path\r\n\r\nIf either of those should be changing, please let me know.\r\n## Test plan\r\nN/A\r\n<!-- All pull requests REQUIRE a test plan:\r\nhttps://docs.sourcegraph.com/dev/background-information/testing_principles\r\n-->",
+                                "committedDate": "2023-06-13T17:28:11Z"
+                            },
+                            {
+                                "additions": 25,
+                                "url": "https://github.com/sourcegraph/sourcegraph/commit/fe773d84afa6de6d111f6bbb698122cb46df46f8",
+                                "deletions": 16,
+                                "message": "update licensing language (#25620)",
+                                "committedDate": "2021-10-04T14:40:59Z"
+                            },
+                            {
+                                "additions": 1,
+                                "url": "https://github.com/sourcegraph/sourcegraph/commit/626fca7bb39c256ee3cca18bb75d00173d51937b",
+                                "deletions": 1,
+                                "message": "move comma outside quotes in LICENSE (#24828)",
+                                "committedDate": "2021-09-13T14:29:57Z"
+                            },
+                            {
+                                "additions": 1,
+                                "url": "https://github.com/sourcegraph/sourcegraph/commit/1e9e64ea30ca3c9fa742847286e3e4934ce39b9e",
+                                "deletions": 1,
+                                "message": "exclude all directories named \"enterprise\" from apache license (#23150)",
+                                "committedDate": "2021-07-23T00:58:33Z"
+                            },
+                            {
+                                "additions": 318,
+                                "url": "https://github.com/sourcegraph/sourcegraph/commit/45f9839011ac5df56d1cb07dfa09c7749dd26084",
+                                "deletions": 245,
+                                "message": "Move all client code into client/ folder (#14480)",
+                                "committedDate": "2020-10-07T20:23:53Z"
+                            },
+                            {
+                                "additions": 43,
+                                "url": "https://github.com/sourcegraph/sourcegraph/commit/484e222e9a83520f9b843f76b16c237da66beeec",
+                                "deletions": 45,
+                                "message": "clarify license (#2543)\n\nfix #2308",
+                                "committedDate": "2019-03-03T08:39:46Z"
+                            },
+                            {
+                                "additions": 257,
+                                "url": "https://github.com/sourcegraph/sourcegraph/commit/200fb1bed91ff839cd7e6d691618724cb981a2d0",
+                                "deletions": 201,
+                                "message": "enterprise license",
+                                "committedDate": "2018-10-27T02:13:36Z"
+                            },
+                            {
+                                "additions": 1014596,
+                                "url": "https://github.com/sourcegraph/sourcegraph/commit/02a03f54c15c3f86fcec2aed2f2b00adae5cd237",
+                                "deletions": 0,
+                                "message": "Publish Sourcegraph as open source \ud83d\ude80\n\nInternal revision: sourcegraph/sourcegraph-intermediate-2018@d0cebbadc708dc53ddddee6753f494214a589b26\nExecutor: @slimsag",
+                                "committedDate": "2018-10-01T06:13:36Z"
+                            }
+                        ]
+                    }
+                }
+            },
+            "nameWithOwner": "sourcegraph/sourcegraph",
+            "relicense_date": "2018-10-27",
+            "new_lic": "Sourcegraph Enterprise license"
+        }
+    },
+    {
+        "repository": {
+            "project": "Terraform",
+            "orig_lic": "MPL-2.0",
+            "url": "https://github.com/hashicorp/terraform",
+            "defaultBranchRef": {
+                "target": {
+                    "history": {
+                        "nodes": [
+                            {
+                                "additions": 5,
+                                "url": "https://github.com/hashicorp/terraform/commit/a90ba0bfe4aa8a189fdd571e3d964134eacf591e",
+                                "deletions": 5,
+                                "message": "update year in license files",
+                                "committedDate": "2023-12-06T19:58:53Z"
+                            },
+                            {
+                                "additions": 10,
+                                "url": "https://github.com/hashicorp/terraform/commit/6701fa9513bf72fa9402a73dfde229de88b31412",
+                                "deletions": 9,
+                                "message": "Update LICENSE (#34304)\n\n* Update LICENSE",
+                                "committedDate": "2023-11-28T16:14:14Z"
+                            },
+                            {
+                                "additions": 29,
+                                "url": "https://github.com/hashicorp/terraform/commit/8f8b08b89e555f154752cff73a29aaa69b4705f4",
+                                "deletions": 23,
+                                "message": "make line wrap more consistent",
+                                "committedDate": "2023-11-08T00:39:31Z"
+                            },
+                            {
+                                "additions": 28,
+                                "url": "https://github.com/hashicorp/terraform/commit/04aded802539ec6789870d8f09b67c428cfd08cf",
+                                "deletions": 4,
+                                "message": "Update LICENSE text",
+                                "committedDate": "2023-11-08T00:29:45Z"
+                            },
+                            {
+                                "additions": 3,
+                                "url": "https://github.com/hashicorp/terraform/commit/725752fd4fdc49bf7242fd496e626b3e90c71c5f",
+                                "deletions": 3,
+                                "message": "cleanup after 1.7.0-alpha20231025 release",
+                                "committedDate": "2023-10-25T12:51:50Z"
+                            },
+                            {
+                                "additions": 4,
+                                "url": "https://github.com/hashicorp/terraform/commit/d87da9f41da288b4cb5b1fc89cfba0003587ca16",
+                                "deletions": 4,
+                                "message": "prepare for 1.7.0-alpha20231025",
+                                "committedDate": "2023-10-25T11:18:26Z"
+                            },
+                            {
+                                "additions": 4,
+                                "url": "https://github.com/hashicorp/terraform/commit/eba6e4b8e29f3dc09eb04b380bc26f302590852c",
+                                "deletions": 46,
+                                "message": "update changelog for 1.7.0",
+                                "committedDate": "2023-08-31T13:07:51Z"
+                            },
+                            {
+                                "additions": 3,
+                                "url": "https://github.com/hashicorp/terraform/commit/8402b97baf0cb137854e9a46575c2c7ff71181cd",
+                                "deletions": 3,
+                                "message": "version: Clean up after 1.6.0-alpha20230816 release",
+                                "committedDate": "2023-08-16T22:01:08Z"
+                            },
+                            {
+                                "additions": 3,
+                                "url": "https://github.com/hashicorp/terraform/commit/dd8ab0be17a43d6e1a5cad2152c1b62b9ceaef45",
+                                "deletions": 3,
+                                "message": "version: prepare for 1.6.0-alpha20230816 release",
+                                "committedDate": "2023-08-16T19:55:03Z"
+                            },
+                            {
+                                "additions": 1,
+                                "url": "https://github.com/hashicorp/terraform/commit/0706867dac319b5c434016727a9843768d9406ed",
+                                "deletions": 1,
+                                "message": "Update BUSL LICENSE to include licensed product and version. (#33697)\n\nCo-authored-by: hashicorp-copywrite[bot] <110428419+hashicorp-copywrite[bot]@users.noreply.github.com>",
+                                "committedDate": "2023-08-16T13:18:19Z"
+                            },
+                            {
+                                "additions": 61,
+                                "url": "https://github.com/hashicorp/terraform/commit/b145fbcaadf0fa7d0e7040eac641d9aef2a26433",
+                                "deletions": 356,
+                                "message": "Updating the license from MPL to Business Source License\n\nGoing forward, this project will be licensed under the Business Source License v1.1. Please see our blog post for more details at https://hashi.co/bsl-blog, FAQ at https://hashi.co/license-faq, and details of the license at www.hashicorp.com/bsl.",
+                                "committedDate": "2023-08-10T22:43:21Z"
+                            },
+                            {
+                                "additions": 2,
+                                "url": "https://github.com/hashicorp/terraform/commit/dcee05d198de6d992057b7ca7556a36f37c35a41",
+                                "deletions": 0,
+                                "message": "[COMPLIANCE] Update MPL 2.0 LICENSE",
+                                "committedDate": "2022-10-12T17:36:01Z"
+                            },
+                            {
+                                "additions": 354,
+                                "url": "https://github.com/hashicorp/terraform/commit/ab411a1952f5b28e6c4bd73071194761da36a83f",
+                                "deletions": 0,
+                                "message": "Adding license",
+                                "committedDate": "2014-07-28T17:54:06Z"
+                            }
+                        ]
+                    }
+                }
+            },
+            "nameWithOwner": "hashicorp/terraform",
+            "relicense_date": "2023-08-10",
+            "new_lic": "Business Source License"
+        }
+    },
+    {
+        "repository": {
+            "project": "Timescale",
+            "orig_lic": "Apache-2.0",
+            "url": "https://github.com/timescale/timescaledb",
+            "defaultBranchRef": {
+                "target": {
+                    "history": {
+                        "nodes": [
+                            {
+                                "additions": 33,
+                                "url": "https://github.com/timescale/timescaledb/commit/fc425398f2820b2366e30b03d7768d2e89a5e726",
+                                "deletions": 243,
+                                "message": "Add new top-level licensing information\n\nClarify better how source code is split between Apache 2.0 and Timescale\nLicense, to now serve as a reference file to which GitHub will point.  Also\ncleanup NOTICE to point to LICENSE files.",
+                                "committedDate": "2018-12-29T10:12:45Z"
+                            },
+                            {
+                                "additions": 0,
+                                "url": "https://github.com/timescale/timescaledb/commit/546152d806ca729547ffd35b014eb81673567d34",
+                                "deletions": 0,
+                                "message": "Rename LICENSE to LICENSE-APACHE to be more specific",
+                                "committedDate": "2018-10-29T17:28:19Z"
+                            },
+                            {
+                                "additions": 463,
+                                "url": "https://github.com/timescale/timescaledb/commit/4bf76d830c72367c03b1f3492ad58840b53c26a4",
+                                "deletions": 0,
+                                "message": "Add Apache 2.0 LICENSE and NOTICE",
+                                "committedDate": "2017-03-07T17:02:21Z"
+                            }
+                        ]
+                    }
+                }
+            },
+            "nameWithOwner": "timescale/timescaledb",
+            "relicense_date": "2018-12-29",
+            "new_lic": "Timescale License"
+        }
+    },
+    {
+        "repository": {
+            "project": "Vagrant",
+            "orig_lic": "MIT",
+            "url": "https://github.com/hashicorp/vagrant",
+            "defaultBranchRef": {
+                "target": {
+                    "history": {
+                        "nodes": [
+                            {
+                                "additions": 12,
+                                "url": "https://github.com/hashicorp/vagrant/commit/d5a28aea9542ee8e04e35dacecc031e4dcae02a0",
+                                "deletions": 2,
+                                "message": "Update files for new development 2.4.2.dev",
+                                "committedDate": "2024-01-19T20:59:13Z"
+                            },
+                            {
+                                "additions": 19,
+                                "url": "https://github.com/hashicorp/vagrant/commit/720b68f59facb98781e096747864262df6cc8a3a",
+                                "deletions": 19,
+                                "message": "Release 2.4.1",
+                                "committedDate": "2024-01-19T20:59:12Z"
+                            },
+                            {
+                                "additions": 2,
+                                "url": "https://github.com/hashicorp/vagrant/commit/f4270108a49c5dcdfd5d5e412e4a168f66864086",
+                                "deletions": 2,
+                                "message": "update license year",
+                                "committedDate": "2023-12-06T19:25:11Z"
+                            },
+                            {
+                                "additions": 3,
+                                "url": "https://github.com/hashicorp/vagrant/commit/db83dbf264b60fa33317a3dbab07f7e4ae029992",
+                                "deletions": 3,
+                                "message": "Fix version value and update all templates",
+                                "committedDate": "2023-12-04T16:38:10Z"
+                            },
+                            {
+                                "additions": 1,
+                                "url": "https://github.com/hashicorp/vagrant/commit/f1d5ddaec185decbc2bb8bd80ed654079d5d2ab9",
+                                "deletions": 1,
+                                "message": "Update LICENSE",
+                                "committedDate": "2023-11-27T23:39:37Z"
+                            },
+                            {
+                                "additions": 7,
+                                "url": "https://github.com/hashicorp/vagrant/commit/74e1011418ac9e984aa984ff0eaa3d0579cd46df",
+                                "deletions": 7,
+                                "message": "Remove non-ASCII characters from license content",
+                                "committedDate": "2023-11-13T19:14:36Z"
+                            },
+                            {
+                                "additions": 34,
+                                "url": "https://github.com/hashicorp/vagrant/commit/ed929d2c81638ef2ae391f0ce368a7e96516c395",
+                                "deletions": 4,
+                                "message": "Update LICENSE text",
+                                "committedDate": "2023-11-08T18:26:29Z"
+                            },
+                            {
+                                "additions": 12,
+                                "url": "https://github.com/hashicorp/vagrant/commit/d488f5fe0c934b92d4029a6b41e092a1f0878a0a",
+                                "deletions": 2,
+                                "message": "Release 2.4.0",
+                                "committedDate": "2023-10-16T16:20:13Z"
+                            },
+                            {
+                                "additions": 6,
+                                "url": "https://github.com/hashicorp/vagrant/commit/5a2b888c371bd0c8dcae3abe1403e89020c6d6ca",
+                                "deletions": 6,
+                                "message": "Release 2.4.0",
+                                "committedDate": "2023-10-16T16:20:13Z"
+                            },
+                            {
+                                "additions": 61,
+                                "url": "https://github.com/hashicorp/vagrant/commit/731e9cb6c48df71d8c3f8d2b929dd35875250d2d",
+                                "deletions": 19,
+                                "message": "Updating the license from MPL to Business Source License\n\nGoing forward, this project will be licensed under the Business Source License v1.1. Please see our blog post for more details at https://hashi.co/bsl-blog, FAQ at https://hashi.co/license-faq, and details of the license at www.hashicorp.com/bsl.",
+                                "committedDate": "2023-08-10T20:53:17Z"
+                            },
+                            {
+                                "additions": 1,
+                                "url": "https://github.com/hashicorp/vagrant/commit/445916c5bb1b6f686501f0e1e2f11261d65266be",
+                                "deletions": 3,
+                                "message": "Update LICENSE\n\nA recent audit of public HashiCorp repos identified this LICENSE file as not adhering to our standard format. This commit brings the LICENSE file back into compliance with HashiCorp OSS best practices.",
+                                "committedDate": "2022-11-10T01:29:45Z"
+                            },
+                            {
+                                "additions": 1,
+                                "url": "https://github.com/hashicorp/vagrant/commit/dd782294f49fc0e1bec5cb173500c46232ca9f6f",
+                                "deletions": 1,
+                                "message": "Update year on LICENSE",
+                                "committedDate": "2019-03-25T17:21:32Z"
+                            },
+                            {
+                                "additions": 1,
+                                "url": "https://github.com/hashicorp/vagrant/commit/b8aa73c3fab4623a314d3eba6341b6783b53fad7",
+                                "deletions": 1,
+                                "message": "Update license year",
+                                "committedDate": "2018-01-01T16:34:38Z"
+                            },
+                            {
+                                "additions": 1,
+                                "url": "https://github.com/hashicorp/vagrant/commit/afbe7c7418d1451004f633b7cb9e3624a18ac835",
+                                "deletions": 1,
+                                "message": "update license to 2017",
+                                "committedDate": "2017-01-03T03:43:46Z"
+                            },
+                            {
+                                "additions": 1,
+                                "url": "https://github.com/hashicorp/vagrant/commit/9dcf10115a5b01936e33071b82279e50c14c7116",
+                                "deletions": 1,
+                                "message": "Updated copyright to 2016",
+                                "committedDate": "2016-01-01T01:29:10Z"
+                            },
+                            {
+                                "additions": 1,
+                                "url": "https://github.com/hashicorp/vagrant/commit/af1f2a4e7f7cbebe1bb6b544e1232ff016449cd5",
+                                "deletions": 1,
+                                "message": "Update year in license",
+                                "committedDate": "2015-01-06T22:10:13Z"
+                            },
+                            {
+                                "additions": 1,
+                                "url": "https://github.com/hashicorp/vagrant/commit/f2aad2679e02ff91a8f8b2024ba657975dfaf507",
+                                "deletions": 1,
+                                "message": ":fireworks: New year! :fireworks:",
+                                "committedDate": "2014-01-02T02:48:22Z"
+                            },
+                            {
+                                "additions": 2,
+                                "url": "https://github.com/hashicorp/vagrant/commit/4341aa162a59b7600d71fd4915abd37ae9859750",
+                                "deletions": 2,
+                                "message": "Update year in LICENSE",
+                                "committedDate": "2013-01-26T00:29:13Z"
+                            },
+                            {
+                                "additions": 1,
+                                "url": "https://github.com/hashicorp/vagrant/commit/13760e81de97dbc31be60885eb6dcb37233dd09a",
+                                "deletions": 1,
+                                "message": "Update LICENSE year",
+                                "committedDate": "2012-01-16T05:17:10Z"
+                            },
+                            {
+                                "additions": 21,
+                                "url": "https://github.com/hashicorp/vagrant/commit/5bcc5123a8dad5fc13aa730d56937de39584c71c",
+                                "deletions": 0,
+                                "message": "MIT License",
+                                "committedDate": "2010-03-08T00:58:24Z"
+                            }
+                        ]
+                    }
+                }
+            },
+            "nameWithOwner": "hashicorp/vagrant",
+            "relicense_date": "2023-08-10",
+            "new_lic": "Business Source License"
         }
     }
 ]
