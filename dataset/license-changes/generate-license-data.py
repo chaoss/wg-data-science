@@ -38,6 +38,7 @@ def setup_validate():
         
         with open(input_data_file, 'r') as f:
             data = csv.reader(f)
+            next(data, None) # skip header line
             for row in data:
                 # Skip blank lines
                 if len(row) != 0:
