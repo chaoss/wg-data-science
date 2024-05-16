@@ -44,9 +44,9 @@ def setup_validate():
                     input_data.append(row)
 
                     # Make sure the csv file has 3 values per row before continuing
-                    if len(row) != 8:
+                    if len(row) != 7:
                         print("Data errors detected in row containing:", row)
-                        print("Each line in the csv must contain 8 values.")
+                        print("Each line in the csv must contain 7 values.")
                         sys.exit(1)
 
         # Check for empty file and exit
@@ -104,13 +104,12 @@ def get_license_data():
 
     for row in input_data:
         project = row[0]
-        orig_yr = row[1]
-        relicense_yr = row[2]
-        orig_lic = row[3]
-        new_lic = row[4]
-        org = row[5]
-        repo = row[6]
-        lic_file = row[7]
+        relicense_date = row[1]
+        orig_lic = row[2]
+        new_lic = row[3]
+        org = row[4]
+        repo = row[5]
+        lic_file = row[6]
 
         try:
             query = make_query()
@@ -122,8 +121,7 @@ def get_license_data():
             
             # Add data from csv file
             json_data['repository']['project'] = project
-            json_data['repository']['orig_yr'] = orig_yr
-            json_data['repository']['relicense_yr'] = relicense_yr
+            json_data['repository']['relicense_date'] = relicense_date
             json_data['repository']['orig_lic'] = orig_lic
             json_data['repository']['new_lic'] = new_lic
                                     
