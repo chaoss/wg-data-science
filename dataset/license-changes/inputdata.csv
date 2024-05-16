@@ -1,4 +1,4 @@
-project,relicense_date,orig_license,new_lice,org,repo,license_file
+project,relicense_date,orig_license,new_license,org,repo,license_file
 Akka,2022-09-07,Apache-2.0,Business Source License,akka,akka,LICENSE
 ArangoDB,2024-02-23,Apache-2.0,Business Source License,arangodb,arangodb,LICENSE
 Aseprite,2016-08-29,GPL-2.0,EULA that permits personal use but forbids redistribution,aseprite,aseprite,EULA.txt
