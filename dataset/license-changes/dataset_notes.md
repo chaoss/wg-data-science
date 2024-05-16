@@ -10,8 +10,17 @@ Excluded:
 * Nexuiz,2005,2012,GPL-2.0-or-later,"Game abandoned in favour of a commercial video game of the same name, which licensed the Nexuiz title but is not based on its engine." - couldn't find source code repo
 * OctoberCMS,2014,2021,MIT,Cited the sustainability of its open source model as a factor. - couldn't find source code repo
 * Paint.NET,2004,2007,MIT,freeware license that prohibits modification or resale - couldn't find source code repo
+* PyMOL,2010,MIT-CMU,Custom,schrodinger,pymol-open-source,LICENSE - I couldn't find evidence that this was ever under an OSI license
 * Reddit,2008,2017,CPAL-1.0,"Source code was made private in 2017, as the internal codebase had already diverged significantly from the public one." - couldn't find source code repo
 * Sourcegraph,2013,2023,Apache-2.0,proprietary - - couldn't find source code repo
 * Tux Racer,2000,2002,GPL-2.0-or-later,"Commercial expansion by original authors, also called Tux Racer."
 
-Note: for the projects where the repo could not be found, you might be able to find a fork from someone else's account to analyze. I didn't attempt to find these. Also, I didn't spend much time looking - someone else should confirm these.
+# Other data
+
+Excluded:
+* MariaDB MaxScale is inder BSL1, but I couldn't find the repo or info about the license change: https://mariadb.com/projects-using-bsl-11/
+
+
+# Important Notes
+
+For the projects where the repo could not be found, you might be able to find a fork from someone else's account to analyze. I didn't attempt to find these. Also, I didn't spend much time looking - someone else should confirm these because I could have easily just missed them.
