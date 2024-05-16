@@ -1,0 +1,24 @@
+Akka,2009,2022,Apache-2.0,Business Source License
+ArangoDB,2011,2023,Apache-2.0,Business Source License
+Aseprite,2001,2016,GPL-2.0,EULA that permits personal use but forbids redistribution
+CockroachDB,2015,2019,Apache-2.0,Business Source License
+Consul,2014,2023,MPL-2.0,Business Source License
+Couchbase Server,2010,2021,Apache-2.0,Business Source License
+Couchbase Mobile,,2022,Apache-2.0,Business Source License
+Elasticsearch,2010,2021,Apache-2.0,"Elastic License and Server Side Public License"
+Emby,2014,2018,GPL-2.0,"Source code closed on December 8, 2018"
+FBReader,2013,2015,GPL-2.0-or-later,"Apparently the number of devs was limited, and they all agreed to relicense it"
+LiveCode,2013,2021,GPL-3.0-only,proprietary
+LiveJournal,1999,2014,GPL-2.0-or-later,The source code was made private in 2014
+MongoDB,2009,2018,AGPL-3.0-only,Server Side Public License
+Nexuiz,2005,2012,GPL-2.0-or-later,"Game abandoned in favour of a commercial video game of the same name, which licensed the Nexuiz title but is not based on its engine."
+OctoberCMS,2014,2021,MIT,Cited the sustainability of its open source model as a factor.
+OTRS,2001,2020,GPL-3.0-or-later,"Support for the Community Edition dropped on December 23, 2020"
+Paint.NET,2004,2007,MIT,freeware license that prohibits modification or resale
+PyMOL,2000,2010,MIT-CMU
+Reddit,2008,2017,CPAL-1.0,"Source code was made private in 2017, as the internal codebase had already diverged significantly from the public one."
+Redis,2009,2024,BSD-3-Clause,dual: custom license and Server Side Public License
+Sourcegraph,2013,2023,Apache-2.0,proprietary
+Terraform,2014,2023,MPL-2.0,Business Source License
+Tux Racer,2000,2002,GPL-2.0-or-later,"Commercial expansion by original authors, also called Tux Racer."
+Vagrant,2010,2023,MIT,Business Source License
