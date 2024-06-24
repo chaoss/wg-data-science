@@ -59,6 +59,7 @@ You should also continue to monitor it over the long-term to see if your improve
 # Additional Reading
 
 * [Practitioner Guide series](https://chaoss.community/about-chaoss-practitioner-guides/) with guides to help you improve responsiveness, contributor sustainability, organizational participation, and more.
+* A short video about each guide can be found in the [Practitioner Guides Playlist](https://www.youtube.com/watch?v=xTK2xsd4jZE&list=PL60k37cxI-HSHV4-rEsWMzExw2y2Oq79Z) in the CHAOSS YouTube channel.
 * For more cautions, considerations, and best practices, please read [Beyond the Repository](https://cacm.acm.org/magazines/2023/10/276630-beyond-the-repository/fulltext) by Amanda Casari, Julia Ferraioli, and Juniper Lovato.
 * Video of a panel related to developing a [metrics strategy for your OSPO](https://community.linuxfoundation.org/events/details/lfhq-todo-group-ospology-presents-ways-to-define-a-metrics-strategy-in-your-ospo/) and a blog post about [building an open source strategy](https://blogs.vmware.com/opensource/2020/03/03/open-source-strategy/) and using metrics to determine success. 
 * [CHAOSS Software](https://chaoss.community/software/)
