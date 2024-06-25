@@ -80,6 +80,7 @@ If you are recruiting new contributors, approvers, and maintainers, it might tak
 
 # Additional Reading
 
+* We have a [short video](https://www.youtube.com/watch?v=xTK2xsd4jZE&list=PL60k37cxI-HSHV4-rEsWMzExw2y2Oq79Z&index=2) (< 3 minutes) devoted to this guide on the CHAOSS YouTube channel.
 * The CNCF has several [templates](https://contribute.cncf.io/maintainers/templates/) for writing a good [CONTRIBUTING.md](https://contribute.cncf.io/maintainers/templates/contributing/) guide and [Contributor Ladder](https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md).
 * The [Responsiveness Practitioner Guide](https://chaoss.community/practitioner-guide-responsiveness/) also has some similar suggestions that can apply to contributor sustainability. 
 * [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/dp/0578675862/) by [Nadia Eghbal](https://nadia.xyz/) has quite a few good suggestions and references on this topic in Chapter 5, Managing the Costs of Production.

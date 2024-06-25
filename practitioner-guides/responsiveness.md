@@ -98,6 +98,7 @@ Responsiveness can be a challenging metric to improve because many things happen
 
 # Additional Reading
 
+* We have a [short video](https://www.youtube.com/watch?v=lLx8l6F-Muk&list=PL60k37cxI-HSHV4-rEsWMzExw2y2Oq79Z&index=4) (< 3 minutes) devoted to this guide on the CHAOSS YouTube channel.
 * The [Contributor Sustainability Practitioner Guide](https://chaoss.community/practitioner-guide-contributor-sustainability/) has more details about recruiting contributors and moving them into leadership roles, like reviewer and maintainer.
 * [CHAOSScast episode about this responsiveness guide](https://podcast.chaoss.community/85)
 * [Measuring Open Source project health](https://opensource.net/measure-open-source-project-health/) has a section about responsiveness.
