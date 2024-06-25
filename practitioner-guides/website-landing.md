@@ -9,6 +9,6 @@ These guides will be especially useful for Open Source Program Offices (OSPOs), 
 * [Practitioner Guide: Responsiveness](https://chaoss.community/practitioner-guide-responsiveness/)
 * [Practitioner Guide: Organizational Participation](https://chaoss.community/practitioner-guide-organizational-participation/)
 
-A short video about each guide can be found in the [Practitioner Guides Playlist](https://www.youtube.com/watch?v=xTK2xsd4jZE&list=PL60k37cxI-HSHV4-rEsWMzExw2y2Oq79Z) in the CHAOSS YouTube channel.
+A short video about each guide can be found in the [Practitioner Guides Playlist](https://www.youtube.com/playlist?list=PL60k37cxI-HSHV4-rEsWMzExw2y2Oq79Z) in the CHAOSS YouTube channel.
 
 We also have more guides coming soon. You can see the work in progress guides, contribute to them, and propose new guides in the [Practitioner Guides](https://github.com/chaoss/wg-data-science/tree/main/practitioner-guides) section of the CHAOSS Data Science Working Group repository.
