@@ -113,6 +113,6 @@ The following people contributed to this guide:
 # References
 
 * Eghbal, N. (2016). [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/). New York, NY: Ford Foundation.
-* Fagerholm, F., Guinea, A. S., Münch, J., & Borenstein, J. (2014, September). [The role of mentoring and project characteristics for onboarding in open source software projects]https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2096b22e7a465eec6ece0933acefebffc286d1f2). In Proceedings of the 8th ACM/IEEE international symposium on empirical software engineering and measurement (pp. 1-10). 
+* Fagerholm, F., Guinea, A. S., Münch, J., & Borenstein, J. (2014, September). [The role of mentoring and project characteristics for onboarding in open source software projects](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2096b22e7a465eec6ece0933acefebffc286d1f2). In Proceedings of the 8th ACM/IEEE international symposium on empirical software engineering and measurement (pp. 1-10). 
 * Miller, C., Widder, D. G., Kästner, C., & Vasilescu, B. (2019). [Why do people give up flossing? a study of contributor disengagement in open source](https://inria.hal.science/hal-02305702/file/484969_1_En_11_Chapter.pdf). In Open Source Systems: 15th IFIP WG 2.13 International Conference, OSS 2019, Montreal, QC, Canada, May 26–27, 2019, Proceedings 15 (pp. 116-129). Springer International Publishing.
 
