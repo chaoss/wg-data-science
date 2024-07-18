@@ -103,3 +103,5 @@ The following people contributed to this guide:
 * Eghbal, N. (2016). [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/). New York, NY: Ford Foundation.
 * Eghbal, N. (2020). [Working in Public: The Making and Maintenance of Open Source Software](https://nadia.xyz/oss/). Stripe Press.
 * Fagerholm, F., Guinea, A. S., Münch, J., & Borenstein, J. (2014, September). [The role of mentoring and project characteristics for onboarding in open source software projects](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2096b22e7a465eec6ece0933acefebffc286d1f2). In Proceedings of the 8th ACM/IEEE international symposium on empirical software engineering and measurement (pp. 1-10). 
+
+CHAOSS Practitioner Guides are MIT licensed, living documents, and we welcome your feedback and input. You can suggest edits to this document at https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/contributor-sustainability.md

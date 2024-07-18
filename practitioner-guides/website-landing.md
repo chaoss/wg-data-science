@@ -11,4 +11,4 @@ These guides will be especially useful for Open Source Program Offices (OSPOs), 
 
 A short video about each guide can be found in the [Practitioner Guides Playlist](https://www.youtube.com/playlist?list=PL60k37cxI-HSHV4-rEsWMzExw2y2Oq79Z) in the CHAOSS YouTube channel.
 
-We also have more guides coming soon. You can see the work in progress guides, contribute to them, and propose new guides in the [Practitioner Guides](https://github.com/chaoss/wg-data-science/tree/main/practitioner-guides) section of the CHAOSS Data Science Working Group repository.
+We also have more guides coming soon. You can see the work in progress guides, contribute to them, and propose new guides in the [Practitioner Guides](https://github.com/chaoss/wg-data-science/tree/main/practitioner-guides) section of the CHAOSS Data Science Working Group repository. These guides are under the MIT License, so you can use them in a variety of ways that best meet your needs, including copying and modifying them for your organization. 
