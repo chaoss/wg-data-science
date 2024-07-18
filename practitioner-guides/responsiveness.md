@@ -122,3 +122,5 @@ The following people contributed to this guide:
 * Eghbal, Nadia (2020). [Working in Public: The Making and Maintenance of Open Source Software](https://nadia.xyz/oss/). Stripe Press.
 * Fronchetti, F., Wiese, I., Pinto, G., & Steinmacher, I. (2019). [What attracts newcomers to onboard on oss projects? tl; dr: Popularity](https://inria.hal.science/hal-02305705/document). In Open Source Systems: 15th IFIP WG 2.13 International Conference, OSS 2019, Montreal, QC, Canada, May 26–27, 2019, Proceedings 15 (pp. 91-103). Springer International Publishing.
 * GitHub (2017). GitHub Open Source Survey 2017 [Data set]. https://github.com/github/open-source-survey/ 
+
+CHAOSS Practitioner Guides are MIT licensed, living documents, and we welcome your feedback and input. You can suggest edits to this document at https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/responsiveness.md

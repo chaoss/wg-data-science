@@ -81,3 +81,5 @@ The following people contributed to this guide:
 * Casari, A., Ferraioli, J., & Lovato, J. (2023). [Beyond the repository: Best practices for open source ecosystems researchers](https://cacm.acm.org/practice/beyond-the-repository/). Queue, 21(2), 14-34.
 * Goggins, S. P., Germonprez, M., & Lumbard, K. (2021). [Making open source project health transparent](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9504501). Computer, 54(8), 104-111.
 * Linåker, J., Papatheocharous, E., & Olsson, T. (2022, September). [How to characterize the health of an Open Source Software project? A snowball literature review of an emerging practice](https://dl.acm.org/doi/pdf/10.1145/3555051.3555067). In Proceedings of the 18th International Symposium on Open Collaboration (pp. 1-12).
+
+CHAOSS Practitioner Guides are MIT licensed, living documents, and we welcome your feedback and input. You can suggest edits to this document at https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/introduction.md
