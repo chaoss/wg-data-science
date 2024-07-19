@@ -117,7 +117,7 @@ The following people contributed to this guide:
 * Chan Voong
 * Remy DeCausemaker
 * Luis Cañas Díaz
-* Joachim
+* Joachim Noreiko
 
 # References
 
