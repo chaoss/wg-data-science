@@ -83,7 +83,7 @@ Another way to reduce reviewer friction and make it easier for maintainers to re
 * Clear policies and examples for naming, tagging, and labeling of change requests.
 * Provide expectations for reviews (e.g., we try not to leave issues / change requests open for more than X days, we do backlog grooming every X days / weeks / months.)
 
-The caution with issue and change requests is that you need to find a balance between getting enough information to make it easier for maintainers to review requests, while not asking for so much information that you scare new contributors away before they can contribute.
+The caution with issue and change request templates is that you need to find a balance between getting enough information to make it easier for maintainers to review requests, while not asking for so much information that you scare new contributors away before they can contribute.
 
 Talk to your maintainers and find out what else they spend time on. If maintainers spend a lot of time on things like community management, documentation, or other non-coding tasks, then recruiting people to help in those roles is time well spent. In other cases, improved documentation might help reduce maintainer workload; for example, if maintainers spend a lot of time onboarding contributors or answering questions about the contribution process, maybe better onboarding documents or contributor guides would free up some time to focus on responding to incoming contributions.
 
