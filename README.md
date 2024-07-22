@@ -5,8 +5,8 @@
 - [Introduction](#introduction)
 - [Participate](#participate)
 - [Practitioner Guides](#practitioner-guides)
+- [Projects](#projects)
 - [Contributing](#contributing)
-- [Metrics](#metrics)
 - [Contributors](#contributors)
 - [License](#license)
 
@@ -26,7 +26,7 @@ Anyone interested in data science and data analysis can join. You don't need to 
 
 ### Background
 
-This is a working group within the CHAOSS project to support our Data Science Initiative.
+This is a working group within the CHAOSS project to support our Data Science Initiative. If you work for a company who is interested in sponsoring some of our work, we have a [sponsorship prospectus](CHAOSS-Data-Science-Prospectus.pdf) with more details.
 
 ## Participate
 
@@ -44,7 +44,11 @@ We follow the [CHAOSS Code of Conduct](https://github.com/chaoss/governance/blob
 
 The CHAOSS Data Science Working Group drives a set of [Practitioner Guides](https://chaoss.community/about-chaoss-practitioner-guides/) to help people understand how to interpret the data about an open source project to develop insights that can help improve the project health of an open source project. The are designed for Open Source Program Offices (OSPOs), project leads, community managers, maintainers, and anyone who wants to better understand project health and take action on what they learn from their metrics.
 
-If you are interested in [contributing to the practitioner guides](https://github.com/chaoss/wg-data-science/tree/main/practitioner-guides), you can find more details in the practioner-guides folder here in the repo.
+If you are interested in [contributing to the practitioner guides](https://github.com/chaoss/wg-data-science/tree/main/practitioner-guides), you can find more details in the practitioner-guides folder here in the repo.
+
+## Projects
+
+We are also working on a number of projects where we use CHAOSS metrics and tools to help answer questions that people have about open source projects and their unique dynamics. You can find details about these projects in the WG's [GitHub Issues](https://github.com/chaoss/wg-data-science/issues?q=is%3Aissue+is%3Aopen+label%3Aproject).
 
 ## Contributing
 
