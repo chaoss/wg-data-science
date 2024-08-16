@@ -8,7 +8,7 @@
             "https://github.com/keras-team/keras-io",
             "https://github.com/tinygrad/tinygrad",
             "https://github.com/pandas-dev/pandas",
-            "https://github.com/polarisss13/polaris",
+            "https://github.com/pola-rs/polars",
             "https://github.com/apache/arrow",
             "https://github.com/ml-explore/mlx"
         ],
