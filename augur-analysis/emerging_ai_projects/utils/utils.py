@@ -8,7 +8,6 @@ import numpy as np
 import networkx as nx
 import matplotlib.pyplot as plt
 
-
 def get_melted_df(contrib_df):
     
     # Group by 'repo_name' and 'cntrb_id', count occurrences, and reshape with 'repo_name' as columns
@@ -269,7 +268,7 @@ def get_plotly_graph(repo_common_contributors, node_size_factor=None):
     
     return fig
 
-def get_repo_pairs_with_hgighest_common_contributors(repo_common_contributors):
+def get_repo_pairs_with_highest_common_contributors(repo_common_contributors):
     # Sort the list by common contributors count in descending order
     sorted_repos = sorted(repo_common_contributors, key=lambda x: x[2], reverse=True)
 
@@ -294,8 +293,13 @@ def get_repo_pairs_with_hgighest_common_contributors(repo_common_contributors):
         title='Top Repository Pairs with Highest Common Contributor Count',
         xaxis_title='Number of Common Contributors',
         yaxis_title='Repository Pairs',
-        yaxis=dict(autorange='reversed'),  # Invert y-axis to show the highest count on top
-        height=800,  # Adjust height for better readability
-        width=900
-    )     
+        yaxis=dict(
+            autorange='reversed',  # Invert y-axis to show the highest count on top
+            automargin=True  # Automatically adjust margins to accommodate the labels
+        ),
+        height=1400,  # Adjust height for better readability
+        width=1000,  # Increase width to give more space for labels
+        margin=dict(l=300),  # Increase left margin to make space for long labels
+    )
+
     return fig
