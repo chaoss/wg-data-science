@@ -145,7 +145,7 @@ def fetch_pr_contributors(engine, repo_id):
 
 ####################### GRAPHS AND VISUALIZATIONS #######################################
 
-def get_networkx_graph(repo_common_contributors, node_size_factor=None):
+def plot_networkx_graph(repo_common_contributors, node_size_factor=None):
     # Create an empty undirected graph
     g = nx.Graph()
 
@@ -178,7 +178,8 @@ def get_networkx_graph(repo_common_contributors, node_size_factor=None):
     edge_labels = {(u, v): g[u][v]['weight'] for u, v in g.edges()}
     nx.draw_networkx_edge_labels(g, pos, edge_labels=edge_labels, font_size=10, ax=ax)
     
-    return fig
+    plt.show()
+    
 
 def get_plotly_graph(repo_common_contributors, node_size_factor=None):
     # Create a graph and add weighted edges
@@ -190,9 +191,9 @@ def get_plotly_graph(repo_common_contributors, node_size_factor=None):
 
     # Calculate node sizes based on their degree
     if node_size_factor:
-        node_sizes = [nx.degree(g, n) for n in g.nodes()]
-    else:
         node_sizes = [nx.degree(g, n)/node_size_factor for n in g.nodes()]
+    else:
+        node_sizes = [nx.degree(g, n) for n in g.nodes()]
 
     # Extract the x and y coordinates of the nodes
     x_nodes = [pos[node][0] for node in g.nodes()]
