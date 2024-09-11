@@ -24,7 +24,7 @@ Security is a complex topic, but you can start by looking at a few key metrics. 
 
 The [Open Source Security Foundation](https://openssf.org/) (OpenSSF) provides ways to assess your open source project across a number of different dimensions to get a summary of where your project’s practices can be improved. While security practices are an important component, the [OpenSSF Best Practices Badge](https://chaoss.community/?p=3939) goes beyond just security to suggest a range of best practices for your project. It’s a good way to not only assess your security practices and improve on them to meet the badge criteria, but it also signals to your users that you follow OpenSSF best practices. The criteria found in the reporting, security, and analysis sections are the ones that are most applicable to understanding and improving the security of your project.  
 
-![Open SSF Badge example of gold badge from the curl project][https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/images/ossf-badge-curl.png]  
+![Open SSF Badge example of gold badge from the curl project](https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/images/ossf-badge-curl.png)
 
 Image Source: [https://www.bestpractices.dev/en/projects/63](https://www.bestpractices.dev/en/projects/63) 
 
@@ -32,7 +32,7 @@ Image Source: [https://www.bestpractices.dev/en/projects/63](https://www.bestpra
 
 The [Libyears](https://chaoss.community/kb/metric-libyears/) metric explains the age of dependencies that you rely on, compared to the current stable releases of those dependencies. It was first proposed in “Measuring Dependency Freshness in Software Systems” (Cox et al. 2015). In general, a lower Libyear number is better because it indicates that you are keeping your dependencies up to date. 
 
-![Libyear example of a project that is 103.78 years behind][https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/images/libyears.png]
+![Libyear example of a project that is 103.78 years behind](https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/images/libyears.png)
 
 Image Source: [https://github.com/nasirhjafri/libyear](https://github.com/nasirhjafri/libyear)  
 
@@ -50,7 +50,7 @@ Keep in mind that interpreting this metric can be challenging because different 
 
 A good place to start diagnosing potential issues with your project’s security practices is to begin working through the OpenSSF Project Badging Criteria. While it is in progress, it will likely look something like this example:  
 
-![OSSF Badging list of categories for a project that is working toward a badge, but has more work to do][https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/images/ossf-badge-categories.png]  
+![OSSF Badging list of categories for a project that is working toward a badge, but has more work to do](https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/images/ossf-badge-categories.png)  
 
 Image Source: [https://www.bestpractices.dev/en/projects/40](https://www.bestpractices.dev/en/projects/40) 
 
@@ -58,7 +58,7 @@ As mentioned earlier, this includes security best practices, but also more gener
 
 For example, here are a few of the questions under the security section:  
 
-![OSSF Badging criteria from the security section for MITM attacks and vulnerabilities fixed][https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/images/ossf-badge-criteria-example.png]
+![OSSF Badging criteria from the security section for MITM attacks and vulnerabilities fixed](https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/images/ossf-badge-criteria-example.png)
 
 Whether you decide to pursue the badge or not, the [criteria](https://www.bestpractices.dev/en/criteria?details=true&rationale=true) used, especially in the security and reporting sections, are a good way to think about how you might understand and improve the security of your project. There are also other options to perform security self-assessments for your projects, including the [self-assessment that the CNCF](https://github.com/cncf/tag-security/blob/main/community/assessments/guide/self-assessment.md) uses for their projects.
 
