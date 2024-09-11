@@ -111,6 +111,10 @@ Because security is such a complex topic, it can be difficult to monitor. Howeve
 * The [CNCF Security Guidelines](https://contribute.cncf.io/maintainers/security/security-guidelines/) document is much less comprehensive than the OpenSSF guides, but it might be more helpful if you are just starting to improve your security.  
 * [OpenSSF’s OSS Vulnerability Guide](https://github.com/ossf/oss-vulnerability-guide/tree/main) contains a guide along with templates and a runbook focused on developing and implementing a security policy.
 
+# Feedback
+
+We would love to have feedback to learn more about how people are using the CHAOSS Practitioner Guides and how we can improve them over time. Please complete this [short survey](https://forms.gle/w3B1gBH8kp3rPbhr8) to provide your feedback.
+
 # Contributors
 
 The following people contributed to this guide:
@@ -125,3 +129,5 @@ The following people contributed to this guide:
 * Imtiaz, N., Khanom, A., & Williams, L. (2022). [Open or sneaky? fast or slow? light or heavy?: Investigating security releases of open source packages](https://arxiv.org/pdf/2112.06804). *IEEE Transactions on Software Engineering*, *49*(4), 1540-1560.  
 * Synopsys (2024). [Open Source Security and Risk Analysis Report](https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html#introMenu).  
 * Zerouali, A., Mens, T., Gonzalez‐Barahona, J., Decan, A., Constantinou, E., & Robles, G. (2019). [A formal framework for measuring technical lag in component repositories—and its application to npm](https://www.academia.edu/download/101718334/jsep-2019.pdf). *Journal of Software: Evolution and Process*, *31*(8), e2157.
+
+CHAOSS Practitioner Guides are MIT licensed, living documents, and we welcome your feedback and input. You can suggest edits to this document at https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/security.md
