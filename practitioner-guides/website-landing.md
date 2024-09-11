@@ -8,6 +8,7 @@ These guides will be especially useful for Open Source Program Offices (OSPOs), 
 * [Practitioner Guide: Contributor Sustainability](https://chaoss.community/practitioner-guide-contributor-sustainability/)
 * [Practitioner Guide: Responsiveness](https://chaoss.community/practitioner-guide-responsiveness/)
 * [Practitioner Guide: Organizational Participation](https://chaoss.community/practitioner-guide-organizational-participation/)
+* [Practitioner Guide: Security](https://chaoss.community/practitioner-guide-security/)
 
 A short video about each guide can be found in the [Practitioner Guides Playlist](https://www.youtube.com/playlist?list=PL60k37cxI-HSHV4-rEsWMzExw2y2Oq79Z) in the CHAOSS YouTube channel.
 
