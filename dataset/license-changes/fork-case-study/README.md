@@ -8,7 +8,7 @@ The current WIP draft of the research report can be found in this [Google doc](h
 
 The [notebooks](notebooks) folder contains basic analysis of the organizational affiliation data for the contributors per open source project.
 
-The [data-files](datafiles) folder contains data files (pickled) for each project with commits for a specific time period being studied (e.g., 1 year before the relicense).
+The [data-files](data-files) folder contains data files (pickled) for each project with commits for a specific time period being studied (e.g., 1 year before the relicense).
 
 We still have a lot of work to do. Here are a few next steps that people can begin working on:
 * Move the data collection script (currently at https://github.com/geekygirldawn/project-api-metrics/blob/main/scripts/commits_people.py) - @geekygirldawn is doing this.
