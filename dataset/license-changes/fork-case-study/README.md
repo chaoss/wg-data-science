@@ -12,6 +12,5 @@ The [data-files](data-files) folder contains data files (pickled) for each proje
 
 We still have a lot of work to do. Here are a few next steps that people can begin working on:
 * Move the data collection script (currently at https://github.com/geekygirldawn/project-api-metrics/blob/main/scripts/commits_people.py) - @geekygirldawn is doing this.
-* Create Notebooks and basic analysis for Terraform & OpenTofu - @geekygirldawn is working on this now.
 * Write more of the Introduction and Context sections for the report (see doc above) - No data science experience required, and the links in the "Helpful articles" section at the top of the doc should help someone get started with this work.
 * Select several project health metrics from the CHAOSS project (ideally based on research) that might be used to answer some of the research questions listed in the doc. Ideally, these metrics should be implemented in Augur / 8Knot and / or GrimoireLab so that we can use CHAOSS projects for the visualizations. Several people could work on this at the same time. We have a start on this that can be found in the Appendix / Notes section of the report doc, but it still needs quite a bit of work.
