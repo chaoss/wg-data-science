@@ -10,7 +10,9 @@ The [notebooks](notebooks) folder contains basic analysis of the organizational 
 
 The [data-files](data-files) folder contains data files (pickled) for each project with commits for a specific time period being studied (e.g., 1 year before the relicense).
 
+If you just want an overview of the results so far, they were presented at an OpenUK Research meeting: [Video](https://youtu.be/wliDVF3FpI0?t=2472) and [slides](https://fastwonderblog.com/wp-content/uploads/2024/09/Licenses_and_Forking_Data_OpenUK_Research.pdf) (PDF).
+
 We still have a lot of work to do. Here are a few next steps that people can begin working on:
-* Move the data collection script (currently at https://github.com/geekygirldawn/project-api-metrics/blob/main/scripts/commits_people.py) - @geekygirldawn is doing this.
 * Write more of the Introduction and Context sections for the report (see doc above) - No data science experience required, and the links in the "Helpful articles" section at the top of the doc should help someone get started with this work.
 * Select several project health metrics from the CHAOSS project (ideally based on research) that might be used to answer some of the research questions listed in the doc. Ideally, these metrics should be implemented in Augur / 8Knot and / or GrimoireLab so that we can use CHAOSS projects for the visualizations. Several people could work on this at the same time. We have a start on this that can be found in the Appendix / Notes section of the report doc, but it still needs quite a bit of work.
+* Validate the data for the 6 projects by talking to people who are directly involved in those projects. @geekygirldawn has started this work and contacted people from the projects.
