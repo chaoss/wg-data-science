@@ -107,6 +107,7 @@ Because security is such a complex topic, it can be difficult to monitor. Howeve
 
 # Additional Reading
 
+* We have a [short video](https://www.youtube.com/watch?v=1FPlivLsrls&list=PL60k37cxI-HSHV4-rEsWMzExw2y2Oq79Z&index=5&pp=iAQB) (<4 minutes) devoted to this guide on the CHAOSS YouTube channel.
 * [OpenSSF’s website](https://openssf.org/) contains a wide variety of very detailed guides, training, and other resources.  
 * The [CNCF Security Guidelines](https://contribute.cncf.io/maintainers/security/security-guidelines/) document is much less comprehensive than the OpenSSF guides, but it might be more helpful if you are just starting to improve your security.  
 * [OpenSSF’s OSS Vulnerability Guide](https://github.com/ossf/oss-vulnerability-guide/tree/main) contains a guide along with templates and a runbook focused on developing and implementing a security policy.
