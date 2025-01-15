@@ -1,6 +1,6 @@
 # Publications
 
-These publications came out of research conducted by the [CHAOSS Data Science Working Group](https://github.com/chaoss/wg-data-science).
+These publications came out of research conducted by the [CHAOSS Data Science Working Group](https://github.com/chaoss/wg-data-science). Please see our [Publication Guidelines](publication-guidelines.md) for more details.
 
 **[The New Dynamics of Open Source: Relicensing, Forks, and Community Impact](https://github.com/chaoss/wg-data-science/blob/main/publications/Foster-OFA-New-Dynamics-Open-Source-Relicensing-Forks-Community-Impact-2024.pdf) (PDF paper link)**
 
