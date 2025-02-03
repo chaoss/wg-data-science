@@ -1,6 +1,6 @@
 # Open Source Taxonomies 
 
-This repository is an experiment designed to collect existing taxonomies about open source projects as well as taxonomies used/created within research about open source ecosystems.
+This repository is an experiment designed to collect existing taxonomies about open source projects as well as taxonomies used/created within research about open source ecosystems. The motivation and goals of this effort were discussed in a talk at [FOSDEM 2025](https://github.com/chaoss/wg-data-science/blob/main/dataset/taxonomies/FOSDEM_%20Do%20we%20need%20another%20open%20source%20software%20taxonomy_%20(1).pdf).
 
 As all submissions will be treated as public data - we will not accept submissions with sensitive datatypes (user data, personally identifiable data, non-public business data, health data, etc).
 
