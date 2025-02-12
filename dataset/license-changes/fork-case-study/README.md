@@ -4,7 +4,11 @@ This folder is where we can collaborate on a research report that contains sever
 * Redis -> Valkey
 * Terraform -> OpenTofu
 
-If you just want an overview of the results so far, they were presented at an OpenUK Research meeting: [Video](https://youtu.be/wliDVF3FpI0?t=2472) and [slides](https://fastwonderblog.com/wp-content/uploads/2024/09/Licenses_and_Forking_Data_OpenUK_Research.pdf) (PDF) and there is an [academic paper](https://github.com/chaoss/wg-data-science/tree/main/publications) with the results that were presented at the OpenForum Academy Symposium in November 2024.
+If you just want an overview of the results so far, here are some summaries:
+* [The New Stack: What Happens to Relicensed Open Source Projects and Their Forks?](https://thenewstack.io/what-happens-to-relicensed-open-source-projects-and-their-forks/)
+* [State of Open Con 7 minute keynote video](https://www.youtube.com/watch?v=rphZFv9QbV0&list=PL0U2cL1JGPZdJTUooEjFMb_djIzreUxGM&index=4)
+* Additional presentations: [FOSDEM Panel](https://fosdem.org/2025/schedule/event/fosdem-2025-5258-forked-communities-project-re-licensing-and-community-impact/), [State of Open Con Panel](https://www.youtube.com/watch?v=DSTiQil10GQ&list=PL0U2cL1JGPZdfn4ODuMVouXMh9lDsiPGh&index=4), [OpenUK Meetup](https://www.youtube.com/watch?v=wliDVF3FpI0)
+* [Academic paper](https://github.com/chaoss/wg-data-science/tree/main/publications) with the results that were presented at the OpenForum Academy Symposium in November 2024.
 
 The current WIP draft of the research report can be found in this [Google doc for the Report](https://docs.google.com/document/d/1sYlUn9UsY7ynmzc3MVJTtktNgaLFQDOZ8W9fhYarWNo/edit). At this point, it's mostly an outline that still needs a lot of work.
 
