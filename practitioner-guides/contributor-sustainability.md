@@ -1,4 +1,4 @@
-# Practitioner Guide: Contributor Sustainability
+# Practitioner Guide: Getting Started with Contributor Sustainability
 
 Primary metrics:
 * [Contributor Absence Factor](https://chaoss.community/?p=3944)

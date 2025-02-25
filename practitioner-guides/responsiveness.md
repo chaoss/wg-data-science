@@ -1,4 +1,4 @@
-# Practitioner Guide: Responsiveness
+# Practitioner Guide: Getting Started with Responsiveness
 
 Primary metrics:
 * [Time to First Response](https://chaoss.community/?p=3448)
