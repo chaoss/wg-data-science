@@ -22,9 +22,19 @@ body:
     validations:
       required: true
 
+  - type: dropdown
+    attributes:
+      label: Is this a getting started guide or a more advanced guide for experienced users?
+      options:
+        - Getting Started
+        - Advanced / Expert
+        - Not sure
+    validations:
+      required: true
+      
   - type: textarea
     attributes:
-      label: Primary Metrics (2 - 4 metrics)
+      label: Primary Metrics (2 - 4 metrics for Getting Started Guides)
     validations:
       required: true
 
