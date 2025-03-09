@@ -1,4 +1,4 @@
-# Practitioner Guide: Organizational Participation
+# Practitioner Guide: Getting Started with Organizational Participation
 
 Primary metrics:
 
