@@ -1,4 +1,4 @@
-# Practitioner Guide: Security
+# Practitioner Guide: Getting Started with Security
 
 Primary metrics:
 
