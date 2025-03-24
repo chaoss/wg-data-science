@@ -1,0 +1,261 @@
+project_id,short_project_id,name,summary,url,website_url,logo,state,provisioned,top_level_project,dev_list_name,dev_list_email,dev_list_url,documentation_url,gettingstarted_url,download_url,scope,github_repos,contributors,committers,project_leads
+adoptium,adoptium,Eclipse Adoptium®,The mission of the Eclipse Adoptium Top-Level Project is to produce high-quality runtimes and associated technology for use within the Java ecosystem.  We achieve this through a set of Projects under...,https://projects.eclipse.org/projects/adoptium,https://adoptium.net,https://projects.eclipse.org/sites/default/files/styles/project_logo/public/Logo_Adoptium_2021_03_08_JRR_RGB-V3C%20%281%29.png?itok=IjFnmzYk,Regular,True,adoptium,adoptium-pmc,adoptium-pmc@eclipse.org,https://accounts.eclipse.org/mailing-list/adoptium-pmc,,,https://adoptium.net,"<p>Eclipse Adoptium provides runtime binaries that are high performance, enterprise-caliber, cross-platform, open-source licensed, Java SE TCK-tested and compliant for general use across the Java ecosystem. &nbsp;Eclipse Adoptium also provides artifacts including open-source infrastructure as code, a comprehensive continuous integration build and test farm, and extensive quality assurance tests. These artifacts may be used by Eclipse Adoptium projects and other runtime technology builders to ensure the provision of secure, Java SE TCK-tested and compliant, production-ready runtimes.</p>
+<p>The scope of the project includes developing, managing, promoting, and supporting technologies such as:</p>
+<ul>
+<li>Runtimes and Development Kits: supporting the breadth of APIs specified by various versions of Java SE, and available on a wide variety of processor architecture and operating system combinations.</li>
+<li>TCK Testing Infrastructure: providing infrastructure for running Java SE TCKs to ensure compliance and compatibility.</li>
+<li>JDK Mission Control: low-overhead profiling and diagnostics tools suite for the JVM.</li>
+<li>Installers and repositories: various mechanisms for obtaining and managing the installation of runtime technology, such as platform native installers, container images, download servers, a website, and artifact repositories.</li>
+</ul>
+<p>In addition to providing a reliable source of contemporary Java runtime binaries, the Eclipse Adoptium project is a platform for experimentation by developers, academics, and researchers. &nbsp;This provides a place to try out new runtime, build, test, and infrastructure ideas. &nbsp;Examples of projects that fall under this top-level project include “jlink.online” for serving right-sized runtimes to application developers, “Github actions” to obtain and test with runtimes within Git’s workflow, “TKG” the test-kit generation framework, “Bumblebench” the microbenchmarking framework, and more.</p>
+<p><strong>Eclipse Adoptium Interim Build Labeling Requirements v2.0:</strong></p>
+<p>The Eclipse Adoptium project may make available for testing, but not market or promote for extended or production use, binary builds created as a development step towards what is intended to be a Java SE implementation passing the Java SE TCK licensed to the Eclipse Adoptium project by Oracle that in each case (a) otherwise complies with the Eclipse Adoptium project charter, (b) excepting portions from OpenJDK, is developed primarily within the Eclipse Adoptium project, and (c) does not include any content from the OpenJ9 Project or Oracle’s GraalVM project(s) or any successors of either of the foregoing, except to the extent present in any future version of the Java SE reference implementation from Oracle (“Intermediate Builds”) subject to the following conditions:</p>
+<p>i. such Intermediate Build is marked with the word ""UNTESTED"" or ""INCOMPATIBLE"" or ""UNSTABLE"" or ""BETA"";</p>
+<p>ii. the Eclipse Adoptium project displays the following notice in such a manner that anyone downloading the Intermediate Build must see the notice before commencing the download:</p>
+<p>""This is an intermediate build made available for testing purposes only. The code is untested and presumed incompatible with the Java SE Specification. You should not deploy or write to this code, but instead use a tested and certified Java SE compatible version of the code. Redistribution of this build must retain this notice.""</p>
+<p>The Eclipse Adoptium project must also include the same notice as a README.JAVASE file with any source code bundle (e.g. tarball) download that corresponds to the Intermediate Build;</p>
+<p>iii. the Eclipse Adoptium project shall not distribute (except as a passive download as provided above), market or promote intermediate Builds, including without limitation in connection with providing any goods or services.</p>
+<p>iv. excepting mirror repositories of unmodified source code directly obtained from OpenJDK, the Eclipse Adoptium project must include the following README.JAVASE file in the root directory of any source code that is used in an Intermediate Build and that it may make available through access to a revision control system (e.g. git) (substituting in the relevant Project name and link where noted):</p>
+<p>“This version of [Project name] source code is made available in support of the open source development process. Some numbered or tagged revisions of this source may have been tested and found to pass the Java SE TCK, and you can find information on which revisions or tags at [include URL and link]. Please note that since only binaries can be tested, source code cannot be described as a compatible implementation of the Java SE Specification. The different build environment on your machine and any changes you may make to this code could render your resulting build incompatible. Because of this, writing or deploying applications to builds based on this code can lead to lack of portability. You should instead consider deploying production applications on the pre-built binaries of [Project Name] that are available at [include a url and a link] that have been tested and certified to meet the Java SE compatibility requirements.""</p>
+<p>v. Notwithstanding the foregoing, for</p>
+<p>(i) Java SE 21 and later Intermediate Builds created prior to April 6, 2024 and (ii) Java SE 8-20 Intermediate Builds, the Eclipse Adoptium project must apply one of the following:</p>
+<p>(1) the notices set forth for Intermediate Builds in Attachment D version 1.0 [<a href=""https://projects.eclipse.org/projects/adoptium/governance/previous-versions"">link</a>],</p>
+<p>(2) the notices set forth for Intermediate Builds in this Attachment D version 2.0.or</p>
+<p>(3) the notices set forth in the OpenJDK Community TCK and EA TCK License Agreement v 4.0[<a href=""https://openjdk.org/legal/OCTLA-JDK21+.pdf"">link</a>].</p>
+<p>For Java SE 21 and later Intermediate Builds created after April 6, 2024, the notices set forth in the OpenJDK Community TCK and EA TCK License Agreement v 4.0[<a href=""https://openjdk.org/legal/OCTLA-JDK21+.pdf"">link</a>] must be applied.</p>
+<p>vi. any mirror repository of unmodified source code directly obtained from OpenJDK that is used in an Intermediate Build that is made available through access to a revision control system (e.g. git) must include the following in a public facing description of such source code:</p>
+<p>""This source code is an unmodified mirror of source code obtained from OpenJDK [include a url and a link]. It has been and may still be used to create builds that are untested and incompatible with the Java SE specification. You should not deploy or write to this code, but instead use the tested and certified Java SE compatible version of the code that is available at [include a url and a link].""</p>
+","https://github.com/adoptium/dash.adoptium.net, https://github.com/adoptium/blog.adoptium.net, https://github.com/adoptium/api.adoptium.net, https://github.com/adoptium/adoptium.net, https://github.com/adoptium/adoptium, https://github.com/adoptium/documentation-services, https://github.com/adoptium/documentation, https://github.com/adoptium/marketplace-api.adoptium.net, https://github.com/adoptium/adoptium.net-redesign, https://github.com/adoptium/secrets","jkangrnn (Jie Kang), carmendelgado (Carmen Delgado), xavierfacq (Xavier FACQ)","lxia0s3 (Lan Xia), sanhonglsh (Sanhong Li), aleonardf4y (Andrew Leonard), wenzhou (Wen Zhou), scottfryer (Scott Fryer), hebbers (Hendrik Ebbers), mverburg (Martijn Verburg), sgehwolf (Severin Gehwolf), tellison (Tim Ellison), gadamsuwr (George Adams), joliver77u (John Oliver), saddisonxls (Stewart Addison), slambertokd (Shelley Lambert)",tellison (Tim Ellison)
+adoptium.aqavit,aqavit,Eclipse AQAvit,Eclipse AQAvit™ is the quality and runtime branding evaluation project for Java SE runtimes and associated technology.  During a release it takes a functionally complete Java runtime and ensures that...,https://projects.eclipse.org/projects/adoptium.aqavit,https://projects.eclipse.org/projects/adoptium.aqavit,https://projects.eclipse.org/sites/default/files/styles/project_logo/public/Logo_AQAvit_2021_09_23_JRR_RGB-V1A.png?itok=j46kW11w,Incubating,True,adoptium,aqavit-dev,aqavit-dev@eclipse.org,https://accounts.eclipse.org/mailing-list/aqavit-dev,,,,"<p>The scope of the Eclipse AQAvit™ project is to:</p>
+<ul>
+<li>Define the quality criteria for runtime and development kit binaries in collaboration with the industry requirements.</li>
+<li>Measure and report on the quality of Temurin binaries throughout the release process.</li>
+<li>Provide a facility for all Java runtime producers to evaluate their binaries to the AQAvit quality criteria.</li>
+<li>Support Adoptium&nbsp;members to create a quality mark definition that reflects a robust definition of quality.</li>
+<li>Manage full life-cycle and versioning of the quality testing material.</li>
+<li>Develop tests, frameworks, APIs, website, infrastructure, and material to manage quality assets and their associated technologies.</li>
+<li>Develop materials to make using&nbsp;and consuming the results of the Oracle Java Compatibility Test Kit (JCK) easier for all users at Eclipse and&nbsp;beyond.</li>
+<li>Define the traceability and recreate-ability of the Temurin releases in line with best industry practice.</li>
+<li>Implement an open, robust, audit trail for release content and quality of Java runtimes.</li>
+<li>Monitor and report on changes with regards to&nbsp;correctness, performance, and other quality criteria.</li>
+</ul>
+","https://github.com/adoptium/TKG, https://github.com/adoptium/aqa-systemtest, https://github.com/adoptium/aqa-test-tools, https://github.com/adoptium/STF, https://github.com/adoptium/bumblebench, https://github.com/adoptium/run-aqa, https://github.com/adoptium/aqa-tests, https://github.com/adoptium/openj9-systemtest, https://github.com/adoptium/aqa-cbt",hkhel45y (Haroon Khel),"jfengbrn (Jinghua Feng), pshipton (Peter Shipton), speacher (sendao yan), hebbers (Hendrik Ebbers), lxia0s3 (Lan Xia), sguodfx (Sophia Guo), mverburg (Martijn Verburg), rwangpat (Renfei Wang), tellison (Tim Ellison), gadamsuwr (George Adams), joliver77u (John Oliver), aleonardf4y (Andrew Leonard), saddisonxls (Stewart Addison), slambertokd (Shelley Lambert), malamv7w (Mesbah Alam), sgehwolf (Severin Gehwolf), lzhang83n (Longyu Zhang)","lzhang83n (Longyu Zhang), lxia0s3 (Lan Xia), sguodfx (Sophia Guo), hebbers (Hendrik Ebbers), mverburg (Martijn Verburg), joliver77u (John Oliver), saddisonxls (Stewart Addison), slambertokd (Shelley Lambert)"
+adoptium.emt4j,emt4j,Eclipse Migration Toolkit for Java,The Eclipse Migration Toolkit for Java is a tooling project for assisting the Java version migration. The project provides static/dynamic tools and documents that support the migration of Java...,https://projects.eclipse.org/projects/adoptium.emt4j,https://projects.eclipse.org/projects/adoptium.emt4j,https://projects.eclipse.org/modules/custom/eclipsefdn/eclipsefdn_projects/images/project_state/incubating.png,Incubating,True,adoptium,,,,,,,"<p>Eclipse Migration Toolkit for Java offers a toolkit that&nbsp;simplifies the migration of Java applications from previous versions of OpenJDK, especially those deemed as Long Term Service (LTS) release versions.</p>
+<p>The toolkit contains core rule-based services available through different user interfaces, including a command-line interface (CLI), build automation tool plugins, a Java agent, and some other popular DevOps tooling as the project sees fit. Finally, it will produce various report formats (TEXT, JSON, HTML) to help developers migrate to the Java version.&nbsp;</p>
+<p>Participants in the project are responsible for developing, managing, and supporting technologies that:</p>
+<ul>
+<li>Develop the rule-based services for the Java version migration. LTS versions are the primary focus.
+<ul>
+<li>Define the rule set for the best coverage in Incompatible/Internal/Deprecated/Removed JDK API usage, closely collaborate with the OpenJDK community, and maintain/enrich them along with the new OpenJDK release.</li>
+</ul>
+</li>
+<li>Develop the rule-based service for Java options migration across different OpenJDK versions
+<ul>
+<li>Define the ruleset to identify the Removed/Deprecated/Replaced/Recommended options while upgrading to the new JDK version.</li>
+</ul>
+</li>
+<li>Define the dependency checking rules for popular third-party libraries and engage third-party communities to maintain the validating relationship between the version of the third-party library and their supported Java release.</li>
+<li>Implement the mechanism to analyze and detect the dependencies on the internal structure layout of JDK classes via Reflection API and the incompatibility issues introduced by Java modularity.</li>
+<li>Support the integration with the automation build tools, such as Maven, Gradle, etc., via plugins.</li>
+<li>Develop various friendly user interfaces, which rely on core rule-based services to assist the users for easy migration, including CLI, Web UI, and Agent.</li>
+<li>Provide the results in different formats highlighting areas that need changes for the migration.</li>
+<li>Provide documentation assistance for different version migrations.</li>
+<li>Integrate with JDK built-in tools: jdeps and jdeprscan.</li>
+</ul>
+",https://github.com/adoptium/emt4j,,"chengang (gang chen), ddongjac (Denghui Dong), sanhonglsh (Sanhong Li), yanglong1010 (Long Yang)",ddongjac (Denghui Dong)
+adoptium.incubator,incubator,Eclipse Adoptium Incubator,"The intent of the proposed Eclipse Adoptium Incubator is to foster collaboration, and hopefully results in work proceeding to contribution by their original authors into upstream projects, including...",https://projects.eclipse.org/projects/adoptium.incubator,https://projects.eclipse.org/projects/adoptium.incubator,https://projects.eclipse.org/modules/custom/eclipsefdn/eclipsefdn_projects/images/project_state/incubating.png,Incubating,True,adoptium,adoptium.incubator-dev,adoptium.incubator-dev@eclipse.org,https://accounts.eclipse.org/mailing-list/adoptium.incubator-dev,,,,"<p>The Eclipse Adoptium Incubator Project provides a dedicated a place to try out new runtime, build, test, and infrastructure ideas of the Adoptium Top Level Project .</p>
+","https://github.com/adoptium/Incubator, https://github.com/adoptium/jdk11u-fast-startup-incubator",,"jjoo81y (Jonathan Joo), jzhou1cv (Jiangli Zhou), xzhengiff (Xiaolin Zheng), qingfengyy (Yi Yang), hebbers (Hendrik Ebbers), mverburg (Martijn Verburg), sgehwolf (Severin Gehwolf), tellison (Tim Ellison), gadamsuwr (George Adams), joliver77u (John Oliver), sanhonglsh (Sanhong Li), saddisonxls (Stewart Addison), slambertokd (Shelley Lambert)",tellison (Tim Ellison)
+adoptium.mc,mc,Eclipse Mission Control,Eclipse Mission Control™ enables you to monitor and manage Java applications without introducing the performance overhead normally associated with these types of tools. It uses data collected for...,https://projects.eclipse.org/projects/adoptium.mc,https://projects.eclipse.org/projects/adoptium.mc,https://projects.eclipse.org/sites/default/files/styles/project_logo/public/MissionControl-MainLogo.png?itok=jESJNz8H,Incubating,True,adoptium,mc-dev,mc-dev@eclipse.org,https://accounts.eclipse.org/mailing-list/mc-dev,,,,"<p>The Eclipse&nbsp;Mission Control™ project builds&nbsp;and distributes Adoptium-branded binaries of OpenJDK JMC Mission Control</p>
+",https://github.com/adoptium/jmc-build,,"mhirt (Marcus Hirt), preinhartw2s (Patrick Reinhart), gadamsuwr (George Adams), amacdonald7ij (Alex Macdonald)","mhirt (Marcus Hirt), gadamsuwr (George Adams), preinhartw2s (Patrick Reinhart)"
+adoptium.temurin,temurin,Eclipse Temurin®,"The Eclipse Temurin® project provides code and processes that support the building of runtime binaries and associated technologies that are high performance, enterprise-caliber, cross-platform, open...",https://projects.eclipse.org/projects/adoptium.temurin,https://adoptium.net,https://projects.eclipse.org/sites/default/files/styles/project_logo/public/Logo_Temurin_2021_08_17_JRR_RGB-V1A_0.png?itok=pw-7Xrvz,Regular,True,adoptium,temurin-dev,temurin-dev@eclipse.org,https://accounts.eclipse.org/mailing-list/temurin-dev,,,https://adoptium.net,"<p>The scope of the Eclipse Temurin® project is to provide code and processes that support&nbsp;the&nbsp;building of runtime binaries that are high performance, enterprise-caliber, cross-platform, open-source licensed, and Java SE TCK-tested for general use across the Java ecosystem.</p>
+<p>The project will implement and manage artifacts including infrastructure as code, and a comprehensive continuous integration (CI) build and test farm in conjunction with other projects under the Adoptium top-level project.</p>
+<p>Participants in&nbsp;the project are responsible for developing, managing, promoting, and supporting technologies that:</p>
+<ul>
+<li>Define the content of the runtime and development kit releases.</li>
+<li>Manage full life-cycle releases of the binaries.</li>
+<li>Develop build-scripts, installers, application programming interface (API), website, and infrastructure for runtime distribution.</li>
+<li>Define the CI system pipelines and manage the CI system for security, efficiency, and purpose.</li>
+<li>Respond to end-users and provide support as appropriate.</li>
+<li>Be the principal technical interface to upstream technology projects.</li>
+<li>Orchestrate the official distributions of the project releases, including website, archives, Docker, and others.</li>
+<li>Provide usage stats to support the top-level project's marketing and buzz objectives.</li>
+</ul>
+<p>In addition to providing a reliable source of contemporary Java runtime binaries, the Temurin&nbsp;project is a platform for experimentation by developers, academics, and researchers.<br><br>This project provides a place to try out new runtime, build, test, and infrastructure ideas. Examples of projects that fall under this scope include “jlink.online” for serving right-sized runtimes to application developers, “Github actions” to obtain and test applications with runtimes within Github’s workflow, “TKG” the test-kit generation framework, and “Bumblebench” the micro benchmarking framework.</p>
+","https://github.com/adoptium/jenkins-helper, https://github.com/adoptium/mirror-scripts, https://github.com/adoptium/installer, https://github.com/adoptium/github-release-scripts, https://github.com/adoptium/adoptium-support, https://github.com/adoptium/ci-jenkins-pipelines, https://github.com/adoptium/build-jdk, https://github.com/adoptium/jdk, https://github.com/adoptium/jdk8u, https://github.com/adoptium/jdk11u, https://github.com/adoptium/jdk16u, https://github.com/adoptium/temurin-build, https://github.com/adoptium/infrastructure, https://github.com/adoptium/temurin8-binaries, https://github.com/adoptium/temurin11-binaries, https://github.com/adoptium/temurin16-binaries, https://github.com/adoptium/temurin17-binaries, https://github.com/adoptium/aarch32-jdk8u, https://github.com/adoptium/containers, https://github.com/adoptium/temurin20-binaries, https://github.com/adoptium/marketplace-data, https://github.com/adoptium/temurin18-binaries, https://github.com/adoptium/temurin19-binaries, https://github.com/adoptium/jdk17, https://github.com/adoptium/jdk17u, https://github.com/adoptium/jdk18, https://github.com/adoptium/jdk18u, https://github.com/adoptium/jdk19, https://github.com/adoptium/jdk19u, https://github.com/adoptium/jdk20, https://github.com/adoptium/jdk20u, https://github.com/adoptium/alpine-jdk8u, https://github.com/adoptium/temurin21-binaries, https://github.com/adoptium/jdk21, https://github.com/adoptium/temurin-cpe-generator, https://github.com/adoptium/temurin22-binaries, https://github.com/adoptium/jdk21u, https://github.com/adoptium/temurin, https://github.com/adoptium/jdk22, https://github.com/adoptium/temurin23-binaries, https://github.com/adoptium/riscv-port-jdk11u, https://github.com/adoptium/temurin-vdr-generator, https://github.com/adoptium/devkit-binaries, https://github.com/adoptium/jdk22u, https://github.com/adoptium/temurin24-binaries, https://github.com/adoptium/jdk23u, https://github.com/adoptium/temurin25-binaries, https://github.com/adoptium/temurin-attestations, https://github.com/adoptium/temurin-linux-pkg-sources","wenzhou (Wen Zhou), aixtools (Michael Felt), jkangrnn (Jie Kang)","wenzhou (Wen Zhou), scottfryer (Scott Fryer), pdoussot (Philippe Doussot), mdaviesd0f (Morgan Davies), wparkernpd (William Parker), afarley (Adam Farley), nebbitt (Nick Ebbitt), bappali (bharath appali), hebbers (Hendrik Ebbers), sguodfx (Sophia Guo), mverburg (Martijn Verburg), sgehwolf (Severin Gehwolf), srushton (Simon Rushton), tellison (Tim Ellison), gadamsuwr (George Adams), joliver77u (John Oliver), aleonardf4y (Andrew Leonard), saddisonxls (Stewart Addison), slambertokd (Shelley Lambert), dkeeler (Derek Keeler), hkhel45y (Haroon Khel)","hebbers (Hendrik Ebbers), mverburg (Martijn Verburg), sgehwolf (Severin Gehwolf), tellison (Tim Ellison), gadamsuwr (George Adams), joliver77u (John Oliver), saddisonxls (Stewart Addison), slambertokd (Shelley Lambert)"
+adoptium.temurin-compliance,temurin-compliance,Eclipse Temurin Compliance,"The Eclipse Temurin Compliance project is responsible for obtaining, managing, and executing the Oracle Java SE Compatibility Kit (JCK) on Eclipse Temurin binaries.  The work is done on private...",https://projects.eclipse.org/projects/adoptium.temurin-compliance,https://projects.eclipse.org/projects/adoptium.temurin-compliance,https://projects.eclipse.org/modules/custom/eclipsefdn/eclipsefdn_projects/images/project_state/incubating.png,Incubating,True,adoptium,adoptium-pmc,adoptium-pmc@eclipse.org,https://accounts.eclipse.org/mailing-list/adoptium-pmc,,,,"<p dir=""ltr"">The scope of the <em>Eclipse Temurin Compliance</em> project is to:</p>
+<ul>
+<li dir=""ltr"">
+<p dir=""ltr"">Provide and manage restricted access to the Oracle Java SE Compatility Kit (JCK) materials.</p>
+</li>
+<li dir=""ltr"">
+<p dir=""ltr"">Run the JCK as and when directed to do so by the Adoptium project, and report back on pass/fail status of a binary.</p>
+</li>
+<li dir=""ltr"">
+<p dir=""ltr"">Operate minimum sufficient private infrastructure to support the efficient running of the JCK in an Eclipse-controlled environment.</p>
+</li>
+<li dir=""ltr"">
+<p dir=""ltr"">Interact with Oracle to determine any JCK clarifications, challenges, or exceptions.</p>
+</li>
+<li dir=""ltr"">
+<p dir=""ltr"">Keep adequate records of the JCK access and runs to allow auditing by the project, Eclipse Management Organization (EMO), or external groups who need to know.</p>
+</li>
+<li dir=""ltr"">
+<p dir=""ltr"">The project will <strong>not</strong> be making contributions to the JCK test suite itself.</p>
+</li>
+</ul>
+<p dir=""ltr"">&nbsp;</p>
+<p dir=""ltr"">Note that the agreement that governs the access and use of the JCK is between Oracle and the Eclipse Foundation directly.&nbsp; The interpretation and management of the agreement on behalf of the project lays with the Eclipse Foundation.</p>
+",,,"radek (Radek Cap), pmikova (Petra Mikova), jandrlik (Jiri Andrlik), zzambers (Zdeněk Žamberský), judovana (jiri vanek), tonyp (Tony Printezis), luhenry (Ludovic Henry), miazhang (Mia Zhang), bethgriggs (Bethany Griggs), shwethac (Shwetha Chandrashekar), jmjaffe (Josh Martin-Jaffe), joebraley (Joe Braley), luiseduardom (Luis Montoya), vickylei (Tingting Lei), vronnyniu (Ronny Niu), wendiedang (jing dang), sguodfx (Sophia Guo), wenzhou (Wen Zhou), hkhel45y (Haroon Khel), scottfryer (Scott Fryer), vavazhao (Ava Zhao), cherryopenjdk (Cherry Chang), jkangrnn (Jie Kang), mhernandezbss (Milder Hernandez), brianjstafford (Brian Stafford), mverburg (Martijn Verburg), dkeeler (Derek Keeler), afarley (Adam Farley), gadamsuwr (George Adams), aleonardf4y (Andrew Leonard), saddisonxls (Stewart Addison), slambertokd (Shelley Lambert)","gadamsuwr (George Adams), saddisonxls (Stewart Addison), slambertokd (Shelley Lambert)"
+asciidoc,asciidoc,AsciiDoc®,"The AsciiDoc® Top Level Project is a collaborative, open source initiative at the Eclipse Foundation to develop projects and pursue ideas that advance the AsciiDoc language and its ecosystem of...",https://projects.eclipse.org/projects/asciidoc,https://projects.eclipse.org/projects/asciidoc,https://projects.eclipse.org/sites/default/files/styles/project_logo/public/AsciiDoc-WG-logo-color.png?itok=Imnonn5e,Regular,True,asciidoc,asciidoc-pmc,asciidoc-pmc@eclipse.org,https://accounts.eclipse.org/mailing-list/asciidoc-pmc,,,,"<p>The AsciiDoc Top-Level Project hosts projects at the Eclipse Foundation that are either initiated by the AsciiDoc Working Group or which pertain to the AsciiDoc language and are sanctioned by the AsciiDoc Working Group.&nbsp;</p>
+",,,"aschwartzx7r (Alexander Schwartz), ggrossetie (Guillaume Grossetie), jmcconnell (Jesse McConnell), swhitesal (Sarah White), mojavelinux (Dan Allen), asalgadoromero (Abel Salgado Romero)",swhitesal (Sarah White)
+asciidoc.asciidoc-lang,asciidoc-lang,AsciiDoc Language,"AsciiDoc is a comprehensive, semantic markup language for producing a variety of presentation-rich output formats from content encoded in a concise, human-readable, plain text format. It also includes...",https://projects.eclipse.org/projects/asciidoc.asciidoc-lang,https://projects.eclipse.org/projects/asciidoc.asciidoc-lang,https://projects.eclipse.org/sites/default/files/styles/project_logo/public/AsciiDoc-logo-color.png?itok=VzlZ0TuZ,Incubating,True,asciidoc,asciidoc-lang-dev,asciidoc-lang-dev@eclipse.org,https://accounts.eclipse.org/mailing-list/asciidoc-lang-dev,,,,"<p>The AsciiDoc language project defines and maintains the AsciiDoc Language Specification and Technology Compatibility Kit (TCK), its artifacts, and a writer-oriented language guide. The AsciiDoc Language Specification describes the syntax and grammar, Abstract Semantic Graph (ASG), Document Object Model (DOM) interfaces, referencing system, designated extension points, processing phases, and required integrations and behaviors. The TCK is used to verify and self-certify that an AsciiDoc processor implementation is compatible with this specification.</p>
+<p>Specifically, the project scope includes the following matters:</p>
+<ul>
+<li>AsciiDoc language syntax / grammar (i.e., EBNF, ANTLR4, or similar)
+<ul>
+<li>Lexicon</li>
+<li>Preliminaries / primitives (e.g., line-oriented, block, inline, macro, preprocessor directive, etc.)</li>
+<li>Doctype-specific structures and required elements</li>
+<li>Built-in attributes and reserved attribute namespaces</li>
+<li>Designated file extension (.adoc)</li>
+<li>Escaping mechanism</li>
+</ul>
+</li>
+<li>TCK: Technology Compatibility Kit for verifying and self-certifying compliance of an AsciiDoc language processor</li>
+<li>ASG: an encoded form of the parsed document for use in developing a language-agnostic TCK (e.g., JSON)</li>
+<li>DOM API (interfaces only): language-agnostic, semantic representation of the structure, metadata, and content in the AsciiDoc document</li>
+<li>Parsing strategy / processing phases (preprocess, parse, convert)</li>
+<li>Extension Facility
+<ul>
+<li>Syntax extension points (e.g., custom block or macro)</li>
+<li>Resolvers (e.g., path and attribute resolvers, ID generator)</li>
+<li>Lifecycle interceptors (e.g., preprocessor, output processor, tree processor)</li>
+</ul>
+</li>
+<li>Internal and external referencing system: (e.g., xrefs, includes, images)</li>
+<li>Mandatory integration adapters: syntax highlighter, STEM, docinfo, icons</li>
+<li>Expected converter behaviors (e.g., toc, ID generation, caption numbering, collapsible blocks)</li>
+</ul>
+<p>In addition to the specification document and TCK, the project also provides the following:</p>
+<ul>
+<li>AsciiDoc Language guide for writers</li>
+<li>ASG schema for the TCK</li>
+<li>API documentation for the DOM</li>
+</ul>
+",,,"akulkarnijwo (Amarantha Kulkarni), asalgadoromero (Abel Salgado Romero), jmorgane0v (Jared Morgan), ggrossetie (Guillaume Grossetie), aschwartzx7r (Alexander Schwartz), asotokf1 (Alex Soto), swhitesal (Sarah White), mojavelinux (Dan Allen)","ggrossetie (Guillaume Grossetie), swhitesal (Sarah White), mojavelinux (Dan Allen)"
+asciidoc.austen,austen,Eclipse Austen,"AsciiDoc is a comprehensive, semantic markup language for producing a variety of presentation-rich output formats from content encoded in a concise, human-readable, plain text format.
+This...",https://projects.eclipse.org/projects/asciidoc.austen,https://projects.eclipse.org/projects/asciidoc.austen,https://projects.eclipse.org/modules/custom/eclipsefdn/eclipsefdn_projects/images/project_state/incubating.png,Incubating,True,asciidoc,austen-dev,austen-dev@eclipse.org,https://accounts.eclipse.org/mailing-list/austen-dev,,,,"<p dir=""ltr"">Eclipse Austen provides a Java implementation of&nbsp;the AsciiDoc Language Specification.</p>
+<p dir=""ltr"">A pure Java implementation could provide smaller binaries and faster startup times. Access to a detailed abstract syntax tree (AST) of a parsed document and source-maps for generated documents are enabling features for improving editors and IDEs, including auto-completion and syntax checking.</p>
+<p dir=""ltr"">This implementation will not provide any additional features to the AsciiDoc Language that are not part of the AsciiDoc Language Specification. However, it will implement&nbsp;the Extension API and provide hooks for users to write extensions using the extension points named by the specification.</p>
+<p dir=""ltr"">The architecture of this implementation will be documented in order to be easier to understand and maintain by developers of this implementation. This implementation will serve as a reference for developers in other languages. Documented design decisions will offer implementations in other languages a head start.&nbsp;</p>
+<p dir=""ltr"">It aims to be a library with minimal dependencies. This lets it run in environments such as GraalVM and OSGi.</p>
+<p dir=""ltr"">This implementation will be compatible with at least the following runtime environments:</p>
+<ul>
+<li dir=""ltr"">
+<p dir=""ltr"">OpenJDK 8 / 11</p>
+</li>
+<li dir=""ltr"">
+<p dir=""ltr"">GraalVM</p>
+</li>
+<li dir=""ltr"">
+<p dir=""ltr"">OSGi / p2</p>
+</li>
+</ul>
+",,,"rwinch (Rob Winch), atregnaghi (Albert Tregnaghi), rpanzer (Robert Panzer), swhitesal (Sarah White), ggrossetie (Guillaume Grossetie), mojavelinux (Dan Allen), aschwartzx7r (Alexander Schwartz), asalgadoromero (Abel Salgado Romero)","rwinch (Rob Winch), asalgadoromero (Abel Salgado Romero)"
+automotive,automotive,Eclipse Automotive,"The Eclipse Automotive Top-Level Project provides a space for open source projects to explore ideas and technologies addressing challenges in the automotive, mobility and transportation domain. It is...",https://projects.eclipse.org/projects/automotive,https://www.eclipse.org/automotive,https://projects.eclipse.org/modules/custom/eclipsefdn/eclipsefdn_projects/images/logos/default.png,Regular,True,automotive,automotive-pmc,automotive-pmc@eclipse.org,https://accounts.eclipse.org/mailing-list/automotive-pmc,,,,"<p>The scope of the project includes developing, managing, promoting, and supporting applications, frameworks, runtimes, middlewares and models in the following areas:</p>
+<ul>
+<li>Traffic and transportation planning;</li>
+<li>Decision making, planning, control and simulation of automated vehicles and other road users;</li>
+<li>Test and assessment of advanced driver assistance systems or automated driving functions;</li>
+<li>Modeling and definition of traffic scenarios for simulation, validation and testing use-cases;</li>
+<li>Dynamic co-simulation of mobility and communication protocols incorporating physical, control and environment models;</li>
+<li>Modeling and Simulation of Vehicle-to-Cloud, Vehicle-to-Vehicle and Vehicle-to-Infrastructure Connectivity;</li>
+<li>Aggregation and management of measured vehicle data;</li>
+<li>Modeling and engineering tools for embedded automotive systems; and</li>
+<li>Middleware and runtime technologies enabling mobility solutions</li>
+</ul>
+<p>In addition to providing software solutions for the industry, public sector institutions and consumers, the Eclipse Automotive project is a platform for experimentation by developers, academics and researchers. It provides a place to try out new ideas, new services and infrastructure changes to address the challenges of mobility.</p>
+",,,"ariexinger (Andy Riexinger), awittek (Angelika Wittek), tresheim (Torkild Resheim), hmackamul (Harald Mackamul), lkrawczyk (Lukas Krawczyk), mbehrischv52 (Michael Behrisch)",
+automotive.adaaa,adaaa,Eclipse ADAAA (Adaptive Cruise Control Demo Application for Adaptive AUTOSAR),"ADAAA is example application for Adaptive AUTOSAR with the following goals:
+* Provide a tutorial with simple examples code base for getting involved with AUTOSAR methodology and each functional...",https://projects.eclipse.org/projects/automotive.adaaa,https://projects.eclipse.org/projects/automotive.adaaa,https://projects.eclipse.org/modules/custom/eclipsefdn/eclipsefdn_projects/images/project_state/archived.png,Archived,True,automotive,,,,,,,"<p>The&nbsp;Eclipse ADAAA project provides an Adaptive Cruise Control (ACC) Demo Application for the Adaptive AUTOSAR standards.</p>
+<p>The first version contains the following artifacts:<br>* Considered functional cluster list<br>* Documentation<br>* Integration architecture<br>* Test cases<br>* Example requirements<br>* Build setup</p>
+",https://github.com/eclipse/adaaa,,,
+automotive.adore,adore,Eclipse Automated Driving Open Research (ADORe),"Eclipse ADORe provides a modular software library and toolkit for decision making, planning, control and simulation of automated vehicles.
+The project team is working on an all new release for ADORe...",https://projects.eclipse.org/projects/automotive.adore,https://projects.eclipse.org/projects/automotive.adore,https://projects.eclipse.org/sites/default/files/styles/project_logo/public/230511_Urban_Drive_RGB_RZ_ADORE.png?itok=OxXVAQFm,Incubating,True,automotive,adore-dev,adore-dev@eclipse.org,https://accounts.eclipse.org/mailing-list/adore-dev,https://github.com/eclipse/adore/tree/master/documentation,https://github.com/eclipse/adore/blob/master/documentation/installation.md,https://github.com/eclipse/adore,"<p>The project is focused on&nbsp;decision making, planning and control for automated vehicles and excludes sensor-data fusion.</p>
+<p>&nbsp;</p>
+<p>In scope:</p>
+<p>&nbsp;</p>
+<ul>
+<li>Algorithms and data models&nbsp; applied in real automated driving system for motion planning and control</li>
+<li>Mechanisms for safe interaction with other CAVs, infrastructure, traffic management, interactions with human-driven vehicles, bicyclists, pedestrians</li>
+<li>Evaluation in context of overall traffic system</li>
+<li>Software quality, reliability and TRL as required for research projects and prototypes</li>
+</ul>
+<p>Concrete features :</p>
+<ul>
+<li>High-definition road-map representation and loading from OpenDrive file</li>
+<li>Planning modules for smooth ""in-lane"" driving, (cooperative) lane changes, emergency maneuvers, parking, navigation</li>
+<li>Trajectory tracking module for stabilization of vehicle</li>
+<li>Data models for automation-internal scene understanding, environment models</li>
+<li>Data abstraction views for decoupling of planning algorithms and environment models</li>
+<li>Vehicle model for simulation</li>
+<li>Object detection model (in simulation it replaces the sensor-data fusion pipeline, which is not covered by this project)</li>
+<li>V2X communication model for simulation, (high level, based on look-up tables, no detailed network simulation)</li>
+<li>Interface for co-simulation with Eclipse SUMO: Simulation of traffic and infrastructure around automated vehicle</li>
+<li>Interface to ROS (Robot Operating System)&nbsp; and possibly other middle-ware interfaces</li>
+<li>Modularity and system independence</li>
+</ul>
+<p>Out of scope, not considered:</p>
+<ul>
+<li>Sensor data fusion algorithms for automated driving are currently not covered. The main focus is decision making, not perception. The provided decision making and control algorithms can be evaluated together with sensor/perception models in simulation.</li>
+<li>The project cannot and will not promise creation of highly reliable code, which could be applied in products. The focus is rather on flexible code useful for prototyping and research.</li>
+<li>Non-road-based autonomous systems are not considered.</li>
+</ul>
+","https://github.com/eclipse-adore/.github, https://github.com/eclipse-adore/adore",,"akoerner (Andrew Koerner), jlauermann (Jan Lauermann), mnichting (Matthias Nichting), rmarkowski (Robert Markowski), jschindlermek (Julian Schindler), rdariani (Reza Dariani), tlobig (Thomas Lobig), mbehrischv52 (Michael Behrisch)",tlobig (Thomas Lobig)
+automotive.ambientlight,ambientlight,Eclipse Ambient Light Services,"The Eclipse Ambient Light Services showcase vizualizes possible new lighting concepts which are adaptive to different specific driving scenarios, like e.g. coming and leaving but also further options...",https://projects.eclipse.org/projects/automotive.ambientlight,https://projects.eclipse.org/projects/automotive.ambientlight,https://projects.eclipse.org/modules/custom/eclipsefdn/eclipsefdn_projects/images/project_state/incubating.png,Incubating,False,automotive,,,,,,https://gitlab.eclipse.org/eclipse/ambientlight/ambient-light-services,"<p>Eclipse Ambient Light Services provide an expandable SW core-stack implementing Autosar interfaces and allowing to visualize specific ambient light service. This project can be extended with additional functions, like e.g. Apps or other additional functions/ alternatives.&nbsp;Also it is intended that the developer has the option to e.g. vizualize quickly different options and or combinations. &nbsp;</p>
+",,,"edgarh (Edgar Hindemith), johannes89 (Johannes Eulitz), bweidenf (Benjamin Weidenfeld)",bweidenf (Benjamin Weidenfeld)
+automotive.ankaios,ankaios,Eclipse Ankaios,"Eclipse Ankaios manages multiple nodes and virtual machines with a single unique API in order to start, stop, configure, and update containers and workloads. It provides a central place to manage...",https://projects.eclipse.org/projects/automotive.ankaios,https://eclipse-ankaios.github.io/ankaios/,https://projects.eclipse.org/sites/default/files/styles/project_logo/public/Ankaios__logo_for_light_bgrd_clipped.png?itok=EYM6qc_o,Incubating,True,automotive,ankaios-dev,ankaios-dev@eclipse.org,https://accounts.eclipse.org/mailing-list/ankaios-dev,https://eclipse-ankaios.github.io/ankaios/,https://eclipse-ankaios.github.io/ankaios/usage/installation/,,"<p>Eclipse Ankaios provides workload and container orchestration for automotive High Performance Computing Software (HPCs). While it can be used for various fields of applications, it is developed from scratch for automotive use cases.&nbsp;</p>
+<p>It provides a slim yet powerful solution to manage containerized applications. It supports various container runtimes with Podman as the first one, but other container runtimes and even native applications can be supported. Eclipse Ankaios is independent of existing communication frameworks like SOME/IP, DDS, or REST API.</p>
+","https://github.com/eclipse-ankaios/.github, https://github.com/eclipse-ankaios/ank-sdk-python, https://github.com/eclipse-ankaios/ank-sdk-rust, https://github.com/eclipse-ankaios/ankaios",,"gabyunalaq (Gabriel Tomuta), rareshorju (Rares Horju), oklapper (Oliver Klapper), chha (Christoph Hamm), krusev (Kaloyan Rusev), chatree (Chatree Akasarn), hdormann (Holger Dormann), roma4294 (Rostislav Matura)","krusev (Kaloyan Rusev), hdormann (Holger Dormann)"
+automotive.ankaios.ankaios-dashboard,ankaios-dashboard,Eclipse Ankaios Dashboard,"The Ankaios Dashboard is the UI for the Eclipse Ankaios project. It offers insights into a running Ankaios cluster, allows for modification/deletion/creation of workloads and offers a dependency graph...",https://projects.eclipse.org/projects/automotive.ankaios.ankaios-dashboard,https://projects.eclipse.org/projects/automotive.ankaios.ankaios-dashboard,https://projects.eclipse.org/modules/custom/eclipsefdn/eclipsefdn_projects/images/project_state/incubating.png,Incubating,False,automotive,,,,,,,"<p>Eclipse Ankaios Dashboard provides a UI for the Eclipse Ankaios project. It offers insights into a running Ankaios cluster, allows for modification/deletion/creation of workloads and offers a dependency graph for easier understanding of the interdependencies between workloads, comparable to the Kubernetes dashboard. The Ankaios Dashboard is executed in the browser.</p>
+","https://github.com/eclipse-ankaios-dashboard/.github, https://github.com/eclipse-ankaios-dashboard/ankaios-dashboard",,felixmoelders (Felix Mölders),felixmoelders (Felix Mölders)
+automotive.app4mc,app4mc,Eclipse APP4MC,"Application Platform Project for Multi Core 
+Eclipse APP4MC™ is a platform for engineering embedded multi- and many-core software systems. The platform enables the creation and management of complex...",https://projects.eclipse.org/projects/automotive.app4mc,http://www.eclipse.org/app4mc,https://projects.eclipse.org/sites/default/files/styles/project_logo/public/app4mc-logo-g.png?itok=oZosRjjZ,Regular,True,automotive,app4mc-dev,app4mc-dev@eclipse.org,https://dev.eclipse.org/mailman/listinfo/app4mc-dev,,,,"<p>The focus of Eclipse APP4MC™ provides optimization of timing and scheduling in embedded multi- and many-core systems. The data model is focused on these topics and does not claim to replace existing standards like EAST-ADL, AUTOSAR or MDX.</p>
+<p>The APP4MC project aims at providing</p>
+<ul>
+<li>a basis for the integration of various tools into a consistent and comprehensive tool chain</li>
+<li>extensive models for timing behaviour, software, hardware, and constraints descriptions (used for simulation / analysis and for exchange)</li>
+<li>editors and domain specific languages for the models</li>
+<li>tools for scheduling, partitioning, and optimizing of multi- and many-core architectures</li>
+</ul>
+<p>&nbsp;</p>
+",,,"pourmohseni (Behnaz Pourmohseni), rweberl0g (Raphael Weber), sreiser (Sebastian Reiser), dfauthig2 (Dirk Fauth), zmeer (Zakir Meer), dkunz (Daniel Kunz), hmackamul (Harald Mackamul), asailer (Andreas Sailer), rhoettger (Robert Hoettger), lkrawczyk (Lukas Krawczyk)",hmackamul (Harald Mackamul)
+automotive.arche,arche,Eclipse ArchE,Eclipse ArchE (Architecture Enabler) provides a tool for Architecture Modeling following an holistic Model-Based-Systems-Engineering (MBSE) approach instead of having a heterogeneous environment of...,https://projects.eclipse.org/projects/automotive.arche,https://projects.eclipse.org/projects/automotive.arche,https://projects.eclipse.org/sites/default/files/styles/project_logo/public/arche_splash.png?itok=7wXRRMp3,Incubating,True,automotive,arche-dev,arche-dev@eclipse.org,https://accounts.eclipse.org/mailing-list/arche-dev,,,,"<p>Eclipse ArchE (Architecture Enabler) provides a tool for Architecture Modeling following an holistic Model-Based-Systems-Engineering (MBSE) approach.</p>
+<p>In Scope:</p>
+<ul>
+<li>Holistic Architecture Modeling including linkage to
+<ul>
+<li>System modeling followed the RFLP (requirements, functional, logical and physical architecture) approach</li>
+<li>Modelling of
+<ul>
+<li>timing,</li>
+<li>safety,</li>
+<li>security</li>
+</ul>
+</li>
+<li>Consistency checks</li>
+<li>Reporting (e.g. ressource consumption)</li>
+</ul>
+</li>
+<li>Generation of ARXMLs</li>
+</ul>
+<p>Out of Scope</p>
+<ul>
+<li>Requirements Management</li>
+<li>Actual development of the software of the software components</li>
+</ul>
+",https://github.com/eclipse-arche/arche,,"ratiud (Daniel Ratiu), mane274 (Manuel Huber), langhammerm (Michael Langhammer), andreaslooft (Andreas Looft), felixreimann (Felix Reimann)","andreaslooft (Andreas Looft), felixreimann (Felix Reimann)"
+automotive.autoapiframework,autoapiframework,Eclipse Automotive API Framework,Decoupling of the application logic from the basic software stack enables automotive suppliers (no matter if Tier-1 or in-house teams at an OEM) to contribute with building blocks to Software-defined...,https://projects.eclipse.org/projects/automotive.autoapiframework,https://projects.eclipse.org/projects/automotive.autoapiframework,https://projects.eclipse.org/modules/custom/eclipsefdn/eclipsefdn_projects/images/project_state/incubating.png,Incubating,True,automotive,autoapiframework-dev,autoapiframework-dev@eclipse.org,https://accounts.eclipse.org/mailing-list/autoapiframework-dev,,,,"<p>The Eclipse Automotive API Framework decouples application logic from the middleware stack and operating system in automotive HPC systems by providing an application-facing interface and defining the accompanying workflow.</p>
+",,"hartmannnico (Nico Hartmann), erikvzf (Erik Verhoeven), suzz52 (Suresh Chamuah), vinodreddy (VINOD REDDY GOPI REDDY), cchristmann (Constantin Christmann), gunther (Gunther Bauer), ramesh24 (Ramesh Kumar Dharmapuri), partha92 (Parthasarathy Nadarajan), strobelm (Manuel Strobel)","suzz52 (Suresh Chamuah), gunther (Gunther Bauer), cchristmann (Constantin Christmann)","gunther (Gunther Bauer), cchristmann (Constantin Christmann)"
+automotive.autowrx,autowrx,Eclipse Autowrx,"Eclipse Autowrx is the open source implementation of digital.auto (http://digital.auto), an industry-wide initiative enabling the automotive industry to establish a new, digital-first approach for the...",https://projects.eclipse.org/projects/automotive.autowrx,https://docs.digital.auto/,https://projects.eclipse.org/modules/custom/eclipsefdn/eclipsefdn_projects/images/project_state/incubating.png,Incubating,True,automotive,autowrx-dev,autowrx-dev@eclipse.org,https://accounts.eclipse.org/mailing-list/autowrx-dev,https://docs.digital.auto/basics/overview/,https://docs.digital.auto/basics/overview/,https://gitlab.eclipse.org/eclipse/autowrx/autowrx,"<p>Eclipse Autowrx provides an in-browser, rapid prototyping and collaboration platform for connected vehicles, utilizing the COVESA APIs.</p>
+",,tuanh (Tuan Hoang Dinh Anh),"tuanh (Tuan Hoang Dinh Anh), bdug (Dirk Bangel), msontag (Manuel Sontag), dslama (Dirk Slama), ppa2hc (phong pham), hoangphan (Hoang  PHAN), nhanluong (Nhan Luong), ariexinger (Andy Riexinger), chris4fsti (Xiangwei Cheng), tamthaihoangminh (Tam Thai Hoang Minh)","nhanluong (Nhan Luong), bdug (Dirk Bangel), msontag (Manuel Sontag), dslama (Dirk Slama), ariexinger (Andy Riexinger)"
