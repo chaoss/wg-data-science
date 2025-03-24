@@ -91,8 +91,6 @@ This allows us to:
 
 ## 📘 Publication Plan
 
-The final deliverable will be a **report** — ideally through **LF Research**, alternatively through **CHAOSS**. It will include:
-
 - Comparative charts across foundations.
 - Narratives about contribution shifts and governance changes.
 - Possibly a **network map** of contributor overlap or foundation collaborations.
@@ -104,6 +102,7 @@ Academic publication is optional but encouraged with shared authorship.
 ## ✉️ Contact
 
 Project Lead: **Tosan Okome**  
+Technical Assistant: **Sal Kimmich**
 Organization: **CHAOSS Africa Researchers Team**  
 For technical support with data scripts, contact the [CHAOSS Data Science Working Group](https://chaoss.community/working-groups/#data-science)
 
