@@ -19,6 +19,11 @@ The dataset can be found in the license_changes.csv file. It contains the follow
 
 The starting point for this dataset came from this [Wikipedia List of formerly open source software](https://en.wikipedia.org/wiki/List_of_formerly_open-source_or_free_software) page. You can find this list converted to a csv file in this folder called [wikipedia_list.csv](wikipedia_list.csv). Because we want to analyze what happens in a repo both before and after a license change, projects where the repo couldn't be found or where there were other issues that made the data suspect were excluded from license_changes.csv. Those issues are documented in a file in this folder called [dataset_notes.md](dataset_notes.md). If you want to help improve the dataset in license_changes.csv, the dataset_notes.md file would be an excellent place to start.
 
+
+[more_forks.csv](more_forks.csv)
+
+This dataset includes some additional examples of forks that were not created due to relicensing but most often either a) the original got bought by an entity the community found suspicious and decided to fork, or b) the original became unmaintained and someone new picked it up. The fields of the CSV match the structure of the license_changes dataset above.
+
 ## Contributions
 
 This dataset is still a bit rough and incomplete, so contributions are welcome to help us improve it. See details above for ideas about where to contribute, and please follow our [Contribution guidelines](https://github.com/chaoss/wg-data-science/blob/main/CONTRIBUTING.md) including DCO sign-off for all commits.
