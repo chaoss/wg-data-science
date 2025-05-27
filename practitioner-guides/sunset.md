@@ -121,3 +121,4 @@ The following people contributed to this guide:
 
 * Miller, C., Jahanshahi, M., Mockus, A., Vasilescu, B., & Kästner, C. (2025). [Understanding the response to open-source dependency abandonment in the npm ecosystem](http://www.cs.cmu.edu/~ckaestne/pdf/icse25_abandonment.pdf). In *Int’l Conf. Software Engineering (ICSE), IEEE/ACM*.
 
+CHAOSS Practitioner Guides are MIT licensed, living documents, and we welcome your feedback and input. You can suggest edits to this document at [https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/sunset.md](https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/sunset.md)
