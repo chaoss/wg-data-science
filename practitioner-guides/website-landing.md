@@ -12,7 +12,6 @@ These guides will be especially useful for Open Source Program Offices (OSPOs), 
 * [Practitioner Guide: Getting Started with Organizational Participation](https://chaoss.community/practitioner-guide-organizational-participation/)
 * [Practitioner Guide: Getting Started with Security](https://chaoss.community/practitioner-guide-security/)
 * [Practitioner Guide: Getting Started with Sunsetting an Open Source Project](https://chaoss.community/practitioner-guide-sunset)
-* [Practitioner Guide: Getting Started with Building Diverse Leadership](https://chaoss.community/practitioner-guide-diverse-leadership)
 
 Short videos about the guides can be found in the [Practitioner Guides Playlist](https://www.youtube.com/playlist?list=PL60k37cxI-HSHV4-rEsWMzExw2y2Oq79Z) in the CHAOSS YouTube channel.
 
