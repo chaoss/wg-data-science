@@ -8,8 +8,10 @@ Primary metrics:
 
 If you haven’t already read the [Practitioner Guide: Introduction - Things to Think about When Interpreting Metrics](https://chaoss.community/practitioner-guide-introduction/), please pause now and read that guide.
 
-Open source communities and projects thrive with diverse leadership. However, they often struggle with a lack of diversity in leadership, which can result in less innovative, inclusive, and sustainable projects (McKinsey & Company**, **2020). Without diverse leadership, underrepresented groups may face challenges in participating in and contributing to projects, losing valuable talent and ideas. Diverse leadership is needed to solve this issue. 
+Open source communities and projects thrive with diverse leadership. However, they often struggle with a lack of diversity in leadership, which can result in less innovative, inclusive, and sustainable projects (McKinsey & Company, 2020). Without diverse leadership, underrepresented groups may face challenges in participating in and contributing to projects, losing valuable talent and ideas. Diverse leadership is needed to solve this issue. 
+
 A community or project with diverse leadership offers significant advantages because diverse leadership leverages diverse perspectives to build an innovative community, create a welcoming and inclusive environment, and empower individuals from all backgrounds to contribute their unique talents. New and existing contributors feel more included when they can see other people in leadership positions who are like them (Linux Foundation, 2021). 
+
 When diverse leaders collaborate, their intersection sparks innovation and creates a more harmonious global leadership system. It represents a global and diverse user base, which improves the usability of the project because more users' voices are represented in decision-making about the project's design and functionality. It enhances decision-making processes by incorporating various viewpoints and experiences, leading to better problem-solving and more effective strategies. It promotes a culture of inclusion and respect, improving morale and engagement among community members and ultimately contributing to projects' long-term success and sustainability. 
 
 
