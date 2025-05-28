@@ -14,7 +14,7 @@
 
 ### Goal
 
-Build a community of data scientists to collaborate on the CHAOSS Data Science Initiative.
+Build a community of data scientists to collaborate on the [CHAOSS Data Science Initiative](https://chaoss.community/inside-the-chaoss-data-science-working-group/)
 
 ### Purpose
 
@@ -32,8 +32,9 @@ This is a working group within the CHAOSS project to support our Data Science In
 
 ### How to Join Us?
 
-A section guiding the user on how to join the working group.
+Want to join the working group? Here is a simple step by step guide on how to join:
 
+- [Getting started as a new/first time contributor](https://chaoss.community/kb-getting-started/)
 - [Agenda/Meeting-Minutes](https://docs.google.com/document/d/1jkAfGt97OGRwcdEn8hh5YyHQwoXRnOW96ikc_Aluo6M/edit)
 - Join us in the #wg-data-science channel within the CHAOSS Slack Workspace.
 - Learn on the [Participate](https://chaoss.community/participate/) page on the website
@@ -42,13 +43,14 @@ We follow the [CHAOSS Code of Conduct](https://github.com/chaoss/governance/blob
 
 ## Practitioner Guides
 
-The CHAOSS Data Science Working Group drives a set of [Practitioner Guides](https://chaoss.community/about-chaoss-practitioner-guides/) to help people understand how to interpret the data about an open source project to develop insights that can help improve the project health of an open source project. The are designed for Open Source Program Offices (OSPOs), project leads, community managers, maintainers, and anyone who wants to better understand project health and take action on what they learn from their metrics.
+The CHAOSS Data Science Working Group develops a set of [Practitioner Guides](https://chaoss.community/about-chaoss-practitioner-guides/) to help individuals understand how to interpret data about an open source project, enabling them to develop insights that can improve the project's health. They are designed for Open Source Program Offices (OSPOS), project leads, community managers, maintainers, and anyone who wants to understand project health better and take action on what they learn from their metrics.
+
 
 If you are interested in [contributing to the practitioner guides](https://github.com/chaoss/wg-data-science/tree/main/practitioner-guides), you can find more details in the practitioner-guides folder here in the repo.
 
 ## Projects
 
-We are also working on a number of projects where we use CHAOSS metrics and tools to help answer questions that people have about open source projects and their unique dynamics. You can find details about these projects in the WG's [GitHub Issues](https://github.com/chaoss/wg-data-science/issues?q=is%3Aissue+is%3Aopen+label%3Aproject).
+We are also working on several projects using CHAOSS metrics and tools to help answer people's questions about open source projects and their unique dynamics. You can find details about these projects in the WG's [GitHub Issues](https://github.com/chaoss/wg-data-science/issues?q=is%3Aissue+is%3Aopen+label%3Aproject).
 
 ## Contributing
 
@@ -63,7 +65,7 @@ See the [CONTRIBUTING.md](CONTRIBUTING.md) for more info.
 
 ### Amazing CHAOSS Project Contributors
 
-Link to [contributors](https://chaoss.community/metrics/#user-content-chaoss-contributors-include) listed on the website.
+Link to the [contributors](https://chaoss.community/metrics/#user-content-chaoss-contributors-include) listed on the website.
 
 ## License
 
