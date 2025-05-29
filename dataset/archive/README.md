@@ -4,7 +4,7 @@ Archival is often used as an indicator that a project is no longer being maintai
 
 More Details about this project:
 * Tracked in [Issue #45](https://github.com/chaoss/wg-data-science/issues/45)
-* Project Planning document](https://docs.google.com/document/d/18audPynKQg_n7ZdspeUGtPSF7cMzc9O7CVcrEdJAhtk/edit?usp=sharing)
+* [Project Planning document](https://docs.google.com/document/d/18audPynKQg_n7ZdspeUGtPSF7cMzc9O7CVcrEdJAhtk/edit?usp=sharing)
 * [WIP datasets](https://github.com/chaoss/wg-data-science/tree/main/dataset/archive)
   * data-files/archive_repos.csv: contains 733 repos - all GH repos with > 1000 stars and > 100 forks with an open source license. 
   * archived_projects.py: the script containing the GraphQL API query to generate data-files/archive_repos.csv
