@@ -62,6 +62,7 @@ def make_query(after_cursor = None):
                   isInOrganization
                   createdAt
                   updatedAt
+                  pushedAt
                   archivedAt
                   stargazerCount
                   forkCount
