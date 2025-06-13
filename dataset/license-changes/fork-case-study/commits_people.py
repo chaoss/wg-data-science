@@ -47,7 +47,7 @@ except:
     print("Error reading GH Key. This script depends on the existence of a file called gh_key containing your GitHub API token. Exiting")
     sys.exit()
 
-pickle_file = 'data-files/' + repo_name + str(since_date) + str(until_date) + '.pkl'
+pickle_file = 'data-files/' + repo_name + '_' + str(args.begin_date) + '_' + str(args.end_date) + '.pkl'
 
 def make_query(after_cursor = None):
     return """query repo_commits($org_name: String!, $repo_name: String!, $since_date: GitTimestamp!, $until_date: GitTimestamp!){
@@ -170,7 +170,7 @@ def create_person_dict(pickle_file, repo_name, since_date, until_date):
 
     repo_info_df = pd.read_pickle(pickle_file)
 
-    output_pickle = 'data-files/' + repo_name + '_people_' + str(since_date) + str(until_date) + '.pkl'
+    output_pickle = 'data-files/' + repo_name + '_people_' + str(args.begin_date) + '_' + str(args.end_date) + '.pkl'
 
     # Create a dictionary for each person with the key being the gh login
     # Create a dict for commits that aren't tied to a gh login (gh user = None)
