@@ -32,7 +32,7 @@ We will explore pull requests data on open source project forks specifically tho
 
 **Impact/Why does this matter?**: Analyzing PR data before and after a relicense/fork event helps us understand open source developer and community behavior. 
 
-**Pre-reading**: Please review the above read.me and related articles. You're also welcomed to explore other datasets in this case-study. 
+**Pre-reading**: Please review the text above and read the related articles. You're also welcomed to explore other datasets in this case-study. 
 
 **Tasks**: 
 - Fetch PR data using GitHub’s GraphQL API. 
