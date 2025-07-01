@@ -1,0 +1,29 @@
+Data card,
+,Submission
+Title:,"Archival of Open Source Projects"
+Submitter:,geekygirldawn
+Author(s):,geekygirldawn
+Author affiliation(s):,CHAOSS
+Description:,"Archival of Open Source Projects (aka Sudden Archival)"
+Data source(s) / data type(s):,"GitHub repository projects with manual classification"
+Suggested tags for this taxonomy: ,"project status, project lifecycle, archival, sunset, EOL"
+Link(s) to public resources that use this taxonomy: ,https://github.com/chaoss/wg-data-science/tree/main/dataset/archive
+License(s): ,MIT
+,
+Taxonomy,
+Archival Reason Category,
+,
+Unevaluated,"This is the default value and indicates that analysis to evaluate the reason for archiving a project has not been completed."
+Inactive,"The project was archived because there was little to no recent activity."
+Moved,"Development of this project was moved elsewhere. This includes the case where the project was combined with another project or split into multiple projects."
+Personal,"The developer / maintainer decided that they could no longer maintain the project for personal reasons."
+Corporate,"A company who was driving the project has decided they no longer plan to work on the project."
+Technology,"The technology is no longer needed or a better technology is available for people to use, and it was decided that the project is no longer needed."
+Other,"Please suggest a new reason in the 'How Notes' column. This means that we didn't anticipate this reason, or it might be a one-off."
+,
+Taxonomy,
+Additional Check Boxes,
+,
+Interesting,"Check the box in the 'Interesting' column if something is going on in this project that might be interesting from a research perspective. For example, the development stopped in the repo, but the project seems to have continued in private development somewhere else."
+Alternative,"If the project suggests an alternative solution, like another project or solution that you can use in replacement of the archived projects, check this box."
+
