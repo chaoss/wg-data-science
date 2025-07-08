@@ -60,7 +60,13 @@ See the [CONTRIBUTING.md](CONTRIBUTING.md) for more info.
 
 ### Chairs
 
+Current Chairs:
+
 - [Dawn Foster](https://github.com/geekygirldawn)
+- [Cali Dolfi](https://github.com/cdolfi)
+- [Sal Kimmich](https://github.com/Salkimmich)
+
+Previous Chairs:
 - [Chan Voong](https://github.com/voongc)
 
 ### Amazing CHAOSS Project Contributors
