@@ -68,7 +68,7 @@ However, every organization has a limited number of people and other finite reso
 
 Thus, the priority for investment (allocating staff or other resources) is a combination of criticality and project health risk that is unique to your organization. 
 
-## Determining which open source projects are the most **critical** for your organization
+## Determining which open source projects are the most *critical* for your organization
 
 For all of the important open source projects used, it’s important to determine the criticality of each project, which also means that it’s important to have a software inventory that helps to identify those projects. Many organizations are already performing these inventories to evaluate their supply chain risk, so criticality dovetails nicely with existing supply chain assessment initiatives.
 
@@ -82,7 +82,7 @@ To better illustrate this concept, here are some example categories with descrip
 * How difficult would it be to switch to something else? Or fork and maintain internally? And what would that cost be?
 * What would the impact of an unplanned security event be?
 
-**Opportunities:** There are opportunities to drive or influence the open source project to better suit your organization’s needs.
+**Opportunities**: There are opportunities to drive or influence the open source project to better suit your organization’s needs.
 
 * Does it currently have features or initiatives on the roadmap that would be beneficial? If yes, how so? 
 * If it went in another direction, how would it affect your organization?
@@ -151,7 +151,7 @@ The answers to these questions can help you map each open source project on a cr
   </tr>
 </table>
 
-## Assessing open source project **health risk**
+## Assessing open source project *health risk*
 
 Now that the criticality has been determined, it’s time to think about the other part of the equation, open source project health risk (Priority = Criticality x Health Risk). 
 
@@ -168,7 +168,7 @@ Similarly to criticality, the health risk of a project can be scored while also 
 
 As an example, when the CNCF Helm project was found to have several project health concerns due to having a single maintainer, the risk was escalated to the CNCF. Jorge Castro, a CNCF staff member, got involved and helped the project to realign on a target ([the launch of helm v4](https://helm.sh/blog/the-road-to-helm-4/)), as a focal point for contributor growth. This led to building a better contributor ladder, engagement with other projects, organizations, and vendors to invest and make the open source project more sustainable. 
 
-## **Prioritizing** within your organization’s limited resources
+## *Prioritizing* within your organization’s limited resources
 
 With insight on how to score both criticality and health, the following example combines them to set priority. The example uses two made up open source projects “Foo” and “Bar” with some information about their status, a rough scoring, and how that would map to establishing a priority. Assuming each section is worth 10 points, they’re scored with comments in each, and then the criticality score is multiplied by the health risk score. Some important notes:
 
@@ -302,7 +302,7 @@ It can help to think about this in terms of software engineers and software engi
 
 ![Priority = Criticality X Health Risk](https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/images/putting-together-formula.png "Resources you have available")
 
-## Measuring & Framing the **Value**
+## Measuring & Framing the *Value*
 
 Now that the most critical open source projects have been identified, this information can be  measured and framed in ways that resonate with the leadership team. One of the most common pitfalls is that organizations tend to bias towards easy to measure metrics such as total contributions, but these do not hold up under scrutiny. Metrics should support the goals and be able to be tied back to “value” and the types of resources being invested in the open source project:
 
