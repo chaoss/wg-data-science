@@ -42,7 +42,7 @@ By comparing the current version of a dependency used in your project with the l
 
 It’s critical that security updates, bug fixes, and new features are released in a timely fashion. When looking at release frequency, it’s important to include not just the big releases, but also all of the tiny point releases, since urgent security fixes are usually released outside of the major releases. 
 
-![Release Frequency of a project with frequent releases][https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/images/releases.png]
+![Release Frequency of a project with frequent releases](https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/images/releases.png)
 
 Keep in mind that interpreting this metric can be challenging because different types of projects and different situations can impact whether the project needs to have a more frequent or less frequent release cadence. Having a consistent release frequency can indicate a more stable or mature project.
 
