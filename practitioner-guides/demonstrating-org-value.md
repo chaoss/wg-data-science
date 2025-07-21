@@ -42,7 +42,7 @@ Leadership wants answers to the following questions:
 
 Creating an open source contribution strategy can help organizations frame their discussions with leadership to demonstrate the value of their open source efforts in ways that resonate with leadership. At a minimum, the open source strategy should contain details in the following areas, which are each addressed in the “How to Take Action” sections below:
 
-* Supporting your organization’s** goals**
+* Supporting your organization’s **goals**
 * Determining which open source projects are the most **critical** for your organization 
 * Assessing open source project **health risk**
 * **Prioritizing** within your organization’s limited resources
@@ -52,7 +52,7 @@ Creating an open source contribution strategy can help organizations frame their
 
 By creating a robust open source strategy that demonstrates the value of your organization’s open source efforts, these efforts and outcomes can be described in ways that resonate with leadership by clearly articulating how the work in open source helps your organization achieve its goals. This helps to frame the rest of the strategy that describes the influence of open source project health, how your organization’s resources are being used, and finally how the value is being measured. 
 
-## Supporting your organization’s **goals**
+## Supporting your organization’s *goals*
 
 Taking some time and effort to make sure that your open source strategy supports the overall organization’s goals makes it much easier to justify continuing organizationally-relevant open source projects. Explaining how open source contributions support the goals of the organization can help the executive team understand the strategic importance of this work.
 
