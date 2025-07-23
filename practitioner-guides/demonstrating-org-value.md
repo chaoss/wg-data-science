@@ -442,7 +442,6 @@ The following people contributed to this guide:
 * Matt Germonprez
 * Mike Gifford
 
-
 # References
 
 * Eghbal, N. (2016). [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/). New York, NY: Ford Foundation.
