@@ -442,7 +442,6 @@ The following people contributed to this guide:
 * Matt Germonprez
 * Mike Gifford
 
-
 # References
 
 * Eghbal, N. (2016). [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/). New York, NY: Ford Foundation.
@@ -450,6 +449,8 @@ The following people contributed to this guide:
 * Linåker, J., Link, G., & Lumbard, K. (2024, October). Sustaining Maintenance Labor for Healthy Open Source Software Projects through Human Infrastructure: A Maintainer Perspective. In *Proceedings of the 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement* (pp. 37-48).
 * Linux Foundation (2023). [Open Source Maintainers](https://project.linuxfoundation.org/hubfs/LF%20Research/Open%20Source%20Maintainers%202023%20-%20Report.pdf): Exploring the people, practices, and constraints facing the world’s most critical open source software projects.
 * Vargas, Sophia (2023). [What brings you to open source?](https://opensource.google/static/documentation/publications/WhatBringsYouToOpenSource_2023.pdf) How can projects encourage sustainable open source participation? Google Open Source.
+
+CHAOSS Practitioner Guides are MIT licensed, living documents, and we welcome your feedback and input. You can suggest edits to this document at [https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/demonstrating-org-value.md](https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/demonstrating-org-value.md).
 
 # Appendix
 
@@ -536,3 +537,5 @@ Long Term Health Metrics:
 
 * Increased contributor engagement and sustainability across a variety of metrics (e.g., [number of contributors](https://chaoss.community/?p=3630), [project velocity](https://chaoss.community/?p=3572), frequency of contributions, retention)
 * Increase in conversion from contributors to maintainers
+
+CHAOSS Practitioner Guides are MIT licensed, living documents, and we welcome your feedback and input. You can suggest edits to this document at [https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/demonstrating-org-value.md](https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/demonstrating-org-value.md).
