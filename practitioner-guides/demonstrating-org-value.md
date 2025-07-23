@@ -451,6 +451,8 @@ The following people contributed to this guide:
 * Linux Foundation (2023). [Open Source Maintainers](https://project.linuxfoundation.org/hubfs/LF%20Research/Open%20Source%20Maintainers%202023%20-%20Report.pdf): Exploring the people, practices, and constraints facing the world’s most critical open source software projects.
 * Vargas, Sophia (2023). [What brings you to open source?](https://opensource.google/static/documentation/publications/WhatBringsYouToOpenSource_2023.pdf) How can projects encourage sustainable open source participation? Google Open Source.
 
+CHAOSS Practitioner Guides are MIT licensed, living documents, and we welcome your feedback and input. You can suggest edits to this document at [https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/demonstrating-org-value.md](https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/demonstrating-org-value.md).
+
 # Appendix
 
 There are a number of important roles in open source projects that can provide value to your organization and improve the health of a project. These include, but aren’t limited to:
@@ -536,3 +538,5 @@ Long Term Health Metrics:
 
 * Increased contributor engagement and sustainability across a variety of metrics (e.g., [number of contributors](https://chaoss.community/?p=3630), [project velocity](https://chaoss.community/?p=3572), frequency of contributions, retention)
 * Increase in conversion from contributors to maintainers
+
+CHAOSS Practitioner Guides are MIT licensed, living documents, and we welcome your feedback and input. You can suggest edits to this document at [https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/demonstrating-org-value.md](https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/demonstrating-org-value.md).
