@@ -435,12 +435,14 @@ One guide can’t possibly cover everything about demonstrating the value of you
 
 The following people contributed to this guide:
 
-* Bob Killen
-* Dawn Foster
-* Justin Gosses
-* Ria Schalnat
-* Matt Germonprez
-* Mike Gifford
+<ul>
+<li>Bob Killen</li>
+<li>Dawn Foster</li>
+<li>Justin Gosses</li>
+<li>Ria Schalnat</li>
+<li>Matt Germonprez</li>
+<li>Mike Gifford</li>
+</ul>
 
 # References
 
