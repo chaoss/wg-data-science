@@ -59,6 +59,26 @@ Benchmarking completeness is a necessary step toward accountability. If one foun
 **Interpretation**:  
 Structural gaps in metadata don’t just affect analytics—they reflect blind spots in how communities govern themselves. A foundation that doesn’t track contributor numbers isn’t just underreporting—it may be missing feedback loops that help guide project health. Identifying these gaps creates opportunities to support foundation evolution.
 
+
+---
+
+**Risk**
+ - Non-existent or not up-to-date DOAP files for Apache projects
+ - Inconsistency in metadata structure and format across foundations
+ - Foundation APIs may change
+ - Some fields may appear complete due to defaults/placeholder values
+ - If a sample is taken for a completeness benchmark, there might be sample size bias.
+ - While establishing structural gaps, attribution of cause may be speculative
+
+**Mitigation**
+ - Make scientific assumptions to work with projects with DOAP files, and randomly confirm the recency.
+ - Normalize field names, define fallback methods, e.g, GitHub readme
+ - Catch the latest data and document the timestamp for reference. Also, setup batch processing script of data collection.
+ - Remove placeholder values, e.g, licence: unknown, from the completeness score
+ - Use population for completeness estimation if possible, but if not, document inclusion criteria and aim for representativeness.
+ - Validate the possible cause of structural gaps with qualitative evidence (public notes, interviews of foundations, etc.) and explicitly state speculative insights
+
+---
 ---
 
 ### Conclusion
@@ -304,6 +324,17 @@ In this section, we move into engagement modeling using both statistical and pro
 We also ensure our methods remain transparent, reproducible, and grounded in real-world interpretability—avoiding black-box models wherever possible. The goal is not just to predict what works, but to understand what patterns drive engagement across ecosystems, so we can support collaboration where it’s most needed.
 
 ---
+### Using ICA as a pre-processing step for panel models
+
+#### ICA → Panel regression pipeline (summary)
+
+We compute independent components (ICs) from a standardized project×month matrix of activity metrics (commits, PRs, issues, reactions, slack volume) via ICA. IC scores are lagged by one month and used as time-varying predictors in panel count models (Poisson / Negative Binomial / ZIP) predicting monthly engagement (e.g., `slack_msgs`). We validate component stability (bootstrap, multiple seeds), inspect loadings for interpretation, cluster-robust standard errors by project, and run robustness checks including PCA-based comparison, varying K, and placebo lead tests to detect reverse causality. All ICA computation steps and seeds are recorded for reproducibility.
+
+**Interpretation**:
+Arranging the data in a panel-data structure gives us the avenue to add `has_chat` and other binary possible indicators of engagement, also we'd be able to add `apache`, `cncf`, and `eclipse` binary as an input to the panel count regression model (Poission/ZIP).
+---
+
+---
 
 ### Communication State Transition Modeling
 
@@ -361,9 +392,11 @@ This is where we move from observation to explanation. We ask: what statisticall
 
 **Risk**
 - Difficulty having `topics`, `has_chat` as explanatory variables due to different data structures
+- Combining message states and topic distribution as states will results in very large independent variables. 
 
 **Mitigation**
 - Drop `has_chat` from potential explanatory variables
+- We can resuse Independent Component Analysis (ICA) here to reduce the dimension 
 ---
 
 ### Evaluate Model Performance
