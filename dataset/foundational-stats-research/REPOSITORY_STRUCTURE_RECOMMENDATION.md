@@ -11,51 +11,53 @@ This document recommends a **minimal, essential** repository structure for the C
 wg-data-science/
 ├── README.md                          # Main project documentation
 ├── CONTRIBUTING.md                    # Contribution guidelines
-├── LICENSE                           # Project license
-├── requirements.txt                  # Python dependencies
-├── .gitignore                        # Git ignore rules
+├── LICENSE                            # Project license
+├── requirements.txt                   # Python dependencies
+├── .gitignore                         # Git ignore rules
 │
-├── data/                            # Data directory
-│   ├── raw/                         # Original, immutable data
-│   │   ├── cncf/                    # CNCF foundation data
-│   │   ├── apache/                  # Apache foundation data
-│   │   ├── eclipse/                 # Eclipse foundation data
-│   │   └── README.md                # Data provenance documentation
-│   └── processed/                   # Cleaned and processed data
-│       ├── merged/                  # Cross-foundation merged datasets
-│       └── README.md                # Processing documentation
+├── dataset/                           # Dataset-related materials
+│   └── foundational-stats-research/   # Research on foundational OSS statistics
+│       ├── data/                      # Data directory
+│       │   ├── raw/                   # Original, immutable data
+│       │   │   ├── cncf/              # CNCF foundation data
+│       │   │   ├── apache/            # Apache foundation data
+│       │   │   ├── eclipse/           # Eclipse foundation data
+│       │   │   └── README.md          # Data provenance documentation
+│       │   └── processed/             # Cleaned and processed data
+│       │       ├── merged/            # Cross-foundation merged datasets
+│       │       └── README.md          # Processing documentation
+│       │
+│       ├── notebooks/                 # Jupyter notebooks
+│       │   ├── 01_metadata_audit.ipynb        # Section 1: CHAOSS-Aligned Metadata Audit
+│       │   ├── 02_foundation_narratives.ipynb # Section 2: Foundation-Specific Narratives
+│       │   ├── 03_outlier_analysis.ipynb      # Section 3: Cross-Foundation Outlier Analysis
+│       │   ├── 04_landscape_summary.ipynb     # Section 4: Aggregate Landscape Summary
+│       │   ├── 05_predictive_modeling.ipynb   # Section 5: Predictive and Stochastic Modeling
+│       │   ├── 06_insights_recommendations.ipynb # Section 6: Predictive Insights and Recommendations
+│       │   └── utils.py                       # Shared utility functions
+│       │
+│       ├── src/                       # Essential source code
+│       │   ├── __init__.py
+│       │   ├── data_loader.py         # Data loading and processing
+│       │   ├── chaoss_mapper.py       # CHAOSS alignment functions
+│       │   ├── analysis.py            # Core analysis functions
+│       │   └── visualization.py       # Plotting and visualization
+│       │
+│       ├── config/                    # Configuration files
+│       │   ├── chaoss_mapping.yaml    # CHAOSS metric mappings
+│       │   └── model_params.yaml      # Model parameters
+│       │
+│       ├── tests/                     # Essential tests
+│       │   ├── test_data_loader.py
+│       │   └── test_analysis.py
+│       │
+│       └── outputs/                   # Generated outputs (git-ignored)
+│           ├── figures/               # Generated figures
+│           └── reports/               # Generated reports
 │
-├── notebooks/                       # Jupyter notebooks
-│   ├── 01_metadata_audit.ipynb     # Section 1: CHAOSS-Aligned Metadata Audit
-│   ├── 02_foundation_narratives.ipynb # Section 2: Foundation-Specific Narratives
-│   ├── 03_outlier_analysis.ipynb   # Section 3: Cross-Foundation Outlier Analysis
-│   ├── 04_landscape_summary.ipynb  # Section 4: Aggregate Landscape Summary
-│   ├── 05_predictive_modeling.ipynb # Section 5: Predictive and Stochastic Modeling
-│   ├── 06_insights_recommendations.ipynb # Section 6: Predictive Insights and Recommendations
-│   └── utils.py                     # Shared utility functions
-│
-├── src/                            # Essential source code
-│   ├── __init__.py
-│   ├── data_loader.py              # Data loading and processing
-│   ├── chaoss_mapper.py            # CHAOSS alignment functions
-│   ├── analysis.py                 # Core analysis functions
-│   └── visualization.py            # Plotting and visualization
-│
-├── config/                         # Configuration files
-│   ├── chaoss_mapping.yaml         # CHAOSS metric mappings
-│   └── model_params.yaml           # Model parameters
-│
-├── tests/                          # Essential tests
-│   ├── test_data_loader.py
-│   └── test_analysis.py
-│
-├── outputs/                        # Generated outputs (git-ignored)
-│   ├── figures/                    # Generated figures
-│   └── reports/                    # Generated reports
-│
-├── practitioner-guides/            # Existing practitioner guides
-├── publications/                   # Existing publications
-└── challenges_survey/              # Existing survey data
+├── practitioner-guides/               # Existing practitioner guides
+├── publications/                      # Existing publications
+└── challenges_survey/                 # Existing survey data
 ```
 
 ### Key Minimal Features
