@@ -186,6 +186,12 @@ This project adheres to strict ethical standards:
 - Field-level presence analysis and completeness benchmarking
 - CHAOSS metric category mapping
 
+#### **NOTE** : The [notebook](https://colab.research.google.com/drive/1DTOHZv0HOyT64GWrvBTyQprU6P08NyzZ?usp=sharing) and [datasets](https://huggingface.co/datasets/Ernesty/foundational-stats-datasets/tree/main) used are in colab and Hugging Face respectively. The notebooks demostrates:
+          - An attempt to crawl apache projects metadata 
+          - Extract the ⁠ blog ⁠,  ⁠ community ⁠ , ⁠ license ⁠  and other useful links for each apache projects
+          - Save the extracts to Hugging Face
+   The dataset contains bunch of html files for each apache projects, and a `apache_project_links_named.json ⁠` with an attempt to save the useful links.
+   
 **Phase 2: Foundation Narratives & Outlier Analysis** 🔄 *In Progress*  
 - Foundation-specific descriptive analytics
 - Cross-foundation outlier detection and risk identification
