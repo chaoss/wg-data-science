@@ -428,6 +428,7 @@ One guide can’t possibly cover everything about demonstrating the value of you
 
 # Additional Reading
 
+* [CHAOSScast Episode 120: Practitioner Guide - Demonstrating Organizational Value](https://podcast.chaoss.community/120)
 * KubeCon talk by Bob Killen: [Why is this so hard? Conveying the Business Value of Open Source](https://kccnceu2024.sched.com/event/1YeQH/why-is-this-so-hard-conveying-the-business-value-of-open-source-bob-killen-google) (slides and video) and the [White Whale](https://static.sched.com/hosted_files/lfms24/f9/Chasing%20the%20White%20Whale%20of%20Open%20Source%20-%20ROI.pdf) talk from the Linux Foundation Member Summit.
 * [CHAOSS Practitioner Guides](https://chaoss.community/about-chaoss-practitioner-guides/) on topics that include improving responsiveness, contributor sustainability, organizational participation, and security.
 
