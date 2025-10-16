@@ -14,6 +14,7 @@ These guides will be especially useful for Open Source Program Offices (OSPOs), 
 * [Practitioner Guide: Getting Started with Sunsetting an Open Source Project](https://chaoss.community/practitioner-guide-sunset)
 * [Practitioner Guide: Getting Started with Building Diverse Leadership](https://chaoss.community/practitioner-guide-diverse-leadership)
 * [Practitioner Guide: Demonstrating Organizational Value](https://chaoss.community/practitioner-guide-demonstrating-org-value)
+* [Practitioner Guide: Assessing Viability](https://chaoss.community/practitioner-guide-viability)
 
 Short videos about the guides can be found in the [Practitioner Guides Playlist](https://www.youtube.com/playlist?list=PL60k37cxI-HSHV4-rEsWMzExw2y2Oq79Z) in the CHAOSS YouTube channel.
 
