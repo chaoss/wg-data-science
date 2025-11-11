@@ -46,7 +46,7 @@ The rest of this section covers which metrics we’re using and why they fit tog
 
 ## Compliance and Security
 
-Compliance and Security assesses a project’s licensing fit, vulnerability risk, and ability to respond to their maintenance duties. It is important for users to comply with any responsibilities they may hold to an organization or to the creators of an OSS project.
+Compliance and Security assesses a project’s licensing fit, vulnerability risk, and maintenance activities. It is important for users to comply with any responsibilities they may hold to an organization or to the creators of an OSS project.
 
 **CHAOSS Metrics:**
 
