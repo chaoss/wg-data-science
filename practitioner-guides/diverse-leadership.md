@@ -134,6 +134,7 @@ As you monitor the results of your efforts to enhance diverse leadership, it's i
 * [Linux Foundation - Decentralized innovation, built with trust](https://www.linuxfoundation.org/)
 * [Inclusive Leadership: Effecting change: Introduction | OpenLearn - Open University](https://www.open.edu/openlearn/education-development/inclusive-leadership-effecting-change/content-section-0?intro=1)
 * [CHAOSS Data Use Awareness Recommendations: Privacy and Ethics](https://github.com/chaoss/community/blob/main/data-use-statement.md)
+* We have a [short video](https://www.youtube.com/watch?v=NSBKSFToV7k&list=PL60k37cxI-HSHV4-rEsWMzExw2y2Oq79Z&index=7) (5 minutes) devoted to this guide on the CHAOSS YouTube channel.
 
 
 # Contributors

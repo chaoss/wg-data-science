@@ -286,6 +286,7 @@ Most business decisions boil down to an assessment of risk and making tradeoffs.
 
 # Additional Reading
 
+* We have a [short video](https://www.youtube.com/watch?v=3nXjrm-niMI&list=PL60k37cxI-HSHV4-rEsWMzExw2y2Oq79Z&index=9) (< 8 minutes) devoted to this guide on the CHAOSS YouTube channel.
 * 5 viability metrics models: [Starter](https://chaoss.community/?p=5608), [Compliance + Security](https://chaoss.community/?p=5407), [Governance](https://chaoss.community/?p=5411), [Community Engagement](https://chaoss.community/?p=5403), and [Strategy](https://chaoss.community/?p=5416) 
 * [Viability: An Open Source CHAOSS Metric (Super)Model](https://chaoss.community/oss-viability-metric-supermodel/)
 * [Metrics for OSS Viability](https://chaoss.community/viability-metrics-what-its-made-of/)
@@ -293,6 +294,7 @@ Most business decisions boil down to an assessment of risk and making tradeoffs.
 * [CHAOSS Practitioner Guides](https://chaoss.community/about-chaoss-practitioner-guides/)
 * [2024 Open Source Security and Risk Analysis Report](https://static.carahsoft.com/concrete/files/1617/1597/8665/2024_Open_Source_Security_and_Risk_Analysis_Report_WRAPPED.pdf)
 * [Clouds, Code, and Control: The New Open Source Power Struggle](https://thenewstack.io/clouds-code-and-control-the-new-open-source-power-struggle/)
+* [CHAOSScast Episode 84: Community Viability - how Verizon thinks about OSS risk](https://podcast.chaoss.community/84)
 
 # Contributors
 
