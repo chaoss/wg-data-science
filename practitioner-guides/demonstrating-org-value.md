@@ -428,9 +428,11 @@ One guide can’t possibly cover everything about demonstrating the value of you
 
 # Additional Reading
 
+* We have a [short video](https://www.youtube.com/watch?v=Gy9ZI-1_SMA&list=PL60k37cxI-HSHV4-rEsWMzExw2y2Oq79Z&index=8) (6 minutes) devoted to this guide on the CHAOSS YouTube channel.
 * [CHAOSScast Episode 120: Practitioner Guide - Demonstrating Organizational Value](https://podcast.chaoss.community/120)
 * KubeCon talk by Bob Killen: [Why is this so hard? Conveying the Business Value of Open Source](https://kccnceu2024.sched.com/event/1YeQH/why-is-this-so-hard-conveying-the-business-value-of-open-source-bob-killen-google) (slides and video) and the [White Whale](https://static.sched.com/hosted_files/lfms24/f9/Chasing%20the%20White%20Whale%20of%20Open%20Source%20-%20ROI.pdf) talk from the Linux Foundation Member Summit.
 * [CHAOSS Practitioner Guides](https://chaoss.community/about-chaoss-practitioner-guides/) on topics that include improving responsiveness, contributor sustainability, organizational participation, and security.
+
 
 # Contributors
 
@@ -540,5 +542,4 @@ Long Term Health Metrics:
 
 * Increased contributor engagement and sustainability across a variety of metrics (e.g., [number of contributors](https://chaoss.community/?p=3630), [project velocity](https://chaoss.community/?p=3572), frequency of contributions, retention)
 * Increase in conversion from contributors to maintainers
-
 CHAOSS Practitioner Guides are MIT licensed, living documents, and we welcome your feedback and input. You can suggest edits to this document at [https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/demonstrating-org-value.md](https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/demonstrating-org-value.md).

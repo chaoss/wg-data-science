@@ -100,6 +100,8 @@ Unfortunately, even active projects may need to be sunsetted, which can be much 
 
 # Additional Reading
 
+* We have a [short video](https://www.youtube.com/watch?v=dsiWoapOHzA&list=PL60k37cxI-HSHV4-rEsWMzExw2y2Oq79Z&index=6) (2 minutes) devoted to this guide on the CHAOSS YouTube channel.
+* [CHAOSScast Episode 123: Practitioner Guides: #6 Sunsetting an Open Source Project](https://podcast.chaoss.community/123)
 * Stefka Dimitrova on When and How to Deprecate an Open Source Project ([Part 1](https://blogs.vmware.com/opensource/2022/09/29/when-and-how-to-deprecate-an-open-source-project/) and [Part 2](https://blogs.vmware.com/opensource/2023/05/17/deprecating-an-open-source-project-part-2/)) along with a video from the Open Source Summit in Europe in 2022 about [Simple Steps for a Calm “Sunset”](https://www.youtube.com/watch?v=OdpkMkoKtDY). Much of the content for this guide is based on these materials.
 * [GitHub’s Do’s and Don'ts When Sunsetting Open Source Projects](https://github.blog/open-source/maintainers/dos-and-donts-when-sunsetting-open-source-projects/)
 * [TODO Group Guide: Shutting Down an Open Source Project](https://todogroup.org/resources/guides/shutting-down-an-open-source-project/)
