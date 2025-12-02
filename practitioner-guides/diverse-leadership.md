@@ -129,7 +129,7 @@ As you monitor the results of your efforts to enhance diverse leadership, it's i
 # Additional Reading
 
 
-
+* [CHAOSScast Episode 124: Practitioner Guides: #7 Diverse Leadership](https://podcast.chaoss.community/124)
 * [Diversity, Equity, and Inclusion in Open Source](https://www.linuxfoundation.org/research/the-2021-linux-foundation-report-on-diversity-equity-and-inclusion-in-open-source)
 * [Linux Foundation - Decentralized innovation, built with trust](https://www.linuxfoundation.org/)
 * [Inclusive Leadership: Effecting change: Introduction | OpenLearn - Open University](https://www.open.edu/openlearn/education-development/inclusive-leadership-effecting-change/content-section-0?intro=1)
