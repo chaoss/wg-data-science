@@ -1,6 +1,6 @@
-# Notebooks 
+# Augur Notebooks 
 
-This folder is for visualization notebooks. 
+This directory holds notebooks designed to connect with an Augur instance. Any notebook created before 2026 was orignially a resource in the oss-aspen/Rappel repository that has now been archieved. 
 
     ├── 8knot         <- Visualization development for 8Knot
     ├── density_metrics        <- EDA 
@@ -8,3 +8,20 @@ This folder is for visualization notebooks.
     ├── old        <- archieve notebooks from beginning of projects
     ├── performance        <- EDA 
     ├── survival_analysis           <- EDA notebooks for dash app
+
+
+    Example of config.json file:
+
+```
+{
+    "connection_string": "sqlite:///:memory:",
+    "database": "sandiegorh",
+    "host": "chaoss.tv",
+    "password": "<<Your Password>>",
+    "port": 5432,
+    "schema": "augur_data",
+    "user": "<<Your Username>>",
+    "user_type": "read_only"
+}
+
+```
