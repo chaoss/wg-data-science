@@ -1,0 +1,1 @@
+This folder holds notebooks that were made before 8Knot and when Augur's front end provided analysis.
