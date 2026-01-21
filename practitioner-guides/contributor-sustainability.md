@@ -77,6 +77,15 @@ If you are recruiting new contributors, approvers, and maintainers, it might tak
 # Cautions and Considerations
 
 * It’s critical to think about the human dynamics that can influence contributor sustainability and to treat people with kindness and respect as you work to make improvements.
+* Short-term fluctuations in contributor activity (for example, during holidays or release freezes) are often mistaken for long-term trends.
+* High numbers of drive-by contributors can mask a lack of dedicated maintainers.
+* Focusing solely on code commits ignores valuable non-code contributions.
+
+For example, a project manager may notice a significant drop in contributions during December.
+Rather than seeing this as a sign of community decline, this may simply reflect a seasonal
+holiday pattern, with contribution levels normalising in January. This highlights why
+contributor sustainability metrics should always be interpreted alongside contextual factors,
+rather than in isolation.
 
 # Additional Reading
 
@@ -97,6 +106,8 @@ The following people contributed to this guide:
 * Chan Voong
 * Jeffrey Osier-Mixon
 * Luis Cañas Díaz
+* Dev (GitHub: @Dev10-sys)
+
 
 # References
 
@@ -106,18 +117,3 @@ The following people contributed to this guide:
 * Fagerholm, F., Guinea, A. S., Münch, J., & Borenstein, J. (2014, September). [The role of mentoring and project characteristics for onboarding in open source software projects](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2096b22e7a465eec6ece0933acefebffc286d1f2). In Proceedings of the 8th ACM/IEEE international symposium on empirical software engineering and measurement (pp. 1-10). 
 
 CHAOSS Practitioner Guides are MIT licensed, living documents, and we welcome your feedback and input. You can suggest edits to this document at https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/contributor-sustainability.md
-
-## Common Misinterpretations
-
-*   Short-term fluctuations in contributor activity (for example, during holidays or release freezes) are often mistaken for long-term trends.
-*   High numbers of drive-by contributors can mask a lack of dedicated maintainers.
-*   Focusing solely on code commits ignores valuable non-code contributions.
-
-## Practical Example
-
-A project manager notices a significant drop in contributions during December. Rather than
-seeing this as a sign of community decline, they identify it as a seasonal holiday pattern,
-with contribution levels normalising in January.
-
-This example highlights why contributor sustainability metrics should always be interpreted
-alongside contextual factors, rather than in isolation.
