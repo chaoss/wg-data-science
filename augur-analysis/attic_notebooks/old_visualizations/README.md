@@ -1,0 +1,1 @@
+These notebooks were created for an anlaysis effort either before Cali Dolfi's time at Red Hat or she has no recollection of. In her opinion, the graphs and metrics created in these notebooks have been surpassed by the 8Knot visualizations. 
