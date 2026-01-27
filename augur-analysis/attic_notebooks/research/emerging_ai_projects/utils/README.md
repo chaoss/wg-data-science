@@ -1,0 +1,15 @@
+## get_melted_df(contrib_df):
+1. In the dataframe, each row represents a repository name and each column represents a contributor. The dataframe contains counts for the number of times a contributor has made contributions to a particular repository. In the dataframe below `df_pr`, each contribution represents a PR contribution. 
+2. A value 0 means that a particular contributor has made no PR contributions to the repository, and a number `x` means that the contributor has made `x` number of PR contributions to the repository. Refer to repo_analysis.ipynb for more clarity.
+3. When we use groupby and unstack, the resulting DataFrame has a multi-level index, where the original index values become part of the columns. Resetting the index flattens the DataFrame, making it easier to work with in subsequent operations. 
+4. Apply melt function to reshape the DataFrame. In wide format, we have multiple columns representing different contributors. Melting the DataFrame converts these columns into a single column, `cntrb_id` , making the DataFrame longer and narrower.
+5. The resultant dataframe after filtering and keeping only the rows where the value in the third column i.e., number of contributions count (`number`) is not equal to 0
+
+## get_networkx_graph(repo_common_contributors)
+1. For plotting the graph below, we pick the repositories as the nodes and let the shared contributions dictate the edge weights.
+2. The graph represents project repositories and how close or far they are to each other based on their degree of connected (number of shared contributions amongst them). If two nodes are close to each other, the two projects have a high number of shared contributions and vice versa. Each node in this graph has atleast one connection. We are not plotting lone projects in this graph as we want to identify project repositories in connection to existing known repositories. Note: this is not a complete (fully-connected) graph. All projects are not **"connected"** to each project. 
+3. This graph represents a network visualization of open-source repositories, where nodes represent individual repositories and edges represent the number of shared contributors between those repositories.
+4. **Node Size**: The size of each node is proportional to the number of connections (degree) it has, indicating its centrality in the network.
+5. **Edge Width**: The width of each edge is proportional to the number of shared contributors between the connected repositories, illustrating the strength of the connection.
+6. **Numbers on Edges**: These numbers indicate the exact count of shared contributors between the respective repositories.
+7. The visualization aims to highlight the interconnectedness among various open-source repositories and identify key repositories that serve as hubs of collaboration. This analysis is useful for understanding the dynamics of open-source contributions and identifying influential repositories.

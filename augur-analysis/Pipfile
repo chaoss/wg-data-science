@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[packages]
+awscli = "*"
+flake8 = "*"
+coverage = "*"
+Sphinx = "*"
+types-click = "*"
+psycopg2 = "*"
+sqlalchemy = "1.4.19"
+pandas = "2.1.2"
+pipfile = "*"
+ghp-import = "*"
+black = "==18.9b0"
+jupyter-book = "*"
+
+
+[requires]
+python_version = "3.8"
