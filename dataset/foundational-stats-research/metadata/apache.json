@@ -8,7 +8,6 @@
      "blog_url": null,
      "docs_url": "https://fluo.apache.org//docs/fluo-recipes/1.2/getting-started/overview"
     },
-
     {"project": "Apache Fluo YARN",
      "slack_url": "https://the-asf.slack.com/",
      "mailing_list": "dev-subscribe@accumulo.apache.org",
@@ -18,7 +17,6 @@
      "blog_url": null,
      "docs_url": "https://fluo.apache.org/docs/fluo/1.2/administration/run-fluo-in-yarn"
     },
-
     {"project": "Apache ActiveMQ",
      "slack_url": "https://the-asf.slack.com/",
      "mailing_list": "dev-subscribe@activemq.apache.org",
