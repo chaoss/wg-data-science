@@ -1,0 +1,23 @@
+[
+    {
+      "project": "Apache Accumulo",
+      "slack_url": "https://the-asf.slack.com/",
+      "mailing_list": "https://accumulo.apache.org/contact-us/#mailing-lists",
+      "discord_url": null,
+      "zulip_url": null,
+      "forum_url": null,
+      "blog_url": null,
+      "docs_url": "https://accumulo.apache.org/docs/2.x/getting-started/quickstart"
+    },
+    {
+      "project": "Apache Fluo",
+      "slack_url": "https://the-asf.slack.com/",
+      "mailing_list": "https://fluo.apache.org/contactus/",
+      "discord_url": null,
+      "zulip_url": null,
+      "forum_url": null,
+      "docs_url": "https://fluo.apache.org//docs/fluo/1.2/getting-started/design",
+      "blog_url": null
+    },
+
+]
