@@ -1,0 +1,82 @@
+[
+  {
+    "project": "apache-airflow",
+    "slack_url": "https://s.apache.org/airflow-slack",
+    "mailing_list": "https://lists.apache.org/list.html?users@airflow.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": "https://github.com/apache/airflow/discussions"
+  },
+  {
+    "project": "apache-kafka",
+    "slack_url": "https://s.apache.org/kafka-slack",
+    "mailing_list": "https://lists.apache.org/list.html?users@kafka.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": "https://forum.confluent.io/"
+  },
+  {
+    "project": "apache-hadoop",
+    "slack_url": "https://the-asf.slack.com",
+    "mailing_list": "https://lists.apache.org/list.html?user@hadoop.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": "https://stackoverflow.com/questions/tagged/hadoop"
+  },
+  {
+    "project": "apache-spark",
+    "slack_url": null,
+    "mailing_list": "https://lists.apache.org/list.html?user@spark.apache.org",
+    "discord_url": null,
+    "zulip_url": "https://apache-spark.zulipchat.com/",
+    "forum_url": "https://stackoverflow.com/questions/tagged/apache-spark"
+  },
+  {
+    "project": "apache-zookeeper",
+    "slack_url": "https://the-asf.slack.com",
+    "mailing_list": "https://lists.apache.org/list.html?user@zookeeper.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": "https://stackoverflow.com/questions/tagged/zookeeper"
+  },
+  {
+    "project": "apache-nifi",
+    "slack_url": "https://the-asf.slack.com",
+    "mailing_list": "https://lists.apache.org/list.html?users@nifi.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": "https://stackoverflow.com/questions/tagged/apache-nifi"
+  },
+  {
+    "project": "apache-solr",
+    "slack_url": "https://the-asf.slack.com",
+    "mailing_list": "https://lists.apache.org/list.html?users@solr.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": "https://stackoverflow.com/questions/tagged/solr"
+  },
+  {
+    "project": "apache-cassandra",
+    "slack_url": "https://the-asf.slack.com",
+    "mailing_list": "https://lists.apache.org/list.html?user@cassandra.apache.org",
+    "discord_url": "https://discord.com/invite/q899Dk8",
+    "zulip_url": null,
+    "forum_url": "https://stackoverflow.com/questions/tagged/apache-cassandra"
+  },
+  {
+    "project": "apache-flink",
+    "slack_url": "https://s.apache.org/flink-slack",
+    "mailing_list": "https://lists.apache.org/list.html?user@flink.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": "https://stackoverflow.com/questions/tagged/apache-flink"
+  },
+  {
+    "project": "apache-ant",
+    "slack_url": null,
+    "mailing_list": "https://lists.apache.org/list.html?user@ant.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": "https://stackoverflow.com/questions/tagged/apache-ant"
+  }
+]
