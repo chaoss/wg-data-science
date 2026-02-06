@@ -3,6 +3,12 @@
 
 This project is part of the [CHAOSS Data Science Working Group](https://chaoss.community/inside-the-chaoss-data-science-working-group/) initiative to develop rigorous, evidence-based statistical frameworks for understanding collaboration patterns across major open source foundations.
 
+## IMPORTANT INFO:
+We are currently focused on manualy collecting the Apache metadata from individual websites. If you'd like to contribute to this effort, kindly use [this tracker](https://docs.google.com/spreadsheets/d/1rWW773oOudiM5xpfroIjEiQazOr42YNCfGWISnR0Tk4/edit?usp=sharing) to know what project you can document:
+-  "In Progress" means a contributor has started working on the project but yet to send a PR or PR is yet to be merged.
+- "Done" implies that the metadata for that Apache project has been done and merged to /data/raw/apache.json
+- Empty or "To Do" means noone is currently working on the project. If you decide to work on it, please change the status to "In Progress" to avoid duplicating efforts from contributors. 
+
 ## 🎯 Project Overview
 
 This research project conducts a comprehensive, reproducible assessment of community health across three major open source ecosystems: **Cloud Native Computing Foundation (CNCF)**, **Apache Software Foundation**, and **Eclipse Foundation**. 
