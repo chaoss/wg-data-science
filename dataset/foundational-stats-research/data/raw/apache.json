@@ -19,5 +19,75 @@
       "docs_url": "https://fluo.apache.org//docs/fluo/1.2/getting-started/design",
       "blog_url": null
     },
+    {
+      "project": "Apache Arrow",
+      "slack_url": null,
+      "mailing_list": "https://arrow.apache.org/community/",
+      "discord_url": null,
+      "zulip_url": "https://arrow-dev.zulipchat.com/",
+      "forum_url": null,
+      "docs_url": "https://arrow.apache.org/docs/",
+      "blog_url": "https://arrow.apache.org/blog/"
+    },
+    {
+      "project": "Apache Atlas",
+      "slack_url": null,
+      "mailing_list": "https://atlas.apache.org/#/MailingLists",
+      "discord_url": null,
+      "zulip_url": null,
+      "forum_url": null,
+      "docs_url": "https://atlas.apache.org/#/",
+      "blog_url": null
+    },
+    {
+      "project": "Apache Avro",
+      "slack_url": "https://the-asf.slack.com/",
+      "mailing_list": "https://avro.apache.org/community/",
+      "discord_url": null,
+      "zulip_url": null,
+      "forum_url": null,
+      "docs_url": "https://avro.apache.org/docs/",
+      "blog_url": "https://avro.apache.org/blog/"
+    },
+    {
+      "project": "Apache Beam",
+      "slack_url": "https://the-asf.slack.com/",
+      "mailing_list": "https://beam.apache.org/community/contact-us/",
+      "discord_url": null,
+      "zulip_url": null,
+      "forum_url": null,
+      "docs_url": "https://beam.apache.org/documentation/",
+      "blog_url": "https://beam.apache.org/blog/"      
+    },
+    {
+      "project": "Apache BookKeeper",
+      "slack_url": "https://apachebookkeeper.slack.com/",
+      "mailing_list": "https://bookkeeper.apache.org/community/mailing-lists",
+      "discord_url": null,
+      "zulip_url": null,
+      "forum_url": null,
+      "docs_url": "https://bookkeeper.apache.org/docs/overview/",
+      "blog_url": null
+    },
+    {
+      "project": "Apache Calcite",
+      "slack_url": null,
+      "mailing_list": "https://calcite.apache.org/community/#mailing-lists",
+      "discord_url": null,
+      "zulip_url": null,
+      "forum_url": null,
+      "docs_url": "https://calcite.apache.org/docs/",
+      "blog_url": "https://calcite.apache.org/news/"
+    },
+    {
+      "project": "Apache Tika",
+      "slack_url": null,
+      "mailing_list": "https://tika.apache.org/mail-lists.html",
+      "discord_url": null,
+      "zulip_url": null,
+      "forum_url": null,
+      "docs_url": "https://tika.apache.org/3.2.3/index.html",
+      "blog_url": "https://tika.apache.org/"
+    }
 
 ]
