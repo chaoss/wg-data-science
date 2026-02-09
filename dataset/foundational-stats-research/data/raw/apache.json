@@ -105,7 +105,7 @@
      "mailing_list": "dev@ant.apache.org",
      "discord_url": null,
      "zulip_url": null,
-     "forum_url": null,
+     "forum_url": "https://stackoverflow.com/questions/tagged/apache-ant",
      "blog_url": null,
      "docs_url": "https://ant.apache.org/manual/index.html"
     },
@@ -198,6 +198,85 @@
      "forum_url": null,
      "blog_url": null,
      "docs_url": "https://aries.apache.org/documentation/documentation/application-dependencies.html"
-    }
-
+    },
+  {
+    "project": "Apache Kafka",
+    "slack_url": "https://slack.apache.org",
+    "mailing_list": "https://lists.apache.org/list.html?users@kafka.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": "https://lists.apache.org/list.html?users@kafka.apache.org",
+    "blog_url": "https://kafka.apache.org/blog",
+    "docs_url": "https://kafka.apache.org/documentation/"
+  },
+  {
+    "project": "Apache Hadoop",
+    "slack_url": "https://slack.apache.org",
+    "mailing_list": "https://lists.apache.org/list.html?user@hadoop.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": "https://stackoverflow.com/questions/tagged/hadoop",
+    "blog_url": null,
+    "docs_url": "https://hadoop.apache.org/docs/"
+  },
+  {
+    "project": "Apache Spark",
+    "slack_url": null,
+    "mailing_list": "https://lists.apache.org/list.html?user@spark.apache.org",
+    "discord_url": null,
+    "zulip_url": "https://apache-spark.zulipchat.com/",
+    "forum_url": "https://stackoverflow.com/questions/tagged/apache-spark",
+    "blog_url": "https://spark.apache.org/blog/",
+    "docs_url": "https://spark.apache.org/docs/"
+  },
+  {
+    "project": "Apache ZooKeeper",
+    "slack_url": "https://slack.apache.org",
+    "mailing_list": "https://lists.apache.org/list.html?user@zookeeper.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": "https://stackoverflow.com/questions/tagged/zookeeper",
+    "blog_url": null,
+    "docs_url": "https://zookeeper.apache.org/documentation.html"
+  },
+  {
+    "project": "Apache NiFi",
+    "slack_url": "https://slack.apache.org",
+    "mailing_list": "https://lists.apache.org/list.html?users@nifi.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": "https://stackoverflow.com/questions/tagged/apache-nifi",
+    "blog_url": "https://nifi.apache.org/blog.html",
+    "docs_url": "https://nifi.apache.org/docs.html"
+  },
+  {
+    "project": "Apache Solr",
+    "slack_url": "https://slack.apache.org",
+    "mailing_list": "https://lists.apache.org/list.html?users@solr.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": "https://stackoverflow.com/questions/tagged/solr",
+    "blog_url": "https://solr.apache.org/blog/",
+    "docs_url": "https://solr.apache.org/guide/"
+  },
+  {
+    "project": "Apache Cassandra",
+    "slack_url": "https://slack.apache.org",
+    "mailing_list": "https://lists.apache.org/list.html?user@cassandra.apache.org",
+    "discord_url": "https://discord.com/invite/q899Dk8",
+    "zulip_url": null,
+    "forum_url": "https://cassandra.apache.org/_/community.html",
+    "blog_url": "https://cassandra.apache.org/_/blog.html",
+    "docs_url": "https://cassandra.apache.org/doc/"
+  },
+  {
+    "project": "Apache Flink",
+    "slack_url": "https://slack.apache.org",
+    "mailing_list": "https://lists.apache.org/list.html?user@flink.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": "https://stackoverflow.com/questions/tagged/apache-flink",
+    "blog_url": "https://flink.apache.org/blog/",
+    "docs_url": "https://flink.apache.org/what-is-flink/"
+  }
 ]
