@@ -87,7 +87,7 @@
       "zulip_url": null,
       "forum_url": null,
       "docs_url": "https://tika.apache.org/3.2.3/index.html",
-      "blog_url": "https://tika.apache.org/"
+      "blog_url": null
     },
     {"project": "Apache Fluo Recipes",
      "slack_url": "https://the-asf.slack.com/",
