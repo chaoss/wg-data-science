@@ -69,6 +69,10 @@ Current Chairs:
 Previous Chairs:
 - [Chan Voong](https://github.com/voongc)
 
+### Maintainers
+
+- [Ernest Owojori](https://github.com/E-STAT)
+
 ### Amazing CHAOSS Project Contributors
 
 Link to the [contributors](https://chaoss.community/metrics/#user-content-chaoss-contributors-include) listed on the website.
