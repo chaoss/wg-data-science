@@ -348,5 +348,115 @@
     "forum_url": "https://stackoverflow.com/questions/tagged/apache-flink",
     "blog_url": "https://flink.apache.org/blog/",
     "docs_url": "https://flink.apache.org/what-is-flink/"
+  },
+  {
+    "project": "Apache Atlas",
+    "slack_url": null,
+    "mailing_list": "dev-subscribe@atlas.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": "https://atlas.apache.org/#/Architecture"
+  },
+  {
+    "project": "Apache Any23",
+    "slack_url": null,
+    "mailing_list": "dev-subscribe[at]any23[dot]apache[dot]org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": "https://any23.apache.org/getting-started.html"
+  },
+  {
+    "project": "Apache Apex",
+    "slack_url": null,
+    "mailing_list": "dev@apex.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": "https://stackoverflow.com/questions/tagged/apache-apex",
+    "blog_url": null,
+    "docs_url": "https://apex.apache.org/docs/apex/"
+  },
+  {
+    "project": "Apache Archiva",
+    "slack_url": null,
+    "mailing_list": "dev-subscribe@archiva.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": null
+  },
+  {
+    "project": "Apache Beehive",
+    "slack_url": null,
+    "mailing_list": "dev-subscribe@beehive.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": "https://beehive.apache.org/index.html#docs"
+  },
+  {
+    "project": "Apache Buildr",
+    "slack_url": null,
+    "mailing_list": "dev-subscribe@buildr.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": "https://buildr.apache.org/contributing.html"
+  },
+  {
+    "project": "Apache Chemistry",
+    "slack_url": null,
+    "mailing_list": "https://lists.apache.org/list.html?dev@chemistry.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": null
+  },
+  {
+    "project": "Apache Chukwa",
+    "slack_url": null,
+    "mailing_list": "dev-subscribe@chukwa.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": null
+  },
+  {
+    "project": "Apache Clerezza",
+    "slack_url": null,
+    "mailing_list": "dev-subscribe@clerezza.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": null
+  },
+  {
+    "project": "Apache Click",
+    "slack_url": null,
+    "mailing_list": "http://mail-archives.apache.org/mod_mbox/click-dev/",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": null
+  },
+  {
+    "project": "Apache Cocoon",
+    "slack_url": null,
+    "mailing_list": "dev-subscribe@cocoon.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": "https://cocoon.apache.org/1286_1_1.html"
   }
 ]
