@@ -350,16 +350,6 @@
     "docs_url": "https://flink.apache.org/what-is-flink/"
   },
   {
-    "project": "Apache Atlas",
-    "slack_url": null,
-    "mailing_list": "dev-subscribe@atlas.apache.org",
-    "discord_url": null,
-    "zulip_url": null,
-    "forum_url": null,
-    "blog_url": null,
-    "docs_url": "https://atlas.apache.org/#/Architecture"
-  },
-  {
     "project": "Apache Any23",
     "slack_url": null,
     "mailing_list": "dev-subscribe[at]any23[dot]apache[dot]org",
