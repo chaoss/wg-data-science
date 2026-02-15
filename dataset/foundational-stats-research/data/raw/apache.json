@@ -352,7 +352,7 @@
   {
     "project": "Apache Any23",
     "slack_url": null,
-    "mailing_list": "dev-subscribe[at]any23[dot]apache[dot]org",
+    "mailing_list": "dev-subscribe@any23.apache.org",
     "discord_url": null,
     "zulip_url": null,
     "forum_url": null,
