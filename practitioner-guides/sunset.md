@@ -92,6 +92,11 @@ Adding a metadata file improves discoverability, helps users and internal teams 
 **Housekeeping**
 Perform an audit reviewing all users with committer access permissions to the repository. Remove access for users who no longer need it. Alongside, clean up the repository by deleting stale/inactive branches and unnecessary files/artifacts.
 
+**Checklists**
+The checklists below summarize the tasks listed above:
+* [CMS.gov OSPO Comprehensive Repository Archival Checklist](https://github.com/DSACMS/repo-sunsetter/blob/main/checklists/COMPREHENSIVE_ARCHIVAL_CHECKLIST.md)
+* [Template Checklist](https://github.com/DSACMS/repo-sunsetter/blob/main/checklists/TEMPLATE_ARCHIVAL_CHECKLIST.md)
+
 **Archival**
 
 The project should be officially archived using something like GitHub’s archival method. It might also be a good idea to keep these projects in a separate location to make it clear that these projects have reached the end of their life. For example, VMware has a separate ‘vmware-archive’ organization, and Apache has something similar called the ‘Apache Attic’.
@@ -127,6 +132,7 @@ Unfortunately, even active projects may need to be sunsetted, which can be much 
 * [TODO Group Guide: Shutting Down an Open Source Project](https://todogroup.org/resources/guides/shutting-down-an-open-source-project/)
 * [Allen Friedman on End of Life and End of Support Across the Ecosystem](https://www.youtube.com/watch?v=ZgWwiKLB6hE) (video)
 * [10 Quick tips for making software outlive your job (white paper)](https://arxiv.org/abs/2505.06484)
+* [CMS.gov OSPO Repository Archival Guide](https://dsacms.github.io/ospo-guide/outbound/archiving-repositories/)
 
 # Contributors
 
