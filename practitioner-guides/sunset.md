@@ -138,6 +138,7 @@ The following people contributed to this guide:
 * Matt Germonprez
 * Elizabeth Barron
 * Tara Tarakiyee
+* Natalia Luzuriaga
 
 # References
 
