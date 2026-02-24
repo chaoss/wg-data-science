@@ -73,26 +73,32 @@ When you have agreement to sunset the project, then this needs to be communicate
 * Users: Known users of the project should also be notified.
 
 **Code & Security Review**
+
 At a minimum, review the repositories for secrets, keys, and personal identifiable information (PII). Be sure to remove or redact any sensitive information found.
 
 For larger projects, it is worth doing a thorough review of the code and its commit history. Resolve any code scanning and security alerts found through Dependabot, CodeQL, and other code analysis tools. If the repository has a CHANGELOG and/or releases/tags, making sure it reflects all completed work and the project's final state.
 
 **Issues**
+
 Review all open issues, close those that are already fixed, and add context on unresolved items. Apply appropriate labels and close issues as `won't fix` where applicable.
 
 **Change Requests**
+
 Review all change requests, merge those that have no conflicts and pass tests. Dependabot PRs should also be tested and merged to ensure security vulnerabilities are addressed. Comment on any remaining open change requests with their current status, and close change requests as `won't fix` where applicable.
 
 **Repository Metadata**
+
 If your project contains metadata files (e.g. `code.json`, `publiccode.yml`, or `codemeta`), update them to reflect archival status and ensure all fields are current.
 
 If your project does not contain this type of file, consider adding one to the repository.
 Adding a metadata file improves discoverability, helps users and internal teams understand project status, and makes lifecycle and compliance tracking easier over time for your organization's software inventory.
 
 **Housekeeping**
+
 Perform an audit reviewing all users with committer access permissions to the repository. Remove access for users who no longer need it. Alongside, clean up the repository by deleting stale/inactive branches and unnecessary files/artifacts.
 
 **Checklists**
+
 The checklists below summarize the tasks listed above:
 * [CMS.gov OSPO Comprehensive Repository Archival Checklist](https://github.com/DSACMS/repo-sunsetter/blob/main/checklists/COMPREHENSIVE_ARCHIVAL_CHECKLIST.md)
 * [Template Checklist](https://github.com/DSACMS/repo-sunsetter/blob/main/checklists/TEMPLATE_ARCHIVAL_CHECKLIST.md)
