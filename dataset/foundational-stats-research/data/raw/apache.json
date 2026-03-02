@@ -377,7 +377,7 @@
     "zulip_url": null,
     "forum_url": null,
     "blog_url": null,
-    "docs_url": null
+    "docs_url": "https://archiva.apache.org/docs/"
   },
   {
     "project": "Apache Beehive",
