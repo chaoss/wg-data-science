@@ -417,7 +417,7 @@
     "zulip_url": null,
     "forum_url": null,
     "blog_url": null,
-    "docs_url": null
+    "docs_url": "https://chukwa.apache.org/docs/"
   },
   {
     "project": "Apache Clerezza",
