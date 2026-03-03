@@ -100,7 +100,7 @@ Perform an audit reviewing all users with committer access permissions to the re
 **Checklists**
 
 The checklists below summarize the tasks listed above:
-* [CMS.gov OSPO Basic Repository Archival Checklist](https://github.com/DSACMS/repo-sunsetter/blob/main/checklists/COMPREHENSIVE_ARCHIVAL_CHECKLIST.md)
+* [CMS.gov OSPO Basic Repository Archival Checklist](https://github.com/DSACMS/repo-sunsetter/blob/main/checklists/BASIC_ARCHIVAL_CHECKLIST.md)
 * [CMS.gov OSPO Comprehensive Repository Archival Checklist](https://github.com/DSACMS/repo-sunsetter/blob/main/checklists/COMPREHENSIVE_ARCHIVAL_CHECKLIST.md)
 * [Template Checklist](https://github.com/DSACMS/repo-sunsetter/blob/main/checklists/TEMPLATE_ARCHIVAL_CHECKLIST.md)
 
