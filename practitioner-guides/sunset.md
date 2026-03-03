@@ -152,6 +152,10 @@ The following people contributed to this guide:
 * Elizabeth Barron
 * Tara Tarakiyee
 * Natalia Luzuriaga
+* Isaac Milarsky
+* Sachin Panayil
+* Dinne Kopelevich
+* Remy DeCausemaker
 
 # References
 
