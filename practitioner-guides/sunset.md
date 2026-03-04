@@ -97,12 +97,14 @@ Adding a metadata file improves discoverability, helps users and internal teams 
 
 Perform an audit reviewing all users with committer access permissions to the repository. Remove access for users who no longer need it. Alongside, clean up the repository by deleting stale/inactive branches and unnecessary files/artifacts.
 
-**Checklists**
+**Checklists & Tools**
 
 The checklists below summarize the tasks listed above:
 * [CMS.gov OSPO Basic Repository Archival Checklist](https://github.com/DSACMS/repo-sunsetter/blob/main/checklists/BASIC_ARCHIVAL_CHECKLIST.md)
 * [CMS.gov OSPO Comprehensive Repository Archival Checklist](https://github.com/DSACMS/repo-sunsetter/blob/main/checklists/COMPREHENSIVE_ARCHIVAL_CHECKLIST.md)
 * [Template Checklist](https://github.com/DSACMS/repo-sunsetter/blob/main/checklists/TEMPLATE_ARCHIVAL_CHECKLIST.md)
+
+There are various tools that can assist with the completion of the archival preparation tasks. For instance, the [repo-sunsetter GitHub Action](https://github.com/marketplace/actions/repo-sunsetter) prepares a repository for archival by generating a review checklist (found above) as a repository issue and automating documentation updates.
 
 **Archival**
 
