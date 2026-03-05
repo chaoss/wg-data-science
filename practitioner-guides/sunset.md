@@ -57,7 +57,7 @@ Additional Metrics:
 
 # Step 4: Make the Change
 
-After you have completed your diagnosis and have decided to sunset a project, there are several things you can do to ensure that you are sunsetting the project in a responsible manner.
+After you have completed your diagnosis and have decided to sunset a project, there are several things you can do to ensure that you are sunsetting the project in a responsible manner. Preparing the repository for archival by following the tasks below helps reduce risk, simplifies maintenance, and leaves the repository in a clear final state before sunsetting.
 
 **Communication**
 
@@ -67,10 +67,44 @@ When you have agreement to sunset the project, then this needs to be communicate
 
 * README: Clearly state at the top the README that the project has been deprecated and will no longer be updated. If possible, suggest alternate projects that provide similar functionality.
 * Project communication channels: This may include Slack, mailing lists, forums, social media, and any other channels used for communication within the project.
-* Documentation: Project documentation should also be updated. This may include wikis, websites, and other project documentation.
+* Documentation: Project documentation should also be updated. This may include wikis, project boards, websites, and other project documentation.
 * Package managers / distribution channels: Since most projects are distributed via package managers (e.g., npm, PyPI, RubyGems), those should also be updated with a deprecation warning that clearly states that the project is no longer being maintained or updated.
 * Additional channels: If this is a corporate project, marketing and other internal teams should also be notified.
 * Users: Known users of the project should also be notified.
+
+**Code & Security Review**
+
+At a minimum, review the repositories for secrets, keys, and personal identifiable information (PII). Be sure to remove or redact any sensitive information found.
+
+For larger projects, it is worth doing a thorough review of the code and its commit history. Resolve any code scanning and security alerts found through Dependabot, CodeQL, and other code analysis tools. If the repository has a CHANGELOG and/or releases/tags, making sure it reflects all completed work and the project's final state.
+
+**Issues**
+
+Review all open issues, close those that are already fixed, and add context on unresolved items. Apply appropriate labels and close issues as `won't fix` where applicable.
+
+**Change Requests**
+
+Review all change requests, merge those that have no conflicts and pass tests. Dependabot PRs should also be tested and merged to ensure security vulnerabilities are addressed. Comment on any remaining open change requests with their current status, and close change requests as `won't fix` where applicable.
+
+**Repository Metadata**
+
+If your project contains metadata files (e.g. `code.json`, `publiccode.yml`, or `codemeta`), update them to reflect archival status and ensure all fields are current.
+
+If your project does not contain this type of file, consider adding one to the repository.
+Adding a metadata file improves discoverability, helps users and internal teams understand project status, and makes lifecycle and compliance tracking easier over time for your organization's software inventory.
+
+**Housekeeping**
+
+Perform an audit reviewing all users with committer access permissions to the repository. Remove access for users who no longer need it. Alongside, clean up the repository by deleting stale/inactive branches and unnecessary files/artifacts.
+
+**Checklists & Tools**
+
+The checklists below summarize the tasks listed above:
+* [CMS.gov OSPO Basic Repository Archival Checklist](https://github.com/DSACMS/repo-sunsetter/blob/main/checklists/BASIC_ARCHIVAL_CHECKLIST.md)
+* [CMS.gov OSPO Comprehensive Repository Archival Checklist](https://github.com/DSACMS/repo-sunsetter/blob/main/checklists/COMPREHENSIVE_ARCHIVAL_CHECKLIST.md)
+* [Template Checklist](https://github.com/DSACMS/repo-sunsetter/blob/main/checklists/TEMPLATE_ARCHIVAL_CHECKLIST.md)
+
+There are various tools that can assist with the completion of the archival preparation tasks. For instance, the [repo-sunsetter GitHub Action](https://github.com/marketplace/actions/repo-sunsetter) prepares a repository for archival by generating a review checklist (found above) as a repository issue and automating documentation updates.
 
 **Archival**
 
@@ -107,6 +141,7 @@ Unfortunately, even active projects may need to be sunsetted, which can be much 
 * [TODO Group Guide: Shutting Down an Open Source Project](https://todogroup.org/resources/guides/shutting-down-an-open-source-project/)
 * [Allen Friedman on End of Life and End of Support Across the Ecosystem](https://www.youtube.com/watch?v=ZgWwiKLB6hE) (video)
 * [10 Quick tips for making software outlive your job (white paper)](https://arxiv.org/abs/2505.06484)
+* [CMS.gov OSPO Repository Archival Guide](https://dsacms.github.io/ospo-guide/outbound/archiving-repositories/)
 
 # Contributors
 
@@ -118,9 +153,15 @@ The following people contributed to this guide:
 * Matt Germonprez
 * Elizabeth Barron
 * Tara Tarakiyee
+* Natalia Luzuriaga
+* Isaac Milarsky
+* Sachin Panayil
+* Dinne Kopelevich
+* Remy DeCausemaker
 
 # References
 
 * Miller, C., Jahanshahi, M., Mockus, A., Vasilescu, B., & Kästner, C. (2025). [Understanding the response to open-source dependency abandonment in the npm ecosystem](http://www.cs.cmu.edu/~ckaestne/pdf/icse25_abandonment.pdf). In *Int’l Conf. Software Engineering (ICSE), IEEE/ACM*.
+* [repo-sunsetter GitHub Action](https://github.com/marketplace/actions/repo-sunsetter)
 
 CHAOSS Practitioner Guides are MIT licensed, living documents, and we welcome your feedback and input. You can suggest edits to this document at [https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/sunset.md](https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/sunset.md)
