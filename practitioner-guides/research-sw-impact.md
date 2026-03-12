@@ -26,7 +26,7 @@ Researchers, evaluative teams, and funding agencies who are interested in determ
 
 * [Contributor Absence Factor ](https://chaoss.community/?p=3944)(also referred to as the Lottery Factor)
 
-![Lottery Factor](images/rsi-contributor-absence.png)
+![Lottery Factor](https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/images/rsi-contributor-absence.png)
 
 (from [https://eightknot.osci.io/contributors/contribution_types](https://eightknot.osci.io/contributors/contribution_types))
 
@@ -36,7 +36,7 @@ For researchers and evaluators, the contributor absence factor is helpful in und
 
 * [New Contributors](https://chaoss.community/?p=3613)
 
-![Contributor Growth](images/rsi-contrib-growth.png)
+![Contributor Growth](https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/images/rsi-contrib-growth.png)
 
 This metric measures the number of new contributors making their first contribution to a project, offering insight into the project's growth and engagement. Tracking new contributors helps in understanding patterns of participation and potential barriers to engagement, providing opportunities for community support, onboarding, and outreach. A steady influx of new contributors may indicate a healthy, inviting project, while declines can be a signal for potential challenges in engagement or accessibility. 
 
@@ -44,7 +44,7 @@ This metric measures the number of new contributors making their first contribut
 
 * [Project Velocity](https://chaoss.community/?p=3572)
 
-![Project Velocity](images/rsi-project-velocity.png)
+![Project Velocity](https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/images/rsi-project-velocity.png)
 
 * The bubble’s area is proportional to the number of authors 
 * The y-axis is the total number of pull requests and issues 
@@ -54,7 +54,7 @@ Project velocity measures the number of issues, the number of pull requests, vol
 
 * [Change Requests](https://chaoss.community/?p=3610)
 
-![Change Requests over time](images/rsi-pr-over-time.png)
+![Change Requests over time](https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/images/rsi-pr-over-time.png)
 
 The Change Requests metric tracks the proposals for modifications to a project's source code that have been submitted for review during a given time frame. Tracking the number of change requests over time provides insight into the overall coding activity within a project. While this metric alone cannot measure the quality of the changes, it gives a good indication of how frequently contributors are engaging with the codebase.
 
