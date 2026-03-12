@@ -1,15 +1,5 @@
 # Practitioner Guide: Research Software Impact
 
-Metrics for community-specific efforts: 
-
-* [Contributor Absence Factor ](https://chaoss.community/?p=3944)
-* [New Contributors](https://chaoss.community/?p=3613)
-
-Metrics for software-specific efforts: 
-
-* [Project Velocity](https://chaoss.community/?p=3572)
-* [Change Requests](https://chaoss.community/?p=3610) 
-
 If you haven’t already read the [Practitioner Guide: Introduction - Things to Think about When Interpreting Metrics](https://chaoss.community/practitioner-guide-introduction/), please pause now and read that guide.
 
 # Audience / Scope
@@ -55,8 +45,6 @@ This metric measures the number of new contributors making their first contribut
 * [Project Velocity](https://chaoss.community/?p=3572)
 
 ![Project Velocity](images/rsi-project-velocity.png)
-
-Figure 2: Project Velocity
 
 * The bubble’s area is proportional to the number of authors 
 * The y-axis is the total number of pull requests and issues 
