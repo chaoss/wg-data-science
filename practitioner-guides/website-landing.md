@@ -16,6 +16,7 @@ These guides will be especially useful for Open Source Program Offices (OSPOs), 
 * [Practitioner Guide: Demonstrating Organizational Value](https://chaoss.community/practitioner-guide-demonstrating-org-value)
 * [Practitioner Guide: Assessing Viability](https://chaoss.community/practitioner-guide-viability)
 * [Practitioner Guide: Research Software Impact](https://chaoss.community/practitioner-guide-research-sw-impact)
+* [Practitioner Guide: Funding Impact Measurement](https://chaoss.community/practitioner-guide-funding-impact)
 
 Short videos about the guides can be found in the [Practitioner Guides Playlist](https://www.youtube.com/playlist?list=PL60k37cxI-HSHV4-rEsWMzExw2y2Oq79Z) in the CHAOSS YouTube channel.
 
