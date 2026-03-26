@@ -120,7 +120,7 @@ When assessing the impacts of open source funding, there may be a tendency to fo
 
 When measuring the impact of funding on open source development, it is crucial to consider the effects across different time horizons. The influence of funding can manifest differently in the **short, medium, and long term**, which is essential for a comprehensive understanding of funding impacts.
 
-1. 1. Short term (&lt;1 year): These are the immediate effects of funding, which may be easier to observe and attribute to the funding received. Short-term impacts might include immediate increases in [development activity](https://chaoss.community/?p=3444), improvements in code quality, or rapid growth in [community size](https://chaoss.community/?p=3484).
+1. Short term (&lt;1 year): These are the immediate effects of funding, which may be easier to observe and attribute to the funding received. Short-term impacts might include immediate increases in [development activity](https://chaoss.community/?p=3444), improvements in code quality, or rapid growth in [community size](https://chaoss.community/?p=3484).
 2. Medium term (1-3 years): Medium-term impacts may reveal how the project adapts and grows with the resources provided. This period might show the development of new features, expansion of the project’s reach, or evolution of the project’s governance structures.
 3. Long term (>3 years): Long-term impacts are the enduring effects of funding that manifest over an extended period, which can be the most challenging to measure and attribute directly to funding.
 
