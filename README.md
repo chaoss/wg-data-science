@@ -62,16 +62,17 @@ See the [CONTRIBUTING.md](CONTRIBUTING.md) for more info.
 
 Current Chairs:
 
-- [Dawn Foster](https://github.com/geekygirldawn)
 - [Cali Dolfi](https://github.com/cdolfi)
 - [Sal Kimmich](https://github.com/Salkimmich)
 
 Previous Chairs:
 - [Chan Voong](https://github.com/voongc)
+- [Dawn Foster](https://github.com/geekygirldawn)
 
 ### Maintainers
 
 - [Ernest Owojori](https://github.com/E-STAT)
+- [Dawn Foster](https://github.com/geekygirldawn)
 
 ### Amazing CHAOSS Project Contributors
 
