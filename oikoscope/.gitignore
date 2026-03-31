@@ -1,0 +1,40 @@
+# Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.venv/
+venv/
+.env
+.env.*
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Outputs (keep repo source-only; regenerate locally)
+outputs/
+**/outputs/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Large / generated data (document fetch in data README if used)
+*.parquet
+*.h5

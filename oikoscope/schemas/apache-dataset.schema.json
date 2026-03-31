@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/chaoss/oikoscope/schemas/apache-dataset.schema.json",
+  "title": "Oikoscope Apache project metadata dataset",
+  "description": "Array of hand-curated public communication and documentation endpoints per Apache project.",
+  "type": "array",
+  "items": { "$ref": "#/$defs/apache_project_record" },
+  "$defs": {
+    "apache_project_record": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "project",
+        "slack_url",
+        "mailing_list",
+        "discord_url",
+        "zulip_url",
+        "forum_url",
+        "blog_url",
+        "docs_url"
+      ],
+      "properties": {
+        "project": {
+          "type": "string",
+          "minLength": 1
+        },
+        "slack_url": { "$ref": "#/$defs/string_or_null" },
+        "mailing_list": { "$ref": "#/$defs/string_or_null" },
+        "discord_url": { "$ref": "#/$defs/string_or_null" },
+        "zulip_url": { "$ref": "#/$defs/string_or_null" },
+        "forum_url": { "$ref": "#/$defs/string_or_null" },
+        "blog_url": { "$ref": "#/$defs/string_or_null" },
+        "docs_url": { "$ref": "#/$defs/string_or_null" }
+      }
+    },
+    "string_or_null": {
+      "type": ["string", "null"]
+    }
+  }
+}

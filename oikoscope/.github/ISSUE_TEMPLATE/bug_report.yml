@@ -1,0 +1,35 @@
+name: Bug report
+description: Report incorrect metadata, broken links, or tooling defects
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ![Oikoscope](https://github.com/chaoss/wg-data-science/raw/main/oikoscope/assets/oikoscope-logo.png)
+
+        Thanks for taking the time to report a problem.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What went wrong?
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce (if applicable)
+      description: Commands, file path, or URL.
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+  - type: input
+    id: context
+    attributes:
+      label: Affected project or file (optional)
+      placeholder: e.g. Apache Arrow, data/raw/apache.json
