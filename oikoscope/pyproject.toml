@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "oikoscope"
+version = "0.1.0"
+description = "Structured, CHAOSS-aligned foundation and project health metadata tooling"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+  { name = "CHAOSS Data Science Working Group" },
+]
+dependencies = [
+  "jsonschema>=4.22.0",
+]
+
+[project.scripts]
+oikoscope-validate = "oikoscope.cli:main"
+
+[project.urls]
+Homepage = "https://chaoss.community/inside-the-chaoss-data-science-working-group/"
+# Canonical source today: monorepo subtree. After `git subtree split` to github.com/chaoss/oikoscope, point these at the new remote.
+Repository = "https://github.com/chaoss/wg-data-science"
+Documentation = "https://github.com/chaoss/wg-data-science/tree/main/oikoscope#readme"
+"Bug Tracker" = "https://github.com/chaoss/wg-data-science/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
