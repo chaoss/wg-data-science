@@ -1,0 +1,52 @@
+[
+  {
+    "project": "apache-dolphinscheduler",
+    "slack_url": "https://dolphinscheduler.apache.org/community",
+    "mailing_list": "mailto:dev@dolphinscheduler.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": "https://dolphinscheduler.apache.org/en-us/blog/",
+    "docs_url": "https://dolphinscheduler.apache.org/en-us/docs/latest/"
+  },
+  {
+    "project": "apache-pinot",
+    "slack_url": "https://communityinviter.com/apps/apache-pinot/apache-pinot",
+    "mailing_list": "mailto:users@pinot.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": "https://pinot.apache.org/blog/",
+    "docs_url": "https://docs.pinot.apache.org/"
+  },
+  {
+    "project": "apache-kylin",
+    "slack_url": "https://kylin.apache.org/community/",
+    "mailing_list": "mailto:dev@kylin.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": "https://kylin.apache.org/blog/",
+    "docs_url": "https://kylin.apache.org/docs/"
+  },
+  {
+    "project": "apache-shardingsphere",
+    "slack_url": "https://shardingsphere.apache.org/community/en/",
+    "mailing_list": "mailto:dev@shardingsphere.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": "https://shardingsphere.apache.org/blog/",
+    "docs_url": "https://shardingsphere.apache.org/document/current/en/"
+  },
+  {
+    "project": "apache-seata",
+    "slack_url": "https://seata.apache.org/community/",
+    "mailing_list": "mailto:dev@seata.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": "https://seata.apache.org/blog/",
+    "docs_url": "https://seata.apache.org/docs/"
+  }
+]
