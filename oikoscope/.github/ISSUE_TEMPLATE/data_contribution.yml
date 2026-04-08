@@ -1,0 +1,36 @@
+name: Data contribution
+description: Propose or track foundation metadata improvements
+labels: ["data"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ![Oikoscope](https://github.com/chaoss/wg-data-science/raw/main/oikoscope/assets/oikoscope-logo.png)
+
+        For Apache rows, coordinate via the [tracker spreadsheet](https://docs.google.com/spreadsheets/d/1rWW773oOudiM5xpfroIjEiQazOr42YNCfGWISnR0Tk4/edit?usp=sharing) before opening a PR when possible.
+  - type: textarea
+    id: foundation
+    attributes:
+      label: Foundation / dataset
+      placeholder: Apache, CNCF, Eclipse, ...
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What are you adding or correcting?
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Public sources
+      description: Links you used to verify fields (required for merged metadata).
+    validations:
+      required: true
+  - type: checkboxes
+    id: tracker
+    attributes:
+      label: Tracker
+      options:
+        - label: I updated the spreadsheet status (In Progress / Done) as appropriate

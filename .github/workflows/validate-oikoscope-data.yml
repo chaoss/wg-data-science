@@ -1,0 +1,30 @@
+name: Validate Oikoscope data
+
+on:
+  pull_request:
+    paths:
+      - "oikoscope/**"
+      - ".github/workflows/validate-oikoscope-data.yml"
+  push:
+    branches: [main]
+    paths:
+      - "oikoscope/**"
+      - ".github/workflows/validate-oikoscope-data.yml"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: oikoscope
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install package and validate data
+        run: |
+          pip install -e .
+          oikoscope-validate

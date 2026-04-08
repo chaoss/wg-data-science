@@ -1,13 +1,19 @@
 # Foundation Stats Project: Mapping Collaboration Pathways in Open Source Communities
 ## A CHAOSS-Aligned, Reproducible Assessment of Community Health
 
+<p align="center">
+  <a href="../../oikoscope/"><img src="../../oikoscope/assets/oikoscope-logo.png" alt="Oikoscope" width="380"></a>
+</p>
+
+> **Canonical home:** Active development for the **Oikoscope** open source project now lives in the top-level [`oikoscope/`](../../oikoscope/) directory in this repository (structured for splitting into its own GitHub repo). Prefer opening changes there; this folder remains for historical pointers and gradual migration.
+
 This project is part of the [CHAOSS Data Science Working Group](https://chaoss.community/inside-the-chaoss-data-science-working-group/) initiative to develop rigorous, evidence-based statistical frameworks for understanding collaboration patterns across major open source foundations.
 
 ## IMPORTANT INFO:
-We are currently focused on manualy collecting the Apache metadata from individual websites. If you'd like to contribute to this effort, kindly use [this tracker](https://docs.google.com/spreadsheets/d/1rWW773oOudiM5xpfroIjEiQazOr42YNCfGWISnR0Tk4/edit?usp=sharing) to know what project you can document:
+We are currently focused on manually collecting the Apache metadata from individual websites. If you'd like to contribute to this effort, kindly use [this tracker](https://docs.google.com/spreadsheets/d/1rWW773oOudiM5xpfroIjEiQazOr42YNCfGWISnR0Tk4/edit?usp=sharing) to know what project you can document:
 -  "In Progress" means a contributor has started working on the project but yet to send a PR or PR is yet to be merged.
-- "Done" implies that the metadata for that Apache project has been done and merged to /data/raw/apache.json
-- Empty or "To Do" means noone is currently working on the project. If you decide to work on it, please change the status to "In Progress" to avoid duplicating efforts from contributors. 
+- "Done" implies that the metadata for that Apache project has been done and merged to [`oikoscope/data/raw/apache.json`](../../oikoscope/data/raw/apache.json)
+- Empty or "To Do" means no one is currently working on the project. If you decide to work on it, please change the status to "In Progress" to avoid duplicating efforts from contributors.
 
 ## 🎯 Project Overview
 
