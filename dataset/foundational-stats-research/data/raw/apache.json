@@ -505,7 +505,7 @@
 [
     {
       "project": "Apache Asterixdb",
-      "slack_url": null,
+      "slack_url": "https://the-asf.slack.com/",
       "mailing_list": "https://asterixdb.apache.org/community.html#mailing-lists",
       "discord_url": null,
       "zulip_url": null,
@@ -514,28 +514,38 @@
       "docs_url": "https://asterixdb.apache.org/docs/0.9.9/index.html"
     },
     {
+      "project": "Apache Artemis",
+      "slack_url": "https://the-asf.slack.com/",
+      "mailing_list": "https://artemis.apache.org/contact",
+      "discord_url": null,
+      "zulip_url": null,
+      "forum_url": null,
+      "blog_url": null,
+      "docs_url": "https://artemis.apache.org/components/artemis/documentation/"
+    },
+    {
       "project": "Apache Tika",
-      "slack_url": "",
+      "slack_url": "https://the-asf.slack.com/",
       "mailing_list": "https://tika.apache.org/mail-lists.html",
       "discord_url": null,
       "zulip_url": null,
       "forum_url": null,
       "blog_url": null,
-      "docs_url": ""
+      "docs_url": "https://cwiki.apache.org/confluence/display/TIKA/TikaResources"
     },
     {
       "project": "Apache Continuum",
-      "slack_url": "",
+      "slack_url": "https://the-asf.slack.com/",
       "mailing_list": "",
       "discord_url": null,
       "zulip_url": null,
       "forum_url": null,
       "blog_url": null,
       "docs_url": "https://web.archive.org/web/20240416131710/https://continuum.apache.org/docs/latest/"
-    },
+    },f
     {
       "project": "Apache Crunch",
-      "slack_url": "",
+      "slack_url": "https://the-asf.slack.com/",
       "mailing_list": "",
       "discord_url": null,
       "zulip_url": null,
@@ -545,7 +555,7 @@
     },
     {
       "project": "Apache Deltacloud",
-      "slack_url": "",
+      "slack_url": "https://the-asf.slack.com/",
       "mailing_list": "",
       "discord_url": null,
       "zulip_url": null,
@@ -555,7 +565,7 @@
     },
     {
       "project": "Apache DeviceMap",
-      "slack_url": "",
+      "slack_url": "https://the-asf.slack.com/",
       "mailing_list": "",
       "discord_url": null,
       "zulip_url": null,
@@ -565,7 +575,7 @@
     },
     {
       "project": "Apache Direct",
-      "slack_url": null,
+      "slack_url": "https://the-asf.slack.com/",
       "mailing_list": "https://drill.apache.org/community/mailing-list/",
       "discord_url": null,
       "zulip_url": null,
@@ -575,7 +585,7 @@
     },
     {
       "project": "Apache Jakarta ECS",
-      "slack_url": null,
+      "slack_url": "https://the-asf.slack.com/",
       "mailing_list": "",
       "discord_url": null,
       "zulip_url": null,
@@ -626,7 +636,7 @@
   {
     "project": "Apache Forrest",
     "slack_url": "https://the-asf.slack.com/",
-    "mailing_list": "https://forrest.apache.org/mail-lists.html",
+    "mailing_list": "https://web.archive.org/web/20150910014234/https://www.mail-archive.com/user@forrest.apache.org/",
     "discord_url": null,
     "zulip_url": null,
     "forum_url": null,
@@ -641,7 +651,7 @@
     "zulip_url": null,
     "forum_url": null,
     "blog_url": null,
-    "docs_url": "https://giraph.apache.org"
+    "docs_url": "https://web.archive.org/web/20160612200616/https://giraph.apache.org/apidocs/"
   },
   {
     "project": "Apache Gora",
@@ -651,7 +661,7 @@
     "zulip_url": null,
     "forum_url": null,
     "blog_url": null,
-    "docs_url": null
+    "docs_url": "https://gora.apache.org/current/index.html"
   },
   {
     "project": "Apache Griffin",
@@ -661,7 +671,7 @@
     "zulip_url": null,
     "forum_url": null,
     "blog_url": null,
-    "docs_url": "https://griffin.apache.org/docs/community.html"
+    "docs_url": "https://griffin.apache.org/"
   },
   {
     "project": "Apache Hama",
@@ -681,7 +691,7 @@
     "zulip_url": null,
     "forum_url": null,
     "blog_url": null,
-    "docs_url": "https://harmony.apache.org"
+    "docs_url": "https://web.archive.org/web/20070128233351/http://harmony.apache.org/documentation/documentation.html"
   },
   {
     "project": "Apache Hivemind",
@@ -691,7 +701,7 @@
     "zulip_url": null,
     "forum_url": null,
     "blog_url": null,
-    "docs_url": "https://hivemind.apache.org/mail-lists.html"
+    "docs_url": "https://web.archive.org/web/20070102032312/http://hivemind.apache.org:80/hivedocs/index.html"
   },
   {
     "project": "Apache Jakarta Cactus",
