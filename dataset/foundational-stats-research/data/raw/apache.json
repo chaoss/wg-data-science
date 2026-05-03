@@ -536,7 +536,7 @@
     {
       "project": "Apache Continuum",
       "slack_url": "https://the-asf.slack.com/",
-      "mailing_list": "",
+      "mailing_list": null,
       "discord_url": null,
       "zulip_url": null,
       "forum_url": null,
@@ -546,7 +546,7 @@
     {
       "project": "Apache Crunch",
       "slack_url": "https://the-asf.slack.com/",
-      "mailing_list": "",
+      "mailing_list": null,
       "discord_url": null,
       "zulip_url": null,
       "forum_url": null,
@@ -556,7 +556,7 @@
     {
       "project": "Apache Deltacloud",
       "slack_url": "https://the-asf.slack.com/",
-      "mailing_list": "",
+      "mailing_list": null,
       "discord_url": null,
       "zulip_url": null,
       "forum_url": null,
@@ -586,7 +586,7 @@
     {
       "project": "Apache Jakarta ECS",
       "slack_url": "https://the-asf.slack.com/",
-      "mailing_list": "",
+      "mailing_list": null,
       "discord_url": null,
       "zulip_url": null,
       "forum_url": null,
