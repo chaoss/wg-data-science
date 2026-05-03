@@ -566,7 +566,7 @@
     {
       "project": "Apache DeviceMap",
       "slack_url": "https://the-asf.slack.com/",
-      "mailing_list": "",
+      "mailing_list": null,
       "discord_url": null,
       "zulip_url": null,
       "forum_url": null,
@@ -576,7 +576,7 @@
     {
       "project": "Apache Direct",
       "slack_url": "https://the-asf.slack.com/",
-      "mailing_list": "https://drill.apache.org/community/mailing-list/",
+      "mailing_list": null,
       "discord_url": null,
       "zulip_url": null,
       "forum_url": null,
