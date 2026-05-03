@@ -502,3 +502,215 @@
     "docs_url": "https://seata.apache.org/docs/"
   }
 ]
+[
+    {
+      "project": "Apache Asterixdb",
+      "slack_url": "https://the-asf.slack.com/",
+      "mailing_list": "https://asterixdb.apache.org/community.html#mailing-lists",
+      "discord_url": null,
+      "zulip_url": null,
+      "forum_url": null,
+      "blog_url": null,
+      "docs_url": "https://asterixdb.apache.org/docs/0.9.9/index.html"
+    },
+    {
+      "project": "Apache Artemis",
+      "slack_url": "https://the-asf.slack.com/",
+      "mailing_list": "https://artemis.apache.org/contact",
+      "discord_url": null,
+      "zulip_url": null,
+      "forum_url": null,
+      "blog_url": null,
+      "docs_url": "https://artemis.apache.org/components/artemis/documentation/"
+    },
+    {
+      "project": "Apache Tika",
+      "slack_url": "https://the-asf.slack.com/",
+      "mailing_list": "https://tika.apache.org/mail-lists.html",
+      "discord_url": null,
+      "zulip_url": null,
+      "forum_url": null,
+      "blog_url": null,
+      "docs_url": "https://cwiki.apache.org/confluence/display/TIKA/TikaResources"
+    },
+    {
+      "project": "Apache Continuum",
+      "slack_url": "https://the-asf.slack.com/",
+      "mailing_list": null,
+      "discord_url": null,
+      "zulip_url": null,
+      "forum_url": null,
+      "blog_url": null,
+      "docs_url": "https://web.archive.org/web/20240416131710/https://continuum.apache.org/docs/latest/"
+    },f
+    {
+      "project": "Apache Crunch",
+      "slack_url": "https://the-asf.slack.com/",
+      "mailing_list": null,
+      "discord_url": null,
+      "zulip_url": null,
+      "forum_url": null,
+      "blog_url": null,
+      "docs_url": "https://crunch.apache.org/apidocs/0.9.0/index-all.html"
+    },
+    {
+      "project": "Apache Deltacloud",
+      "slack_url": "https://the-asf.slack.com/",
+      "mailing_list": null,
+      "discord_url": null,
+      "zulip_url": null,
+      "forum_url": null,
+      "blog_url": null,
+      "docs_url": "https://deltacloud.apache.org/usage.html"
+    },
+    {
+      "project": "Apache DeviceMap",
+      "slack_url": "https://the-asf.slack.com/",
+      "mailing_list": null,
+      "discord_url": null,
+      "zulip_url": null,
+      "forum_url": null,
+      "blog_url": null,
+      "docs_url": "https://devicemap.apache.org/docs/"
+    },
+    {
+      "project": "Apache Direct",
+      "slack_url": "https://the-asf.slack.com/",
+      "mailing_list": null,
+      "discord_url": null,
+      "zulip_url": null,
+      "forum_url": null,
+      "blog_url": null,
+      "docs_url": "https://directmemory.apache.org/project-info.html"
+    },
+    {
+      "project": "Apache Jakarta ECS",
+      "slack_url": "https://the-asf.slack.com/",
+      "mailing_list": null,
+      "discord_url": null,
+      "zulip_url": null,
+      "forum_url": null,
+      "blog_url": null,
+      "docs_url": "https://jakarta.apache.org/ecs/"
+    },
+  {
+    "project": "Apache ESME",
+    "slack_url": "https://the-asf.slack.com/",
+    "mailing_list": "https://esme.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": "https://esme.apache.org"
+  },
+  {
+    "project": "Apache Etch",
+    "slack_url": "https://the-asf.slack.com/",
+    "mailing_list": "https://etch.apache.org",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": "https://etch.apache.org/documentation.html"
+  },
+  {
+    "project": "Apache Excalibur",
+    "slack_url": "https://the-asf.slack.com/",
+    "mailing_list": "https://attic.apache.org/projects/excalibur.html",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": "https://attic.apache.org/projects/excalibur.html"
+  },
+  {
+    "project": "Apache Falcon",
+    "slack_url": "https://the-asf.slack.com/",
+    "mailing_list": "https://attic.apache.org/projects/falcon.html",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": "http://falcon.apache.org"
+  },
+  {
+    "project": "Apache Forrest",
+    "slack_url": "https://the-asf.slack.com/",
+    "mailing_list": "https://web.archive.org/web/20150910014234/https://www.mail-archive.com/user@forrest.apache.org/",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": "https://forrest.apache.org/guidelines.html"
+  },
+  {
+    "project": "Apache Giraph",
+    "slack_url": "https://the-asf.slack.com/",
+    "mailing_list": "https://giraph.apache.org/mail-lists.html",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": "https://web.archive.org/web/20160612200616/https://giraph.apache.org/apidocs/"
+  },
+  {
+    "project": "Apache Gora",
+    "slack_url": "https://the-asf.slack.com/",
+    "mailing_list": null,
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": "https://gora.apache.org/current/index.html"
+  },
+  {
+    "project": "Apache Griffin",
+    "slack_url": "https://the-asf.slack.com/",
+    "mailing_list": "https://griffin.apache.org/docs/community.html",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": "https://griffin.apache.org/"
+  },
+  {
+    "project": "Apache Hama",
+    "slack_url": "https://the-asf.slack.com/",
+    "mailing_list": "https://hama.apache.org/mail-lists.html",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": "https://hama.apache.org"
+  },
+  {
+    "project": "Apache Harmony",
+    "slack_url": "https://the-asf.slack.com/",
+    "mailing_list": "https://harmony.apache.org/mailing.html",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": "https://web.archive.org/web/20070128233351/http://harmony.apache.org/documentation/documentation.html"
+  },
+  {
+    "project": "Apache Hivemind",
+    "slack_url": "https://the-asf.slack.com/",
+    "mailing_list": "https://hivemind.apache.org/mail-lists.html",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": "https://web.archive.org/web/20070102032312/http://hivemind.apache.org:80/hivedocs/index.html"
+  },
+  {
+    "project": "Apache Jakarta Cactus",
+    "slack_url": "https://the-asf.slack.com/",
+    "mailing_list": "https://jakarta.apache.org/cactus/mail-lists.html",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": "https://jakarta.apache.org/cactus/"
+  }
+]
