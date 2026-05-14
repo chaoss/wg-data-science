@@ -55,6 +55,10 @@ Additional Metrics:
 * [Criticality Score](https://github.com/ossf/criticality_score) (an OpenSSF tool, not a CHAOSS metric)
 * Package Manager usage metrics
 
+Additionally, don’t overlook the contents of the repositories themselves. Sometimes organizations maintain blank repositories and repositories only containing a README without even realizing it. If there are no plans for active development in the future, these empty repositories should be considered for archival. You may consider deleting these repositories, however keeping a record of prospective repositories still has value since it doesn’t cost anything, shows decision-making, and preserves project history.
+
+To help surface these overlooked repositories, the GitHub OSPO created the [empty-repos](https://github.com/github/empty-repos) GitHub Action. This action scans your organization and identifies repositories that are empty or only contain a README, bringing them to light before they go unnoticed.
+
 # Step 4: Make the Change
 
 After you have completed your diagnosis and have decided to sunset a project, there are several things you can do to ensure that you are sunsetting the project in a responsible manner. Preparing the repository for archival by following the tasks below helps reduce risk, simplifies maintenance, and leaves the repository in a clear final state before sunsetting.
