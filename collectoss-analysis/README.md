@@ -8,11 +8,9 @@ To get a local instance of CollectOSS running on your local machine, follow thes
 Overview of notebook directories: 
 
     ├── 8knot         <- Visualization development for 8Knot
-    ├── density_metrics        <- EDA 
-    ├── graph_analysis        <- EDA for discovering important open source projects
-    ├── old        <- archieve notebooks from beginning of projects
-    ├── performance        <- EDA 
-    ├── survival_analysis           <- EDA notebooks for dash app
+    ├── attic_notebooks        <- prior research, no longer maintained
+    ├── chaoss_election        <- notebook for chaoss election eligibility 
+    ├── survival_analysis      <- EDA notebooks for dash app
 
 
     Example of config.json file:

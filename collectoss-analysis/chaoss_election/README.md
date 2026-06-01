@@ -1,0 +1,1 @@
+This notebook was used to determine eligibility for election based on contribution to a CHAOSS or CHAOSS affiliated repository. 
