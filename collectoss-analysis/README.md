@@ -1,8 +1,8 @@
-# Augur Notebooks 
+# CollectOSS Notebooks 
 
-This directory holds notebooks designed to connect with an Augur instance. Any notebook created before 2026 was orignially a resource in the oss-aspen/Rappel repository that has now been archieved. 
+This directory holds notebooks designed to connect with an CollectOSS instance. Any notebook created before 2026 was orignially a resource in the oss-aspen/Rappel repository that has now been archieved. 
 
-To get a local instance of Augur running on your local machine, follow these [docs](https://oss-augur.readthedocs.io/en/main/getting-started/using-docker.html). 
+To get a local instance of CollectOSS running on your local machine, follow these [docs](https://docs.collectoss.org/en/latest/). 
 
 
 Overview of notebook directories: 
