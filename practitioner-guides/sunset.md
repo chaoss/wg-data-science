@@ -146,6 +146,7 @@ Unfortunately, even active projects may need to be sunsetted, which can be much 
 * [Allen Friedman on End of Life and End of Support Across the Ecosystem](https://www.youtube.com/watch?v=ZgWwiKLB6hE) (video)
 * [10 Quick tips for making software outlive your job (white paper)](https://arxiv.org/abs/2505.06484)
 * [CMS.gov OSPO Repository Archival Guide](https://dsacms.github.io/ospo-guide/outbound/archiving-repositories/)
+* [Closing Time: a one-day workshop on ending projects](https://third-bit.com/closure/)
 
 # Contributors
 
