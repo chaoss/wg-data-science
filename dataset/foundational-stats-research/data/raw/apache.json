@@ -500,5 +500,10 @@
     "forum_url": null,
     "blog_url": "https://seata.apache.org/blog/",
     "docs_url": "https://seata.apache.org/docs/"
+  },
+  {
+    "project": "Apache Commons Email",
+    ... the five records ...
+    "docs_url": "https://commons.apache.org/proper/commons-geometry/userguide/index.html"
   }
 ]
