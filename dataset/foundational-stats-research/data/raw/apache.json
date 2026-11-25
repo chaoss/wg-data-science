@@ -503,7 +503,52 @@
   },
   {
     "project": "Apache Commons Email",
-    ... the five records ...
-    "docs_url": "https://commons.apache.org/proper/commons-geometry/userguide/index.html"
+    "slack_url": null,
+    "mailing_list": "https://commons.apache.org/mail-lists.html",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": "https://commons.apache.org/proper/commons-email/userguide.html"
+  },
+  {
+    "project": "Apache Commons Exec",
+    "slack_url": null,
+    "mailing_list": "https://commons.apache.org/mail-lists.html",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": "https://commons.apache.org/proper/commons-exec/tutorial.html"
+  },
+  {
+    "project": "Apache Commons FileUpload",
+    "slack_url": null,
+    "mailing_list": "https://commons.apache.org/mail-lists.html",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": "https://commons.apache.org/proper/commons-fileupload/using.html"
+  },
+  {
+    "project": "Apache Commons Functor (Dormant)",
+    "slack_url": null,
+    "mailing_list": "https://commons.apache.org/mail-lists.html",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+    "docs_url": "https://commons.apache.org/dormant/commons-functor/examples.html"
+  },
+  {
+    "project": "Apache Commons Geometry",
+    "slack_url": null,
+    "mailing_list": "https://commons.apache.org/mail-lists.html",
+    "discord_url": null,
+    "zulip_url": null,
+    "forum_url": null,
+    "blog_url": null,
+     "docs_url": "https://commons.apache.org/proper/commons-geometry/userguide/index.html"
   }
 ]
